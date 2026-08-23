@@ -71,6 +71,13 @@
     spendingHotel: $('#spendingHotel'),
     spendingMonths: $('#spendingMonths'),
     chekiScreen: $('#chekiScreen'),
+    chekiNoLivesHint: $('#chekiNoLivesHint'),
+    chekiAddForm: $('#chekiAddForm'),
+    chekiPageLiveSelect: $('#chekiPageLiveSelect'),
+    chekiPageMemberInput: $('#chekiPageMemberInput'),
+    chekiPagePriceInput: $('#chekiPagePriceInput'),
+    chekiPageQtyInput: $('#chekiPageQtyInput'),
+    chekiPageAddBtn: $('#chekiPageAddBtn'),
     chekiGrandTotal: $('#chekiGrandTotal'),
     chekiGrandQty: $('#chekiGrandQty'),
     chekiSummaryList: $('#chekiSummaryList'),
@@ -270,6 +277,24 @@
       `;
       els.spendingMonths.appendChild(card);
     });
+  }
+
+  function renderChekiLiveOptions() {
+    const lives = [...state.lives].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    const prevSelected = els.chekiPageLiveSelect.value;
+    els.chekiPageLiveSelect.innerHTML = '';
+    els.chekiNoLivesHint.hidden = lives.length !== 0;
+    els.chekiAddForm.hidden = lives.length === 0;
+    lives.forEach((live) => {
+      const { m, d, dow } = formatDateLabel(live.date);
+      const opt = document.createElement('option');
+      opt.value = live.id;
+      opt.textContent = `${m}/${d}(${dow}) ${live.group}`;
+      els.chekiPageLiveSelect.appendChild(opt);
+    });
+    if (lives.some((live) => live.id === prevSelected)) {
+      els.chekiPageLiveSelect.value = prevSelected;
+    }
   }
 
   function renderChekiSummaryScreen() {
@@ -876,6 +901,29 @@
     });
   });
 
+  els.chekiPageAddBtn.addEventListener('click', () => {
+    const live = state.lives.find((l) => l.id === els.chekiPageLiveSelect.value);
+    if (!live) return;
+    const price = Number(els.chekiPagePriceInput.value) || 0;
+    const member = els.chekiPageMemberInput.value.trim();
+    const qty = Number(els.chekiPageQtyInput.value) || 1;
+    if (!price) return;
+    if (!live.cheki) live.cheki = [];
+    live.cheki.push({ member, price, qty });
+    saveLives();
+    els.chekiPageMemberInput.value = '';
+    els.chekiPagePriceInput.value = '';
+    els.chekiPageQtyInput.value = '1';
+    renderChekiSummaryScreen();
+  });
+  [els.chekiPageMemberInput, els.chekiPagePriceInput, els.chekiPageQtyInput].forEach((input) => {
+    input.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter') return;
+      e.preventDefault();
+      els.chekiPageAddBtn.click();
+    });
+  });
+
   els.form.addEventListener('submit', (e) => {
     e.preventDefault();
     const id = els.fId.value || uid();
@@ -1115,6 +1163,7 @@
       renderFavManageList();
       renderSpendingSummary();
     } else if (name === 'cheki') {
+      renderChekiLiveOptions();
       renderChekiSummaryScreen();
     }
   }

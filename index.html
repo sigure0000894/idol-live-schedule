@@ -134,6 +134,20 @@
 
   <div class="screen" id="chekiScreen" hidden>
     <section class="settings-section">
+      <h2 class="settings-title">チェキを追加</h2>
+      <p class="settings-hint" id="chekiNoLivesHint" hidden>先にホームからライブを追加してください。</p>
+      <div id="chekiAddForm">
+        <select id="chekiPageLiveSelect" class="cheki-live-select"></select>
+        <div class="cheki-add-row">
+          <input type="text" id="chekiPageMemberInput" placeholder="メンバー名(任意)">
+          <input type="number" id="chekiPagePriceInput" min="0" step="1" inputmode="numeric" placeholder="円">
+          <input type="number" id="chekiPageQtyInput" min="1" step="1" inputmode="numeric" placeholder="枚数" value="1">
+          <button type="button" id="chekiPageAddBtn">追加</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="settings-section">
       <h2 class="settings-title">チェキ集計</h2>
       <div class="spending-total" id="chekiGrandTotal">¥0</div>
       <p class="cheki-grand-qty" id="chekiGrandQty">全0枚</p>
