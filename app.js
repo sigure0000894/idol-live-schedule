@@ -63,6 +63,10 @@
     favManageAddBtn: $('#favManageAddBtn'),
     favManageList: $('#favManageList'),
     favManageEmpty: $('#favManageEmpty'),
+    spendingTotal: $('#spendingTotal'),
+    spendingTicket: $('#spendingTicket'),
+    spendingTransport: $('#spendingTransport'),
+    spendingHotel: $('#spendingHotel'),
     viewToggle: $('#viewToggle'),
     calendarView: $('#calendarView'),
     calendarPrevBtn: $('#calendarPrevBtn'),
@@ -174,6 +178,22 @@
     renderDiscoverFavChips();
     updateDiscoverFavToggle();
     renderFavManageList();
+  }
+
+  function renderSpendingSummary() {
+    const yen = (n) => `¥${n.toLocaleString('ja-JP')}`;
+    let ticket = 0;
+    let transport = 0;
+    let hotel = 0;
+    state.lives.forEach((live) => {
+      ticket += live.ticketPrice || 0;
+      transport += (live.trip && live.trip.fare) || 0;
+      hotel += (live.trip && live.trip.hotelFare) || 0;
+    });
+    els.spendingTotal.textContent = yen(ticket + transport + hotel);
+    els.spendingTicket.textContent = yen(ticket);
+    els.spendingTransport.textContent = yen(transport);
+    els.spendingHotel.textContent = yen(hotel);
   }
 
   function renderFavManageList() {
@@ -916,6 +936,7 @@
       loadDiscoveredEvents();
     } else if (name === 'other') {
       renderFavManageList();
+      renderSpendingSummary();
     }
   }
 

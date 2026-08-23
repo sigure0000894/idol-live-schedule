@@ -965,6 +965,34 @@ html, body {
   margin: 0;
 }
 
+.spending-total {
+  font-size: 36px;
+  font-weight: 900;
+  color: var(--primary);
+  line-height: 1;
+  margin-bottom: 14px;
+}
+
+.spending-breakdown {
+  display: flex;
+  flex-direction: column;
+}
+
+.spending-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 9px 0;
+  border-top: 1px solid var(--border);
+  font-size: 12.5px;
+  color: var(--text-muted);
+}
+
+.spending-row span:last-child {
+  color: var(--text);
+  font-weight: 700;
+}
+
 .settings-link {
   display: inline-block;
   margin-top: 10px;
