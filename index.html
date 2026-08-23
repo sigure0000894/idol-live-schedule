@@ -107,9 +107,13 @@
       <div class="spending-total" id="spendingTotal">¥0</div>
       <div class="spending-breakdown">
         <div class="spending-row"><span>チケット代</span><span id="spendingTicket">¥0</span></div>
+        <div class="spending-row"><span>チェキ代</span><span id="spendingCheki">¥0</span></div>
+        <div class="spending-row"><span>ドリンク代</span><span id="spendingDrink">¥0</span></div>
         <div class="spending-row"><span>交通費</span><span id="spendingTransport">¥0</span></div>
         <div class="spending-row"><span>宿泊費</span><span id="spendingHotel">¥0</span></div>
       </div>
+      <h3 class="spending-months-title">月ごとの内訳</h3>
+      <div class="spending-months" id="spendingMonths"></div>
     </section>
 
     <section class="settings-section">
@@ -225,6 +229,20 @@
           <span>価格(円)</span>
           <input type="number" id="fTicketPrice" min="0" step="1" inputmode="numeric">
         </label>
+      </fieldset>
+
+      <fieldset class="form-section">
+        <legend>会場での出費</legend>
+        <div class="field-row">
+          <label class="field">
+            <span>チェキ代(円)</span>
+            <input type="number" id="fChekiPrice" min="0" step="1" inputmode="numeric" placeholder="例: 2000">
+          </label>
+          <label class="field">
+            <span>ドリンク代(円)</span>
+            <input type="number" id="fDrinkPrice" min="0" step="1" inputmode="numeric" placeholder="例: 600">
+          </label>
+        </div>
       </fieldset>
 
       <fieldset class="form-section">

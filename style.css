@@ -993,6 +993,60 @@ html, body {
   font-weight: 700;
 }
 
+.spending-months-title {
+  margin: 20px 0 10px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+}
+
+.spending-month-card {
+  padding: 12px 0;
+  border-top: 1px solid var(--border);
+}
+
+.spending-month-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 6px;
+}
+
+.spending-month-label {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.spending-month-total {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.spending-month-lines {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+}
+
+.spending-month-line {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.spending-month-line b {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.spending-months-empty {
+  color: var(--text-muted);
+  font-size: 12px;
+  padding: 12px 0;
+  border-top: 1px solid var(--border);
+}
+
 .settings-link {
   display: inline-block;
   margin-top: 10px;

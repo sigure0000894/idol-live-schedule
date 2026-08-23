@@ -65,8 +65,11 @@
     favManageEmpty: $('#favManageEmpty'),
     spendingTotal: $('#spendingTotal'),
     spendingTicket: $('#spendingTicket'),
+    spendingCheki: $('#spendingCheki'),
+    spendingDrink: $('#spendingDrink'),
     spendingTransport: $('#spendingTransport'),
     spendingHotel: $('#spendingHotel'),
+    spendingMonths: $('#spendingMonths'),
     viewToggle: $('#viewToggle'),
     calendarView: $('#calendarView'),
     calendarPrevBtn: $('#calendarPrevBtn'),
@@ -78,6 +81,8 @@
     fTicketNo: $('#fTicketNo'),
     fTicketSeller: $('#fTicketSeller'),
     fTicketPrice: $('#fTicketPrice'),
+    fChekiPrice: $('#fChekiPrice'),
+    fDrinkPrice: $('#fDrinkPrice'),
     fTripFrom: $('#fTripFrom'),
     fTripTo: $('#fTripTo'),
     fTripDep: $('#fTripDep'),
@@ -180,20 +185,72 @@
     renderFavManageList();
   }
 
+  function liveSpendingByCategory(live) {
+    return {
+      ticket: live.ticketPrice || 0,
+      cheki: live.chekiPrice || 0,
+      drink: live.drinkPrice || 0,
+      transport: (live.trip && live.trip.fare) || 0,
+      hotel: (live.trip && live.trip.hotelFare) || 0,
+    };
+  }
+
   function renderSpendingSummary() {
     const yen = (n) => `¥${n.toLocaleString('ja-JP')}`;
-    let ticket = 0;
-    let transport = 0;
-    let hotel = 0;
+    const totals = { ticket: 0, cheki: 0, drink: 0, transport: 0, hotel: 0 };
+    const byMonth = {};
+
     state.lives.forEach((live) => {
-      ticket += live.ticketPrice || 0;
-      transport += (live.trip && live.trip.fare) || 0;
-      hotel += (live.trip && live.trip.hotelFare) || 0;
+      const cat = liveSpendingByCategory(live);
+      Object.keys(totals).forEach((k) => { totals[k] += cat[k]; });
+
+      const monthKey = (live.date || '').slice(0, 7);
+      if (!monthKey) return;
+      if (!byMonth[monthKey]) {
+        byMonth[monthKey] = { ticket: 0, cheki: 0, drink: 0, transport: 0, hotel: 0 };
+      }
+      Object.keys(cat).forEach((k) => { byMonth[monthKey][k] += cat[k]; });
     });
-    els.spendingTotal.textContent = yen(ticket + transport + hotel);
-    els.spendingTicket.textContent = yen(ticket);
-    els.spendingTransport.textContent = yen(transport);
-    els.spendingHotel.textContent = yen(hotel);
+
+    const grandTotal = Object.values(totals).reduce((a, b) => a + b, 0);
+    els.spendingTotal.textContent = yen(grandTotal);
+    els.spendingTicket.textContent = yen(totals.ticket);
+    els.spendingCheki.textContent = yen(totals.cheki);
+    els.spendingDrink.textContent = yen(totals.drink);
+    els.spendingTransport.textContent = yen(totals.transport);
+    els.spendingHotel.textContent = yen(totals.hotel);
+
+    const monthKeys = Object.keys(byMonth).sort().reverse();
+    els.spendingMonths.innerHTML = '';
+    if (monthKeys.length === 0) {
+      const empty = document.createElement('p');
+      empty.className = 'spending-months-empty';
+      empty.textContent = 'まだ記録がありません。';
+      els.spendingMonths.appendChild(empty);
+      return;
+    }
+
+    const LABELS = { ticket: 'チケット', cheki: 'チェキ', drink: 'ドリンク', transport: '交通費', hotel: '宿泊費' };
+    monthKeys.forEach((key) => {
+      const [y, m] = key.split('-');
+      const cat = byMonth[key];
+      const monthTotal = Object.values(cat).reduce((a, b) => a + b, 0);
+
+      const card = document.createElement('div');
+      card.className = 'spending-month-card';
+      const lines = Object.keys(LABELS)
+        .filter((k) => cat[k] > 0)
+        .map((k) => `<span class="spending-month-line">${LABELS[k]} <b>${yen(cat[k])}</b></span>`)
+        .join('');
+      card.innerHTML = `
+        <div class="spending-month-head">
+          <span class="spending-month-label">${y}年${Number(m)}月</span>
+          <span class="spending-month-total">${yen(monthTotal)}</span>
+        </div>
+        <div class="spending-month-lines">${lines}</div>
+      `;
+      els.spendingMonths.appendChild(card);
+    });
   }
 
   function renderFavManageList() {
@@ -654,6 +711,8 @@
       els.fTicketNo.value = live.ticketNo || '';
       els.fTicketSeller.value = live.ticketSeller || '';
       els.fTicketPrice.value = live.ticketPrice || '';
+      els.fChekiPrice.value = live.chekiPrice || '';
+      els.fDrinkPrice.value = live.drinkPrice || '';
       const trip = live.trip || {};
       els.fTripFrom.value = trip.from || '';
       els.fTripTo.value = trip.to || '';
@@ -718,6 +777,8 @@
       ticketNo: els.fTicketNo.value.trim(),
       ticketSeller: els.fTicketSeller.value.trim(),
       ticketPrice: Number(els.fTicketPrice.value) || 0,
+      chekiPrice: Number(els.fChekiPrice.value) || 0,
+      drinkPrice: Number(els.fDrinkPrice.value) || 0,
       trip: {
         from: els.fTripFrom.value.trim(),
         to: els.fTripTo.value.trim(),
