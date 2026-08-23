@@ -18,6 +18,8 @@
 
 <div class="app">
 
+  <datalist id="chekiMemberDatalist"></datalist>
+
   <header class="topbar">
     <h1 class="logo">推しスケ</h1>
     <div class="topbar-actions">
@@ -134,12 +136,22 @@
 
   <div class="screen" id="chekiScreen" hidden>
     <section class="settings-section">
+      <h2 class="settings-title">メンバー登録</h2>
+      <div class="fav-manage-row">
+        <input type="text" id="chekiMemberManageInput" placeholder="メンバー名を入力して追加">
+        <button type="button" class="btn-primary" id="chekiMemberManageAddBtn">追加</button>
+      </div>
+      <div class="fav-manage-list" id="chekiMemberManageList"></div>
+      <p class="settings-hint" id="chekiMemberManageEmpty">まだメンバーが登録されていません。</p>
+    </section>
+
+    <section class="settings-section">
       <h2 class="settings-title">チェキを追加</h2>
       <p class="settings-hint" id="chekiNoLivesHint" hidden>先にホームからライブを追加してください。</p>
       <div id="chekiAddForm">
         <select id="chekiPageLiveSelect" class="cheki-live-select"></select>
         <div class="cheki-add-row">
-          <input type="text" id="chekiPageMemberInput" placeholder="メンバー名(任意)">
+          <input type="text" id="chekiPageMemberInput" list="chekiMemberDatalist" placeholder="メンバー名(任意)">
           <input type="number" id="chekiPagePriceInput" min="0" step="1" inputmode="numeric" placeholder="円">
           <input type="number" id="chekiPageQtyInput" min="1" step="1" inputmode="numeric" placeholder="枚数" value="1">
           <label class="cheki-photo-btn" for="chekiPagePhotoInput" aria-label="写真を選ぶ">📷</label>
@@ -169,6 +181,12 @@
       </div>
       <div class="calendar-grid" id="chekiCalendarGrid"></div>
       <div class="calendar-day-detail" id="chekiCalendarDayDetail"></div>
+    </section>
+
+    <section class="settings-section">
+      <h2 class="settings-title">メンバー別集計</h2>
+      <div class="spending-breakdown" id="chekiMemberSummaryList"></div>
+      <p class="settings-hint" id="chekiMemberSummaryEmpty">まだチェキの記録がありません。</p>
     </section>
 
     <section class="settings-section">
@@ -300,7 +318,7 @@
         <legend>チェキ</legend>
         <div class="pack-list" id="chekiList"></div>
         <div class="cheki-add-row">
-          <input type="text" id="chekiMemberInput" placeholder="メンバー名(任意)">
+          <input type="text" id="chekiMemberInput" list="chekiMemberDatalist" placeholder="メンバー名(任意)">
           <input type="number" id="chekiPriceInput" min="0" step="1" inputmode="numeric" placeholder="円">
           <input type="number" id="chekiQtyInput" min="1" step="1" inputmode="numeric" placeholder="枚数" value="1">
           <label class="cheki-photo-btn" for="chekiPhotoInput" aria-label="写真を選ぶ">📷</label>

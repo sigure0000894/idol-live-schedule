@@ -1272,7 +1272,8 @@ html, body {
   font-size: 12px;
 }
 
-#favManageInput {
+#favManageInput,
+#chekiMemberManageInput {
   flex: 1;
   min-width: 0;
   padding: 8px 0;

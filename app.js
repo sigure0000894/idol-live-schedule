@@ -4,6 +4,7 @@
   const STORAGE_KEY = 'oshisuke_lives_v1';
   const GROUP_COLOR_KEY = 'oshisuke_group_colors_v1';
   const FAVORITE_GROUPS_KEY = 'oshisuke_favorite_groups_v1';
+  const CHEKI_MEMBERS_KEY = 'oshisuke_cheki_members_v1';
   const FAVORITES_FILTER = '__favorites__';
   const COLOR_PALETTE = ['#ff5fa2', '#7c6cf0', '#2fb380', '#e8a53d', '#3ab0d8', '#e0507a', '#8c6cf0', '#4fb0a5'];
   const DOW = ['日', '月', '火', '水', '木', '金', '土'];
@@ -71,6 +72,13 @@
     spendingHotel: $('#spendingHotel'),
     spendingMonths: $('#spendingMonths'),
     chekiScreen: $('#chekiScreen'),
+    chekiMemberDatalist: $('#chekiMemberDatalist'),
+    chekiMemberManageInput: $('#chekiMemberManageInput'),
+    chekiMemberManageAddBtn: $('#chekiMemberManageAddBtn'),
+    chekiMemberManageList: $('#chekiMemberManageList'),
+    chekiMemberManageEmpty: $('#chekiMemberManageEmpty'),
+    chekiMemberSummaryList: $('#chekiMemberSummaryList'),
+    chekiMemberSummaryEmpty: $('#chekiMemberSummaryEmpty'),
     chekiNoLivesHint: $('#chekiNoLivesHint'),
     chekiAddForm: $('#chekiAddForm'),
     chekiPageLiveSelect: $('#chekiPageLiveSelect'),
@@ -141,6 +149,7 @@
     activeGroup: null,
     query: '',
     favoriteGroups: loadFavoriteGroups(),
+    chekiMembers: loadChekiMembers(),
     viewMode: 'list',
     calendarYear: new Date().getFullYear(),
     calendarMonth: new Date().getMonth() + 1,
@@ -324,6 +333,16 @@
   function isFavoriteGroup(name) {
     return state.favoriteGroups.includes(name);
   }
+
+  function loadChekiMembers() {
+    try {
+      const raw = JSON.parse(localStorage.getItem(CHEKI_MEMBERS_KEY));
+      return Array.isArray(raw) ? raw : [];
+    } catch (e) { return []; }
+  }
+  function saveChekiMembers() {
+    localStorage.setItem(CHEKI_MEMBERS_KEY, JSON.stringify(state.chekiMembers));
+  }
   function toggleFavoriteGroup(name) {
     name = (name || '').trim();
     if (!name) return;
@@ -417,6 +436,62 @@
         <div class="spending-month-lines">${lines}</div>
       `;
       els.spendingMonths.appendChild(card);
+    });
+  }
+
+  function renderChekiMemberDatalist() {
+    els.chekiMemberDatalist.innerHTML = '';
+    state.chekiMembers.forEach((name) => {
+      const opt = document.createElement('option');
+      opt.value = name;
+      els.chekiMemberDatalist.appendChild(opt);
+    });
+  }
+
+  function renderChekiMemberManageList() {
+    els.chekiMemberManageList.innerHTML = '';
+    els.chekiMemberManageEmpty.hidden = state.chekiMembers.length !== 0;
+    state.chekiMembers.forEach((name) => {
+      const row = document.createElement('div');
+      row.className = 'fav-manage-item';
+      const label = document.createElement('span');
+      label.textContent = name;
+      const remove = document.createElement('button');
+      remove.type = 'button';
+      remove.className = 'fav-manage-remove';
+      remove.textContent = '×';
+      remove.addEventListener('click', () => {
+        state.chekiMembers = state.chekiMembers.filter((n) => n !== name);
+        saveChekiMembers();
+        renderChekiMemberManageList();
+        renderChekiMemberDatalist();
+      });
+      row.appendChild(label);
+      row.appendChild(remove);
+      els.chekiMemberManageList.appendChild(row);
+    });
+  }
+
+  function renderChekiMemberSummary() {
+    const yen = (n) => `¥${n.toLocaleString('ja-JP')}`;
+    const totals = new Map();
+    state.lives.forEach((live) => {
+      (live.cheki || []).forEach((c) => {
+        const name = (c.member || '').trim() || '(名前なし)';
+        const entry = totals.get(name) || { qty: 0, total: 0 };
+        entry.qty += c.qty || 1;
+        entry.total += chekiItemTotal(c);
+        totals.set(name, entry);
+      });
+    });
+    const rows = [...totals.entries()].sort((a, b) => b[1].qty - a[1].qty);
+    els.chekiMemberSummaryList.innerHTML = '';
+    els.chekiMemberSummaryEmpty.hidden = rows.length !== 0;
+    rows.forEach(([name, { qty, total }]) => {
+      const row = document.createElement('div');
+      row.className = 'spending-row';
+      row.innerHTML = `<span>${escapeHtml(name)}・${qty}枚</span><span>${yen(total)}</span>`;
+      els.chekiMemberSummaryList.appendChild(row);
     });
   }
 
@@ -1183,6 +1258,7 @@
     els.chekiPageQtyInput.value = '1';
     renderChekiCalendar();
     renderChekiSummaryScreen();
+    renderChekiMemberSummary();
   });
   [els.chekiPageMemberInput, els.chekiPagePriceInput, els.chekiPageQtyInput].forEach((input) => {
     input.addEventListener('keydown', (e) => {
@@ -1432,9 +1508,12 @@
       renderFavManageList();
       renderSpendingSummary();
     } else if (name === 'cheki') {
+      renderChekiMemberManageList();
+      renderChekiMemberDatalist();
       renderChekiLiveOptions();
       renderChekiCalendar();
       renderChekiSummaryScreen();
+      renderChekiMemberSummary();
     }
   }
 
@@ -1460,6 +1539,21 @@
     if (e.key !== 'Enter') return;
     e.preventDefault();
     els.favManageAddBtn.click();
+  });
+  els.chekiMemberManageAddBtn.addEventListener('click', () => {
+    const name = els.chekiMemberManageInput.value.trim();
+    if (name && !state.chekiMembers.includes(name)) {
+      state.chekiMembers.push(name);
+      saveChekiMembers();
+    }
+    els.chekiMemberManageInput.value = '';
+    renderChekiMemberManageList();
+    renderChekiMemberDatalist();
+  });
+  els.chekiMemberManageInput.addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter') return;
+    e.preventDefault();
+    els.chekiMemberManageAddBtn.click();
   });
   els.discoverSearchInput.addEventListener('input', () => {
     updateDiscoverFavToggle();
@@ -1487,5 +1581,6 @@
   }
 
   resetListMonthToFirstMatch();
+  renderChekiMemberDatalist();
   render();
 })();
