@@ -70,6 +70,11 @@
     spendingTransport: $('#spendingTransport'),
     spendingHotel: $('#spendingHotel'),
     spendingMonths: $('#spendingMonths'),
+    openChekiScreenBtn: $('#openChekiScreenBtn'),
+    backFromChekiBtn: $('#backFromChekiBtn'),
+    chekiScreen: $('#chekiScreen'),
+    chekiGrandTotal: $('#chekiGrandTotal'),
+    chekiSummaryList: $('#chekiSummaryList'),
     viewToggle: $('#viewToggle'),
     calendarView: $('#calendarView'),
     calendarPrevBtn: $('#calendarPrevBtn'),
@@ -82,7 +87,10 @@
     fTicketSeller: $('#fTicketSeller'),
     fTicketTier: $('#fTicketTier'),
     fTicketPrice: $('#fTicketPrice'),
-    fChekiPrice: $('#fChekiPrice'),
+    chekiList: $('#chekiList'),
+    chekiMemberInput: $('#chekiMemberInput'),
+    chekiPriceInput: $('#chekiPriceInput'),
+    chekiAddBtn: $('#chekiAddBtn'),
     fDrinkPrice: $('#fDrinkPrice'),
     fTripFrom: $('#fTripFrom'),
     fTripTo: $('#fTripTo'),
@@ -124,6 +132,7 @@
   // Packing checklist for whichever live is currently open in the modal -
   // separate from state.lives until the form is actually saved.
   let editingPack = [];
+  let editingCheki = [];
 
   let discoverState = {
     events: null,   // null = not loaded yet
@@ -186,10 +195,15 @@
     renderFavManageList();
   }
 
+  function chekiTotal(live) {
+    return (live.cheki || []).reduce((sum, c) => sum + (c.price || 0), 0)
+      || live.chekiPrice || 0;
+  }
+
   function liveSpendingByCategory(live) {
     return {
       ticket: live.ticketPrice || 0,
-      cheki: live.chekiPrice || 0,
+      cheki: chekiTotal(live),
       drink: live.drinkPrice || 0,
       transport: (live.trip && live.trip.fare) || 0,
       hotel: (live.trip && live.trip.hotelFare) || 0,
@@ -251,6 +265,43 @@
         <div class="spending-month-lines">${lines}</div>
       `;
       els.spendingMonths.appendChild(card);
+    });
+  }
+
+  function renderChekiSummaryScreen() {
+    const yen = (n) => `¥${n.toLocaleString('ja-JP')}`;
+    const lives = state.lives
+      .filter((live) => (live.cheki || []).length > 0)
+      .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+    const grandTotal = lives.reduce((sum, live) => sum + chekiTotal(live), 0);
+    els.chekiGrandTotal.textContent = yen(grandTotal);
+
+    els.chekiSummaryList.innerHTML = '';
+    if (lives.length === 0) {
+      const empty = document.createElement('p');
+      empty.className = 'spending-months-empty';
+      empty.textContent = 'まだチェキの記録がありません。';
+      els.chekiSummaryList.appendChild(empty);
+      return;
+    }
+
+    lives.forEach((live) => {
+      const { m, d, dow } = formatDateLabel(live.date);
+      const total = chekiTotal(live);
+      const card = document.createElement('div');
+      card.className = 'cheki-live-card';
+      const items = (live.cheki || [])
+        .map((c) => `<div class="cheki-live-item"><span>${escapeHtml(c.member || '(名前なし)')}</span><b>${yen(c.price || 0)}</b></div>`)
+        .join('');
+      card.innerHTML = `
+        <div class="cheki-live-head">
+          <span><span class="cheki-live-label">${escapeHtml(live.group)}</span><span class="cheki-live-date">${m}/${d}(${dow})</span></span>
+          <span class="cheki-live-total">${yen(total)}</span>
+        </div>
+        <div class="cheki-live-items">${items}</div>
+      `;
+      els.chekiSummaryList.appendChild(card);
     });
   }
 
@@ -671,6 +722,28 @@
     renderHomeContent();
   });
 
+  function renderChekiEditList() {
+    els.chekiList.innerHTML = '';
+    editingCheki.forEach((item, idx) => {
+      const row = document.createElement('div');
+      row.className = 'pack-item';
+      const label = document.createElement('span');
+      label.className = 'pack-item-label';
+      label.textContent = `${item.member ? item.member + ' ' : ''}¥${(item.price || 0).toLocaleString('ja-JP')}`;
+      const remove = document.createElement('button');
+      remove.type = 'button';
+      remove.className = 'pack-item-remove';
+      remove.textContent = '×';
+      remove.addEventListener('click', () => {
+        editingCheki.splice(idx, 1);
+        renderChekiEditList();
+      });
+      row.appendChild(label);
+      row.appendChild(remove);
+      els.chekiList.appendChild(row);
+    });
+  }
+
   // Modal
   function renderPackList() {
     els.packList.innerHTML = '';
@@ -716,7 +789,9 @@
       els.fTicketSeller.value = live.ticketSeller || '';
       els.fTicketTier.value = live.ticketTier || '';
       els.fTicketPrice.value = live.ticketPrice || '';
-      els.fChekiPrice.value = live.chekiPrice || '';
+      editingCheki = live.cheki
+        ? live.cheki.map((c) => ({ ...c }))
+        : (live.chekiPrice ? [{ member: '', price: live.chekiPrice }] : []);
       els.fDrinkPrice.value = live.drinkPrice || '';
       const trip = live.trip || {};
       els.fTripFrom.value = trip.from || '';
@@ -736,9 +811,11 @@
       els.fStatus.value = 'interested';
       els.fTicketState.value = 0;
       editingPack = [];
+      editingCheki = [];
       els.deleteBtn.hidden = true;
     }
     renderPackList();
+    renderChekiEditList();
     updateGroupDatalist();
     els.modalOverlay.hidden = false;
   }
@@ -766,6 +843,23 @@
     els.packAddBtn.click();
   });
 
+  els.chekiAddBtn.addEventListener('click', () => {
+    const price = Number(els.chekiPriceInput.value) || 0;
+    const member = els.chekiMemberInput.value.trim();
+    if (!price) return;
+    editingCheki.push({ member, price });
+    els.chekiMemberInput.value = '';
+    els.chekiPriceInput.value = '';
+    renderChekiEditList();
+  });
+  [els.chekiMemberInput, els.chekiPriceInput].forEach((input) => {
+    input.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter') return;
+      e.preventDefault();
+      els.chekiAddBtn.click();
+    });
+  });
+
   els.form.addEventListener('submit', (e) => {
     e.preventDefault();
     const id = els.fId.value || uid();
@@ -783,7 +877,7 @@
       ticketSeller: els.fTicketSeller.value.trim(),
       ticketTier: els.fTicketTier.value.trim(),
       ticketPrice: Number(els.fTicketPrice.value) || 0,
-      chekiPrice: Number(els.fChekiPrice.value) || 0,
+      cheki: editingCheki.map((c) => ({ ...c })),
       drinkPrice: Number(els.fDrinkPrice.value) || 0,
       trip: {
         from: els.fTripFrom.value.trim(),
@@ -988,7 +1082,7 @@
     });
   }
 
-  const SCREENS = { home: els.homeScreen, search: els.searchScreen, other: els.otherScreen };
+  const SCREENS = { home: els.homeScreen, search: els.searchScreen, other: els.otherScreen, cheki: els.chekiScreen };
 
   function switchScreen(name) {
     Object.entries(SCREENS).forEach(([key, el]) => { el.hidden = key !== name; });
@@ -1004,6 +1098,8 @@
     } else if (name === 'other') {
       renderFavManageList();
       renderSpendingSummary();
+    } else if (name === 'cheki') {
+      renderChekiSummaryScreen();
     }
   }
 
@@ -1013,6 +1109,9 @@
     opt.textContent = pref;
     els.discoverPrefSelect.appendChild(opt);
   });
+
+  els.openChekiScreenBtn.addEventListener('click', () => switchScreen('cheki'));
+  els.backFromChekiBtn.addEventListener('click', () => switchScreen('other'));
 
   els.bottomNav.addEventListener('click', (e) => {
     const btn = e.target.closest('.bottombar-btn');
