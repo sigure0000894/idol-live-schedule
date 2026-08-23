@@ -35,8 +35,13 @@ self.addEventListener('fetch', (event) => {
   // cache exists only as an offline fallback, not as a first responder -
   // stale-while-revalidate (serve cached, update in background) meant a
   // push could take two loads to actually show up.
+  //
+  // `cache: 'no-store'` bypasses the browser's own HTTP cache too - GitHub
+  // Pages sends `Cache-Control: max-age=600`, and a plain fetch() honors
+  // that even inside a service worker, so a deploy could otherwise still
+  // sit stale on-device for up to 10 minutes after this handler runs.
   event.respondWith(
-    fetch(event.request)
+    fetch(event.request, { cache: 'no-store' })
       .then((response) => {
         if (response.ok) {
           const clone = response.clone();
