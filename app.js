@@ -77,6 +77,10 @@
     chekiPageMemberInput: $('#chekiPageMemberInput'),
     chekiPagePriceInput: $('#chekiPagePriceInput'),
     chekiPageQtyInput: $('#chekiPageQtyInput'),
+    chekiPagePhotoInput: $('#chekiPagePhotoInput'),
+    chekiPagePhotoPreview: $('#chekiPagePhotoPreview'),
+    chekiPagePhotoPreviewImg: $('#chekiPagePhotoPreviewImg'),
+    chekiPagePhotoClearBtn: $('#chekiPagePhotoClearBtn'),
     chekiPageAddBtn: $('#chekiPageAddBtn'),
     chekiCalendarPrevBtn: $('#chekiCalendarPrevBtn'),
     chekiCalendarNextBtn: $('#chekiCalendarNextBtn'),
@@ -102,6 +106,10 @@
     chekiMemberInput: $('#chekiMemberInput'),
     chekiPriceInput: $('#chekiPriceInput'),
     chekiQtyInput: $('#chekiQtyInput'),
+    chekiPhotoInput: $('#chekiPhotoInput'),
+    chekiPhotoPreview: $('#chekiPhotoPreview'),
+    chekiPhotoPreviewImg: $('#chekiPhotoPreviewImg'),
+    chekiPhotoClearBtn: $('#chekiPhotoClearBtn'),
     chekiAddBtn: $('#chekiAddBtn'),
     fDrinkPrice: $('#fDrinkPrice'),
     fTripFrom: $('#fTripFrom'),
@@ -177,6 +185,131 @@
 
   function saveLives() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state.lives));
+  }
+
+  // Cheki photos are heavy binary blobs, so they live in IndexedDB (not the
+  // localStorage-backed lives JSON) and are referenced from cheki items by id.
+  const PHOTO_DB_NAME = 'oshisuke_photos';
+  const PHOTO_STORE = 'photos';
+
+  function openPhotoDB() {
+    return new Promise((resolve, reject) => {
+      const req = indexedDB.open(PHOTO_DB_NAME, 1);
+      req.onupgradeneeded = () => req.result.createObjectStore(PHOTO_STORE);
+      req.onsuccess = () => resolve(req.result);
+      req.onerror = () => reject(req.error);
+    });
+  }
+
+  async function savePhotoBlob(blob) {
+    const db = await openPhotoDB();
+    const id = uid();
+    await new Promise((resolve, reject) => {
+      const tx = db.transaction(PHOTO_STORE, 'readwrite');
+      tx.objectStore(PHOTO_STORE).put(blob, id);
+      tx.oncomplete = resolve;
+      tx.onerror = () => reject(tx.error);
+    });
+    return id;
+  }
+
+  async function getPhotoBlob(id) {
+    const db = await openPhotoDB();
+    return new Promise((resolve, reject) => {
+      const req = db.transaction(PHOTO_STORE, 'readonly').objectStore(PHOTO_STORE).get(id);
+      req.onsuccess = () => resolve(req.result || null);
+      req.onerror = () => reject(req.error);
+    });
+  }
+
+  const photoUrlCache = new Map();
+  async function getPhotoUrl(id) {
+    if (photoUrlCache.has(id)) return photoUrlCache.get(id);
+    const blob = await getPhotoBlob(id);
+    if (!blob) return null;
+    const url = URL.createObjectURL(blob);
+    photoUrlCache.set(id, url);
+    return url;
+  }
+
+  // Swaps `<span class="cheki-thumb-slot" data-photo-id>` placeholders (used
+  // when a list is built from an HTML string) for the actual thumbnail once
+  // its blob URL resolves, without blocking the synchronous render.
+  function fillPhotoThumbSlots(root) {
+    root.querySelectorAll('.cheki-thumb-slot').forEach((slot) => {
+      getPhotoUrl(slot.dataset.photoId).then((url) => {
+        if (!url) return;
+        const img = document.createElement('img');
+        img.className = 'cheki-thumb';
+        img.alt = '';
+        img.src = url;
+        slot.replaceWith(img);
+      });
+    });
+  }
+
+  // Downscale + re-encode so a phone photo (often several MB) doesn't bloat
+  // IndexedDB storage.
+  function resizeImageFile(file, maxSize = 900, quality = 0.72) {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      const objectUrl = URL.createObjectURL(file);
+      img.onload = () => {
+        URL.revokeObjectURL(objectUrl);
+        let { width, height } = img;
+        if (width > height && width > maxSize) {
+          height = Math.round(height * (maxSize / width));
+          width = maxSize;
+        } else if (height > maxSize) {
+          width = Math.round(width * (maxSize / height));
+          height = maxSize;
+        }
+        const canvas = document.createElement('canvas');
+        canvas.width = width;
+        canvas.height = height;
+        canvas.getContext('2d').drawImage(img, 0, 0, width, height);
+        canvas.toBlob((blob) => {
+          if (blob) resolve(blob); else reject(new Error('toBlob failed'));
+        }, 'image/jpeg', quality);
+      };
+      img.onerror = reject;
+      img.src = objectUrl;
+    });
+  }
+
+  function createPhotoPicker(inputEl, previewWrapEl, previewImgEl, clearBtnEl) {
+    let pendingBlob = null;
+    let pendingUrl = null;
+    inputEl.addEventListener('change', async () => {
+      const file = inputEl.files[0];
+      inputEl.value = '';
+      if (!file) return;
+      let blob;
+      try {
+        blob = await resizeImageFile(file);
+      } catch (e) {
+        return;
+      }
+      pendingBlob = blob;
+      if (pendingUrl) URL.revokeObjectURL(pendingUrl);
+      pendingUrl = URL.createObjectURL(pendingBlob);
+      previewImgEl.src = pendingUrl;
+      previewWrapEl.hidden = false;
+    });
+    clearBtnEl.addEventListener('click', () => {
+      pendingBlob = null;
+      if (pendingUrl) { URL.revokeObjectURL(pendingUrl); pendingUrl = null; }
+      previewWrapEl.hidden = true;
+    });
+    return {
+      take() {
+        const blob = pendingBlob;
+        pendingBlob = null;
+        if (pendingUrl) { URL.revokeObjectURL(pendingUrl); pendingUrl = null; }
+        previewWrapEl.hidden = true;
+        return blob;
+      },
+    };
   }
 
   function loadFavoriteGroups() {
@@ -333,14 +466,23 @@
       const dateStr = `${y}-${pad(m)}-${pad(d)}`;
       const dayEntries = byDate[dateStr] || [];
       const dayQty = dayEntries.reduce((s, e) => s + e.qty, 0);
+      const photoItem = dayEntries.flatMap((e) => e.items).find((c) => c.photoId);
       const cell = document.createElement('button');
       cell.type = 'button';
       cell.className = 'calendar-cell';
       if (dateStr === today) cell.classList.add('is-today');
       if (dateStr === state.chekiSelectedDate) cell.classList.add('is-selected');
       if (dayQty > 0) cell.classList.add('has-events');
+      if (photoItem) cell.classList.add('has-photo');
       const badge = dayQty > 0 ? `<span class="cheki-cal-qty">${dayQty}</span>` : '';
       cell.innerHTML = `<span class="calendar-cell-day">${d}</span>${badge}`;
+      if (photoItem) {
+        const thumb = document.createElement('img');
+        thumb.className = 'cheki-cal-thumb';
+        thumb.alt = '';
+        cell.insertBefore(thumb, cell.firstChild);
+        getPhotoUrl(photoItem.photoId).then((url) => { if (url) thumb.src = url; });
+      }
       cell.addEventListener('click', () => {
         state.chekiSelectedDate = state.chekiSelectedDate === dateStr ? null : dateStr;
         renderChekiCalendar();
@@ -370,7 +512,8 @@
       const itemsHtml = items.map((c) => {
         const n = c.qty || 1;
         const suffix = n > 1 ? ` ×${n}枚` : '';
-        return `<div class="cheki-live-item"><span>${escapeHtml(c.member || '(名前なし)')}${suffix}</span><b>${yen(chekiItemTotal(c))}</b></div>`;
+        const thumbSlot = c.photoId ? `<span class="cheki-thumb-slot" data-photo-id="${c.photoId}"></span>` : '';
+        return `<div class="cheki-live-item"><span class="cheki-live-item-main">${thumbSlot}<span>${escapeHtml(c.member || '(名前なし)')}${suffix}</span></span><b>${yen(chekiItemTotal(c))}</b></div>`;
       }).join('');
       card.innerHTML = `
         <div class="cheki-live-head">
@@ -379,6 +522,7 @@
         </div>
         <div class="cheki-live-items">${itemsHtml}</div>
       `;
+      fillPhotoThumbSlots(card);
       els.chekiCalendarDayDetail.appendChild(card);
     });
   }
@@ -414,7 +558,8 @@
         .map((c) => {
           const n = c.qty || 1;
           const suffix = n > 1 ? ` ×${n}枚` : '';
-          return `<div class="cheki-live-item"><span>${escapeHtml(c.member || '(名前なし)')}${suffix}</span><b>${yen(chekiItemTotal(c))}</b></div>`;
+          const thumbSlot = c.photoId ? `<span class="cheki-thumb-slot" data-photo-id="${c.photoId}"></span>` : '';
+          return `<div class="cheki-live-item"><span class="cheki-live-item-main">${thumbSlot}<span>${escapeHtml(c.member || '(名前なし)')}${suffix}</span></span><b>${yen(chekiItemTotal(c))}</b></div>`;
         })
         .join('');
       card.innerHTML = `
@@ -424,6 +569,7 @@
         </div>
         <div class="cheki-live-items">${items}</div>
       `;
+      fillPhotoThumbSlots(card);
       els.chekiSummaryList.appendChild(card);
     });
   }
@@ -863,6 +1009,13 @@
     editingCheki.forEach((item, idx) => {
       const row = document.createElement('div');
       row.className = 'pack-item';
+      if (item.photoId) {
+        const thumb = document.createElement('img');
+        thumb.className = 'cheki-thumb';
+        thumb.alt = '';
+        getPhotoUrl(item.photoId).then((url) => { if (url) thumb.src = url; });
+        row.appendChild(thumb);
+      }
       const label = document.createElement('span');
       label.className = 'pack-item-label';
       const qty = item.qty || 1;
@@ -960,6 +1113,7 @@
 
   function closeModal() {
     els.modalOverlay.hidden = true;
+    chekiPhotoPicker.take();
   }
 
   els.addBtn.addEventListener('click', () => openModal(null));
@@ -981,12 +1135,19 @@
     els.packAddBtn.click();
   });
 
-  els.chekiAddBtn.addEventListener('click', () => {
+  const chekiPhotoPicker = createPhotoPicker(
+    els.chekiPhotoInput, els.chekiPhotoPreview, els.chekiPhotoPreviewImg, els.chekiPhotoClearBtn
+  );
+
+  els.chekiAddBtn.addEventListener('click', async () => {
     const price = Number(els.chekiPriceInput.value) || 0;
     const member = els.chekiMemberInput.value.trim();
     const qty = Number(els.chekiQtyInput.value) || 1;
     if (!price) return;
-    editingCheki.push({ member, price, qty });
+    const photoBlob = chekiPhotoPicker.take();
+    const item = { member, price, qty };
+    if (photoBlob) item.photoId = await savePhotoBlob(photoBlob);
+    editingCheki.push(item);
     els.chekiMemberInput.value = '';
     els.chekiPriceInput.value = '';
     els.chekiQtyInput.value = '1';
@@ -1000,15 +1161,22 @@
     });
   });
 
-  els.chekiPageAddBtn.addEventListener('click', () => {
+  const chekiPagePhotoPicker = createPhotoPicker(
+    els.chekiPagePhotoInput, els.chekiPagePhotoPreview, els.chekiPagePhotoPreviewImg, els.chekiPagePhotoClearBtn
+  );
+
+  els.chekiPageAddBtn.addEventListener('click', async () => {
     const live = state.lives.find((l) => l.id === els.chekiPageLiveSelect.value);
     if (!live) return;
     const price = Number(els.chekiPagePriceInput.value) || 0;
     const member = els.chekiPageMemberInput.value.trim();
     const qty = Number(els.chekiPageQtyInput.value) || 1;
     if (!price) return;
+    const photoBlob = chekiPagePhotoPicker.take();
+    const item = { member, price, qty };
+    if (photoBlob) item.photoId = await savePhotoBlob(photoBlob);
     if (!live.cheki) live.cheki = [];
-    live.cheki.push({ member, price, qty });
+    live.cheki.push(item);
     saveLives();
     els.chekiPageMemberInput.value = '';
     els.chekiPagePriceInput.value = '';
@@ -1249,6 +1417,7 @@
   const SCREENS = { home: els.homeScreen, search: els.searchScreen, other: els.otherScreen, cheki: els.chekiScreen };
 
   function switchScreen(name) {
+    if (name !== 'cheki') chekiPagePhotoPicker.take();
     Object.entries(SCREENS).forEach(([key, el]) => { el.hidden = key !== name; });
     els.bottomNav.querySelectorAll('.bottombar-btn').forEach((btn) => {
       btn.classList.toggle('active', btn.dataset.screen === name);

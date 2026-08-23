@@ -366,6 +366,8 @@ html, body {
 }
 
 .calendar-cell {
+  position: relative;
+  overflow: hidden;
   aspect-ratio: 1;
   display: flex;
   flex-direction: column;
@@ -381,6 +383,33 @@ html, body {
   font-size: 11px;
   cursor: pointer;
   padding: 2px;
+}
+
+.cheki-cal-thumb {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.calendar-cell.has-photo .calendar-cell-day {
+  position: relative;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  border-radius: 3px;
+  padding: 0 4px;
+}
+
+.calendar-cell.has-photo .cheki-cal-qty {
+  position: relative;
+  z-index: 1;
+}
+
+.calendar-cell.is-selected .cheki-cal-thumb {
+  display: none;
 }
 
 .calendar-cell-empty {
@@ -887,6 +916,58 @@ html, body {
   font-size: 13px;
   font-weight: 700;
   cursor: pointer;
+}
+
+.cheki-photo-btn {
+  flex: none;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.cheki-photo-preview {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: -4px 0 14px;
+}
+
+.cheki-photo-preview img {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+}
+
+.cheki-photo-preview button {
+  border: none;
+  background: none;
+  color: var(--text-muted);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.cheki-thumb {
+  flex: none;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+}
+
+.cheki-live-item-main {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
 }
 
 .modal-actions {

@@ -142,7 +142,13 @@
           <input type="text" id="chekiPageMemberInput" placeholder="メンバー名(任意)">
           <input type="number" id="chekiPagePriceInput" min="0" step="1" inputmode="numeric" placeholder="円">
           <input type="number" id="chekiPageQtyInput" min="1" step="1" inputmode="numeric" placeholder="枚数" value="1">
+          <label class="cheki-photo-btn" for="chekiPagePhotoInput" aria-label="写真を選ぶ">📷</label>
+          <input type="file" accept="image/*" id="chekiPagePhotoInput" hidden>
           <button type="button" id="chekiPageAddBtn">追加</button>
+        </div>
+        <div class="cheki-photo-preview" id="chekiPagePhotoPreview" hidden>
+          <img id="chekiPagePhotoPreviewImg" alt="">
+          <button type="button" id="chekiPagePhotoClearBtn" aria-label="写真を削除">×</button>
         </div>
       </div>
     </section>
@@ -297,7 +303,13 @@
           <input type="text" id="chekiMemberInput" placeholder="メンバー名(任意)">
           <input type="number" id="chekiPriceInput" min="0" step="1" inputmode="numeric" placeholder="円">
           <input type="number" id="chekiQtyInput" min="1" step="1" inputmode="numeric" placeholder="枚数" value="1">
+          <label class="cheki-photo-btn" for="chekiPhotoInput" aria-label="写真を選ぶ">📷</label>
+          <input type="file" accept="image/*" id="chekiPhotoInput" hidden>
           <button type="button" id="chekiAddBtn">追加</button>
+        </div>
+        <div class="cheki-photo-preview" id="chekiPhotoPreview" hidden>
+          <img id="chekiPhotoPreviewImg" alt="">
+          <button type="button" id="chekiPhotoClearBtn" aria-label="写真を削除">×</button>
         </div>
       </fieldset>
 
