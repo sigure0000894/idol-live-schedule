@@ -70,8 +70,6 @@
     spendingTransport: $('#spendingTransport'),
     spendingHotel: $('#spendingHotel'),
     spendingMonths: $('#spendingMonths'),
-    openChekiScreenBtn: $('#openChekiScreenBtn'),
-    backFromChekiBtn: $('#backFromChekiBtn'),
     chekiScreen: $('#chekiScreen'),
     chekiGrandTotal: $('#chekiGrandTotal'),
     chekiSummaryList: $('#chekiSummaryList'),
@@ -1109,9 +1107,6 @@
     opt.textContent = pref;
     els.discoverPrefSelect.appendChild(opt);
   });
-
-  els.openChekiScreenBtn.addEventListener('click', () => switchScreen('cheki'));
-  els.backFromChekiBtn.addEventListener('click', () => switchScreen('other'));
 
   els.bottomNav.addEventListener('click', (e) => {
     const btn = e.target.closest('.bottombar-btn');

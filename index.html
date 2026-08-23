@@ -114,7 +114,6 @@
       </div>
       <h3 class="spending-months-title">月ごとの内訳</h3>
       <div class="spending-months" id="spendingMonths"></div>
-      <button type="button" class="settings-link" id="openChekiScreenBtn">→ チェキ集計を見る</button>
     </section>
 
     <section class="settings-section">
@@ -134,14 +133,11 @@
   </div>
 
   <div class="screen" id="chekiScreen" hidden>
-    <div class="subpage-header">
-      <button type="button" class="icon-btn" id="backFromChekiBtn" aria-label="戻る">
-        <svg viewBox="0 0 24 24" width="18" height="18"><path d="M15 4 L7 12 L15 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-      <h2 class="subpage-title">チェキ集計</h2>
-    </div>
-    <div class="spending-total" id="chekiGrandTotal">¥0</div>
-    <div class="cheki-summary-list" id="chekiSummaryList"></div>
+    <section class="settings-section">
+      <h2 class="settings-title">チェキ集計</h2>
+      <div class="spending-total" id="chekiGrandTotal">¥0</div>
+      <div class="cheki-summary-list" id="chekiSummaryList"></div>
+    </section>
   </div>
 
   <button class="fab" id="addBtn" aria-label="ライブを追加">＋</button>
@@ -158,6 +154,10 @@
     <button class="bottombar-btn" data-screen="other" aria-label="その他">
       <svg viewBox="0 0 24 24" width="22" height="22"><rect x="4" y="4" width="7" height="7" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="13" y="4" width="7" height="7" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="4" y="13" width="7" height="7" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><rect x="13" y="13" width="7" height="7" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/></svg>
       <span>その他</span>
+    </button>
+    <button class="bottombar-btn" data-screen="cheki" aria-label="チェキ">
+      <svg viewBox="0 0 24 24" width="22" height="22"><rect x="4" y="5" width="16" height="14" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="9" cy="10" r="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5 16 L9 12 L12 15 L15 11 L19 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span>チェキ</span>
     </button>
   </nav>
 

@@ -47,24 +47,6 @@ html, body {
   padding: 16px 16px 0;
 }
 
-.subpage-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 16px;
-}
-
-.subpage-header .icon-btn {
-  border: none;
-}
-
-.subpage-title {
-  margin: 0;
-  font-size: 15px;
-  font-weight: 800;
-  letter-spacing: 0.02em;
-}
-
 /* Top bar */
 .topbar {
   position: sticky;
@@ -1159,19 +1141,6 @@ html, body {
 .cheki-live-item b {
   color: var(--text);
   font-weight: 700;
-}
-
-.settings-link {
-  display: inline-block;
-  margin-top: 10px;
-  color: var(--primary);
-  font-size: 13px;
-  font-weight: 600;
-  border: none;
-  background: none;
-  padding: 0;
-  font-family: inherit;
-  cursor: pointer;
 }
 
 .fav-manage-row {
