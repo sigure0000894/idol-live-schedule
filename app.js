@@ -80,6 +80,7 @@
     fTicketState: $('#fTicketState'),
     fTicketNo: $('#fTicketNo'),
     fTicketSeller: $('#fTicketSeller'),
+    fTicketTier: $('#fTicketTier'),
     fTicketPrice: $('#fTicketPrice'),
     fChekiPrice: $('#fChekiPrice'),
     fDrinkPrice: $('#fDrinkPrice'),
@@ -485,7 +486,10 @@
 
   function ticketSummary(live) {
     const label = TICKET_STATE_LABELS[live.ticketState] || TICKET_STATE_LABELS[0];
-    return live.ticketNo ? `${label} ${live.ticketNo}` : label;
+    const parts = [label];
+    if (live.ticketTier) parts.push(live.ticketTier);
+    if (live.ticketNo) parts.push(live.ticketNo);
+    return parts.join(' ');
   }
 
   function tripSummary(live) {
@@ -710,6 +714,7 @@
       els.fTicketState.value = live.ticketState || 0;
       els.fTicketNo.value = live.ticketNo || '';
       els.fTicketSeller.value = live.ticketSeller || '';
+      els.fTicketTier.value = live.ticketTier || '';
       els.fTicketPrice.value = live.ticketPrice || '';
       els.fChekiPrice.value = live.chekiPrice || '';
       els.fDrinkPrice.value = live.drinkPrice || '';
@@ -776,6 +781,7 @@
       ticketState: Number(els.fTicketState.value) || 0,
       ticketNo: els.fTicketNo.value.trim(),
       ticketSeller: els.fTicketSeller.value.trim(),
+      ticketTier: els.fTicketTier.value.trim(),
       ticketPrice: Number(els.fTicketPrice.value) || 0,
       chekiPrice: Number(els.fChekiPrice.value) || 0,
       drinkPrice: Number(els.fDrinkPrice.value) || 0,

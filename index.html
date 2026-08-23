@@ -225,10 +225,24 @@
             <input type="text" id="fTicketSeller" placeholder="例: チケットぴあ">
           </label>
         </div>
-        <label class="field">
-          <span>価格(円)</span>
-          <input type="number" id="fTicketPrice" min="0" step="1" inputmode="numeric">
-        </label>
+        <div class="field-row">
+          <label class="field">
+            <span>券種</span>
+            <input type="text" id="fTicketTier" list="ticketTierList" placeholder="例: VIP">
+            <datalist id="ticketTierList">
+              <option value="VIP">
+              <option value="前方">
+              <option value="一般">
+              <option value="整理">
+              <option value="指定席">
+              <option value="自由席">
+            </datalist>
+          </label>
+          <label class="field">
+            <span>価格(円)</span>
+            <input type="number" id="fTicketPrice" min="0" step="1" inputmode="numeric">
+          </label>
+        </div>
       </fieldset>
 
       <fieldset class="form-section">
