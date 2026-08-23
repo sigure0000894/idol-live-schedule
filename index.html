@@ -43,14 +43,21 @@
     </section>
 
     <nav class="tabbar" id="statusTabs">
-      <button class="tab active" data-status="upcoming">予定</button>
-      <button class="tab" data-status="attended">行った</button>
-      <button class="tab" data-status="all">すべて</button>
+      <button class="tab active" data-status="upcoming">予定 <span class="tab-count" id="tabCountUpcoming">0</span></button>
+      <button class="tab" data-status="go">参戦する <span class="tab-count" id="tabCountGo">0</span></button>
+      <button class="tab" data-status="attended">行った <span class="tab-count" id="tabCountAttended">0</span></button>
     </nav>
 
     <div class="view-toggle" id="viewToggle">
       <button type="button" class="view-toggle-btn active" data-view="list">リスト</button>
       <button type="button" class="view-toggle-btn" data-view="calendar">カレンダー</button>
+    </div>
+
+    <div class="month-nav" id="monthNav">
+      <button type="button" class="month-nav-arrow" id="monthNavPrevBtn">←</button>
+      <span class="month-nav-label" id="monthNavLabel"></span>
+      <button type="button" class="month-nav-arrow" id="monthNavNextBtn">→</button>
+      <span class="month-nav-count" id="monthNavCount"></span>
     </div>
 
     <main class="list" id="list"></main>
@@ -180,8 +187,88 @@
 
       <label class="field">
         <span>メモ</span>
-        <textarea id="fMemo" rows="3" placeholder="チケット情報、座席、持ち物など"></textarea>
+        <textarea id="fMemo" rows="3"></textarea>
       </label>
+
+      <fieldset class="form-section">
+        <legend>チケット</legend>
+        <label class="field">
+          <span>状態</span>
+          <select id="fTicketState">
+            <option value="0">未購入</option>
+            <option value="1">抽選中</option>
+            <option value="2">購入済</option>
+            <option value="3">発券済</option>
+          </select>
+        </label>
+        <div class="field-row">
+          <label class="field">
+            <span>整理番号</span>
+            <input type="text" id="fTicketNo" placeholder="例: A-32">
+          </label>
+          <label class="field">
+            <span>購入先</span>
+            <input type="text" id="fTicketSeller" placeholder="例: チケットぴあ">
+          </label>
+        </div>
+        <label class="field">
+          <span>価格(円)</span>
+          <input type="number" id="fTicketPrice" min="0" step="1" inputmode="numeric">
+        </label>
+      </fieldset>
+
+      <fieldset class="form-section">
+        <legend>遠征</legend>
+        <div class="field-row">
+          <label class="field">
+            <span>出発地</span>
+            <input type="text" id="fTripFrom" placeholder="例: 東京">
+          </label>
+          <label class="field">
+            <span>到着地</span>
+            <input type="text" id="fTripTo" placeholder="例: 大阪">
+          </label>
+        </div>
+        <div class="field-row">
+          <label class="field">
+            <span>出発時刻</span>
+            <input type="time" id="fTripDep">
+          </label>
+          <label class="field">
+            <span>到着時刻</span>
+            <input type="time" id="fTripArr">
+          </label>
+        </div>
+        <div class="field-row">
+          <label class="field">
+            <span>交通手段</span>
+            <input type="text" id="fTripTransport" placeholder="例: 新幹線・夜行バス・日帰り">
+          </label>
+          <label class="field">
+            <span>交通費(円)</span>
+            <input type="number" id="fTripFare" min="0" step="1" inputmode="numeric">
+          </label>
+        </div>
+        <div class="field-row">
+          <label class="field">
+            <span>宿泊先</span>
+            <input type="text" id="fTripHotel" placeholder="例: ○○ホテル">
+          </label>
+          <label class="field">
+            <span>宿泊費(円)</span>
+            <input type="number" id="fTripHotelFare" min="0" step="1" inputmode="numeric">
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset class="form-section">
+        <legend>持ち物</legend>
+        <div class="pack-list" id="packList"></div>
+        <div class="pack-add-row">
+          <input type="text" id="packInput" placeholder="例: ペンライト">
+          <button type="button" id="packAddBtn">追加</button>
+        </div>
+      </fieldset>
 
       <div class="modal-actions">
         <button type="button" class="btn-danger" id="deleteBtn" hidden>削除</button>

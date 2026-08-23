@@ -70,7 +70,32 @@
     calendarMonthLabel: $('#calendarMonthLabel'),
     calendarGrid: $('#calendarGrid'),
     calendarDayDetail: $('#calendarDayDetail'),
+    fTicketState: $('#fTicketState'),
+    fTicketNo: $('#fTicketNo'),
+    fTicketSeller: $('#fTicketSeller'),
+    fTicketPrice: $('#fTicketPrice'),
+    fTripFrom: $('#fTripFrom'),
+    fTripTo: $('#fTripTo'),
+    fTripDep: $('#fTripDep'),
+    fTripArr: $('#fTripArr'),
+    fTripTransport: $('#fTripTransport'),
+    fTripFare: $('#fTripFare'),
+    fTripHotel: $('#fTripHotel'),
+    fTripHotelFare: $('#fTripHotelFare'),
+    packList: $('#packList'),
+    packInput: $('#packInput'),
+    packAddBtn: $('#packAddBtn'),
+    tabCountUpcoming: $('#tabCountUpcoming'),
+    tabCountGo: $('#tabCountGo'),
+    tabCountAttended: $('#tabCountAttended'),
+    monthNav: $('#monthNav'),
+    monthNavLabel: $('#monthNavLabel'),
+    monthNavPrevBtn: $('#monthNavPrevBtn'),
+    monthNavNextBtn: $('#monthNavNextBtn'),
+    monthNavCount: $('#monthNavCount'),
   };
+
+  const TICKET_STATE_LABELS = ['未購入', '抽選中', '購入済', '発券済'];
 
   let state = {
     lives: loadLives(),
@@ -82,7 +107,13 @@
     calendarYear: new Date().getFullYear(),
     calendarMonth: new Date().getMonth() + 1,
     selectedDate: null,
+    listYear: new Date().getFullYear(),
+    listMonth: new Date().getMonth() + 1,
   };
+
+  // Packing checklist for whichever live is currently open in the modal -
+  // separate from state.lives until the form is actually saved.
+  let editingPack = [];
 
   let discoverState = {
     events: null,   // null = not loaded yet
@@ -217,7 +248,7 @@
     const allChip = document.createElement('button');
     allChip.className = 'chip' + (state.activeGroup === null ? ' active' : '');
     allChip.textContent = 'すべて';
-    allChip.onclick = () => { state.activeGroup = null; render(); };
+    allChip.onclick = () => { state.activeGroup = null; resetListMonthToFirstMatch(); render(); };
     els.groupChips.appendChild(allChip);
 
     if (state.favoriteGroups.length) {
@@ -226,6 +257,7 @@
       favChip.textContent = '★ お気に入り';
       favChip.onclick = () => {
         state.activeGroup = state.activeGroup === FAVORITES_FILTER ? null : FAVORITES_FILTER;
+        resetListMonthToFirstMatch();
         render();
       };
       els.groupChips.appendChild(favChip);
@@ -249,6 +281,7 @@
       chip.appendChild(document.createTextNode(g));
       chip.addEventListener('click', () => {
         state.activeGroup = state.activeGroup === g ? null : g;
+        resetListMonthToFirstMatch();
         render();
       });
       els.groupChips.appendChild(chip);
@@ -288,6 +321,55 @@
     return result;
   }
 
+  function monthFilteredLives() {
+    return filteredLives().filter((l) => {
+      const [y, m] = l.date.split('-').map(Number);
+      return y === state.listYear && m === state.listMonth;
+    });
+  }
+
+  function resetListMonthToFirstMatch() {
+    const base = filteredLives();
+    if (base.length) {
+      const [y, m] = base[0].date.split('-').map(Number);
+      state.listYear = y;
+      state.listMonth = m;
+    } else {
+      const now = new Date();
+      state.listYear = now.getFullYear();
+      state.listMonth = now.getMonth() + 1;
+    }
+  }
+
+  function computeTabCounts() {
+    const q = state.query.trim().toLowerCase();
+    const matches = (l) => {
+      if (state.activeGroup === FAVORITES_FILTER) {
+        if (!isFavoriteGroup(l.group)) return false;
+      } else if (state.activeGroup && l.group !== state.activeGroup) return false;
+      if (q) {
+        const hay = `${l.group} ${l.title} ${l.venue}`.toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    };
+    let upcoming = 0, go = 0, attended = 0;
+    state.lives.filter(matches).forEach((l) => {
+      const bucket = computeStatusBucket(l);
+      if (bucket !== 'done' && bucket !== 'attended') upcoming++;
+      if (bucket === 'go') go++;
+      if (bucket === 'attended') attended++;
+    });
+    els.tabCountUpcoming.textContent = upcoming;
+    els.tabCountGo.textContent = go;
+    els.tabCountAttended.textContent = attended;
+  }
+
+  function renderMonthNav() {
+    els.monthNavLabel.textContent = `${state.listYear}/${pad(state.listMonth)}`;
+    els.monthNavCount.textContent = `${monthFilteredLives().length}件`;
+  }
+
   function renderNextLive() {
     const upcoming = state.lives
       .filter((l) => l.date >= todayStr() && l.status !== 'undecided')
@@ -312,47 +394,59 @@
   }
 
   function renderList() {
-    const lives = filteredLives();
+    const lives = monthFilteredLives();
     els.list.innerHTML = '';
     els.emptyState.hidden = lives.length !== 0;
+    lives.forEach((live) => els.list.appendChild(renderCard(live)));
+  }
 
-    let lastMonth = null;
-    lives.forEach((live) => {
-      const mLabel = monthLabel(live.date);
-      if (mLabel !== lastMonth) {
-        const h = document.createElement('div');
-        h.className = 'month-header';
-        h.textContent = mLabel;
-        els.list.appendChild(h);
-        lastMonth = mLabel;
-      }
-      els.list.appendChild(renderCard(live));
-    });
+  function daysUntil(dateStr) {
+    const today = new Date(todayStr());
+    const target = new Date(dateStr);
+    return Math.round((target - today) / 86400000);
+  }
+
+  function ticketSummary(live) {
+    const label = TICKET_STATE_LABELS[live.ticketState] || TICKET_STATE_LABELS[0];
+    return live.ticketNo ? `${label} ${live.ticketNo}` : label;
+  }
+
+  function tripSummary(live) {
+    const t = live.trip;
+    if (!t) return '';
+    return t.transport || [t.from, t.to].filter(Boolean).join('→');
   }
 
   function renderCard(live) {
     const { m, d, dow } = formatDateLabel(live.date);
     const bucket = computeStatusBucket(live);
     const isToday = live.date === todayStr();
+    const diff = daysUntil(live.date);
+    const trip = tripSummary(live);
 
     const card = document.createElement('div');
     card.className = 'card' + (isToday ? ' is-today' : '');
+    card.style.setProperty('--group-color', colorForGroup(live.group));
     card.innerHTML = `
       <div class="card-date">
         <div class="dow">${dow}</div>
         <div class="day">${d}</div>
+        <div class="days-until">${diff === 0 ? '本日' : diff > 0 ? `あと${diff}日` : ''}</div>
       </div>
       <div class="card-body">
         <div class="card-top">
-          <span class="group-dot" style="background:${colorForGroup(live.group)}"></span>
-          <span class="group-name">${escapeHtml(live.group)}</span>
+          <span class="group-name" style="color:${colorForGroup(live.group)}">${escapeHtml(live.group)}</span>
+          <span class="status-badge status-${bucket}">${statusLabel(bucket)}</span>
         </div>
         <div class="card-title">${escapeHtml(live.title || '(タイトル未設定)')}</div>
         <div class="card-meta">
           ${live.time ? `<span>${live.time}〜</span>` : ''}
           ${live.venue ? `<span>${escapeHtml(live.venue)}</span>` : ''}
         </div>
-        <span class="status-badge status-${bucket}">${statusLabel(bucket)}</span>
+        <div class="card-tags">
+          <span class="card-tag">TICKET・${escapeHtml(ticketSummary(live))}</span>
+          ${trip ? `<span class="card-tag">TRIP・${escapeHtml(trip)}</span>` : ''}
+        </div>
       </div>
     `;
     card.addEventListener('click', () => openModal(live));
@@ -360,14 +454,18 @@
   }
 
   function renderHomeContent() {
+    computeTabCounts();
     if (state.viewMode === 'calendar') {
       els.list.hidden = true;
       els.emptyState.hidden = true;
       els.calendarView.hidden = false;
+      els.monthNav.hidden = true;
       renderCalendarView();
     } else {
       els.calendarView.hidden = true;
       els.list.hidden = false;
+      els.monthNav.hidden = false;
+      renderMonthNav();
       renderList();
     }
   }
@@ -467,6 +565,18 @@
     els.tabs.querySelectorAll('.tab').forEach((b) => b.classList.remove('active'));
     btn.classList.add('active');
     state.activeTab = btn.dataset.status;
+    resetListMonthToFirstMatch();
+    renderHomeContent();
+  });
+
+  els.monthNavPrevBtn.addEventListener('click', () => {
+    state.listMonth -= 1;
+    if (state.listMonth < 1) { state.listMonth = 12; state.listYear -= 1; }
+    renderHomeContent();
+  });
+  els.monthNavNextBtn.addEventListener('click', () => {
+    state.listMonth += 1;
+    if (state.listMonth > 12) { state.listMonth = 1; state.listYear += 1; }
     renderHomeContent();
   });
 
@@ -481,6 +591,33 @@
   });
 
   // Modal
+  function renderPackList() {
+    els.packList.innerHTML = '';
+    editingPack.forEach((item, idx) => {
+      const row = document.createElement('label');
+      row.className = 'pack-item';
+      const check = document.createElement('input');
+      check.type = 'checkbox';
+      check.checked = !!item.done;
+      check.addEventListener('change', () => { item.done = check.checked; });
+      const label = document.createElement('span');
+      label.textContent = item.label;
+      label.className = 'pack-item-label';
+      const remove = document.createElement('button');
+      remove.type = 'button';
+      remove.className = 'pack-item-remove';
+      remove.textContent = '×';
+      remove.addEventListener('click', () => {
+        editingPack.splice(idx, 1);
+        renderPackList();
+      });
+      row.appendChild(check);
+      row.appendChild(label);
+      row.appendChild(remove);
+      els.packList.appendChild(row);
+    });
+  }
+
   function openModal(live) {
     els.form.reset();
     if (live) {
@@ -493,14 +630,31 @@
       els.fVenue.value = live.venue || '';
       els.fStatus.value = live.status;
       els.fMemo.value = live.memo || '';
+      els.fTicketState.value = live.ticketState || 0;
+      els.fTicketNo.value = live.ticketNo || '';
+      els.fTicketSeller.value = live.ticketSeller || '';
+      els.fTicketPrice.value = live.ticketPrice || '';
+      const trip = live.trip || {};
+      els.fTripFrom.value = trip.from || '';
+      els.fTripTo.value = trip.to || '';
+      els.fTripDep.value = trip.dep || '';
+      els.fTripArr.value = trip.arr || '';
+      els.fTripTransport.value = trip.transport || '';
+      els.fTripFare.value = trip.fare || '';
+      els.fTripHotel.value = trip.hotel || '';
+      els.fTripHotelFare.value = trip.hotelFare || '';
+      editingPack = (live.pack || []).map((p) => ({ ...p }));
       els.deleteBtn.hidden = false;
     } else {
       els.modalTitle.textContent = 'ライブを追加';
       els.fId.value = '';
       els.fDate.value = todayStr();
       els.fStatus.value = 'interested';
+      els.fTicketState.value = 0;
+      editingPack = [];
       els.deleteBtn.hidden = true;
     }
+    renderPackList();
     updateGroupDatalist();
     els.modalOverlay.hidden = false;
   }
@@ -515,6 +669,19 @@
     if (e.target === els.modalOverlay) closeModal();
   });
 
+  els.packAddBtn.addEventListener('click', () => {
+    const label = els.packInput.value.trim();
+    if (!label) return;
+    editingPack.push({ label, done: false });
+    els.packInput.value = '';
+    renderPackList();
+  });
+  els.packInput.addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter') return;
+    e.preventDefault();
+    els.packAddBtn.click();
+  });
+
   els.form.addEventListener('submit', (e) => {
     e.preventDefault();
     const id = els.fId.value || uid();
@@ -527,6 +694,21 @@
       venue: els.fVenue.value.trim(),
       status: els.fStatus.value,
       memo: els.fMemo.value.trim(),
+      ticketState: Number(els.fTicketState.value) || 0,
+      ticketNo: els.fTicketNo.value.trim(),
+      ticketSeller: els.fTicketSeller.value.trim(),
+      ticketPrice: Number(els.fTicketPrice.value) || 0,
+      trip: {
+        from: els.fTripFrom.value.trim(),
+        to: els.fTripTo.value.trim(),
+        dep: els.fTripDep.value,
+        arr: els.fTripArr.value,
+        transport: els.fTripTransport.value.trim(),
+        fare: Number(els.fTripFare.value) || 0,
+        hotel: els.fTripHotel.value.trim(),
+        hotelFare: Number(els.fTripHotelFare.value) || 0,
+      },
+      pack: editingPack.map((p) => ({ ...p })),
     };
     if (!live.group || !live.date) return;
 
@@ -536,6 +718,7 @@
 
     saveLives();
     closeModal();
+    resetListMonthToFirstMatch();
     render();
   });
 
@@ -784,5 +967,6 @@
     });
   }
 
+  resetListMonthToFirstMatch();
   render();
 })();
