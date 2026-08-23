@@ -849,6 +849,10 @@ html, body {
   outline: none;
 }
 
+.cheki-add-row input#chekiQtyInput {
+  flex: 0 0 56px;
+}
+
 .cheki-add-row button {
   flex: none;
   border: 1px solid var(--text);
@@ -1014,6 +1018,13 @@ html, body {
   color: var(--primary);
   line-height: 1;
   margin-bottom: 14px;
+}
+
+.cheki-grand-qty {
+  margin: -10px 0 14px;
+  color: var(--text-muted);
+  font-size: 12px;
+  font-weight: 600;
 }
 
 .spending-breakdown {

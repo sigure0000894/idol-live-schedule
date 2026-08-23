@@ -72,6 +72,7 @@
     spendingMonths: $('#spendingMonths'),
     chekiScreen: $('#chekiScreen'),
     chekiGrandTotal: $('#chekiGrandTotal'),
+    chekiGrandQty: $('#chekiGrandQty'),
     chekiSummaryList: $('#chekiSummaryList'),
     viewToggle: $('#viewToggle'),
     calendarView: $('#calendarView'),
@@ -88,6 +89,7 @@
     chekiList: $('#chekiList'),
     chekiMemberInput: $('#chekiMemberInput'),
     chekiPriceInput: $('#chekiPriceInput'),
+    chekiQtyInput: $('#chekiQtyInput'),
     chekiAddBtn: $('#chekiAddBtn'),
     fDrinkPrice: $('#fDrinkPrice'),
     fTripFrom: $('#fTripFrom'),
@@ -193,8 +195,12 @@
     renderFavManageList();
   }
 
+  function chekiItemTotal(item) {
+    return (item.price || 0) * (item.qty || 1);
+  }
+
   function chekiTotal(live) {
-    return (live.cheki || []).reduce((sum, c) => sum + (c.price || 0), 0)
+    return (live.cheki || []).reduce((sum, c) => sum + chekiItemTotal(c), 0)
       || live.chekiPrice || 0;
   }
 
@@ -273,7 +279,10 @@
       .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
     const grandTotal = lives.reduce((sum, live) => sum + chekiTotal(live), 0);
+    const grandQty = lives.reduce((sum, live) => sum + (live.cheki || [])
+      .reduce((s, c) => s + (c.qty || 1), 0), 0);
     els.chekiGrandTotal.textContent = yen(grandTotal);
+    els.chekiGrandQty.textContent = `全${grandQty}枚`;
 
     els.chekiSummaryList.innerHTML = '';
     if (lives.length === 0) {
@@ -287,14 +296,19 @@
     lives.forEach((live) => {
       const { m, d, dow } = formatDateLabel(live.date);
       const total = chekiTotal(live);
+      const qty = (live.cheki || []).reduce((s, c) => s + (c.qty || 1), 0);
       const card = document.createElement('div');
       card.className = 'cheki-live-card';
       const items = (live.cheki || [])
-        .map((c) => `<div class="cheki-live-item"><span>${escapeHtml(c.member || '(名前なし)')}</span><b>${yen(c.price || 0)}</b></div>`)
+        .map((c) => {
+          const n = c.qty || 1;
+          const suffix = n > 1 ? ` ×${n}枚` : '';
+          return `<div class="cheki-live-item"><span>${escapeHtml(c.member || '(名前なし)')}${suffix}</span><b>${yen(chekiItemTotal(c))}</b></div>`;
+        })
         .join('');
       card.innerHTML = `
         <div class="cheki-live-head">
-          <span><span class="cheki-live-label">${escapeHtml(live.group)}</span><span class="cheki-live-date">${m}/${d}(${dow})</span></span>
+          <span><span class="cheki-live-label">${escapeHtml(live.group)}</span><span class="cheki-live-date">${m}/${d}(${dow})・${qty}枚</span></span>
           <span class="cheki-live-total">${yen(total)}</span>
         </div>
         <div class="cheki-live-items">${items}</div>
@@ -727,7 +741,9 @@
       row.className = 'pack-item';
       const label = document.createElement('span');
       label.className = 'pack-item-label';
-      label.textContent = `${item.member ? item.member + ' ' : ''}¥${(item.price || 0).toLocaleString('ja-JP')}`;
+      const qty = item.qty || 1;
+      const qtyText = qty > 1 ? ` ×${qty}枚` : '';
+      label.textContent = `${item.member ? item.member + ' ' : ''}¥${(item.price || 0).toLocaleString('ja-JP')}${qtyText}`;
       const remove = document.createElement('button');
       remove.type = 'button';
       remove.className = 'pack-item-remove';
@@ -844,13 +860,15 @@
   els.chekiAddBtn.addEventListener('click', () => {
     const price = Number(els.chekiPriceInput.value) || 0;
     const member = els.chekiMemberInput.value.trim();
+    const qty = Number(els.chekiQtyInput.value) || 1;
     if (!price) return;
-    editingCheki.push({ member, price });
+    editingCheki.push({ member, price, qty });
     els.chekiMemberInput.value = '';
     els.chekiPriceInput.value = '';
+    els.chekiQtyInput.value = '1';
     renderChekiEditList();
   });
-  [els.chekiMemberInput, els.chekiPriceInput].forEach((input) => {
+  [els.chekiMemberInput, els.chekiPriceInput, els.chekiQtyInput].forEach((input) => {
     input.addEventListener('keydown', (e) => {
       if (e.key !== 'Enter') return;
       e.preventDefault();
