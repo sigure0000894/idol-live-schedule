@@ -78,6 +78,11 @@
     chekiPagePriceInput: $('#chekiPagePriceInput'),
     chekiPageQtyInput: $('#chekiPageQtyInput'),
     chekiPageAddBtn: $('#chekiPageAddBtn'),
+    chekiCalendarPrevBtn: $('#chekiCalendarPrevBtn'),
+    chekiCalendarNextBtn: $('#chekiCalendarNextBtn'),
+    chekiCalendarMonthLabel: $('#chekiCalendarMonthLabel'),
+    chekiCalendarGrid: $('#chekiCalendarGrid'),
+    chekiCalendarDayDetail: $('#chekiCalendarDayDetail'),
     chekiGrandTotal: $('#chekiGrandTotal'),
     chekiGrandQty: $('#chekiGrandQty'),
     chekiSummaryList: $('#chekiSummaryList'),
@@ -134,6 +139,9 @@
     selectedDate: null,
     listYear: new Date().getFullYear(),
     listMonth: new Date().getMonth() + 1,
+    chekiCalendarYear: new Date().getFullYear(),
+    chekiCalendarMonth: new Date().getMonth() + 1,
+    chekiSelectedDate: null,
   };
 
   // Packing checklist for whichever live is currently open in the modal -
@@ -295,6 +303,84 @@
     if (lives.some((live) => live.id === prevSelected)) {
       els.chekiPageLiveSelect.value = prevSelected;
     }
+  }
+
+  function renderChekiCalendar() {
+    const yen = (n) => `¥${n.toLocaleString('ja-JP')}`;
+    const y = state.chekiCalendarYear;
+    const m = state.chekiCalendarMonth;
+    els.chekiCalendarMonthLabel.textContent = `${y}年${m}月`;
+
+    const byDate = {};
+    state.lives.forEach((live) => {
+      const items = live.cheki || [];
+      if (!items.length) return;
+      const qty = items.reduce((s, c) => s + (c.qty || 1), 0);
+      (byDate[live.date] = byDate[live.date] || []).push({ live, qty, items });
+    });
+
+    const firstDow = new Date(y, m - 1, 1).getDay();
+    const daysInMonth = new Date(y, m, 0).getDate();
+    const today = todayStr();
+
+    els.chekiCalendarGrid.innerHTML = '';
+    for (let i = 0; i < firstDow; i++) {
+      const padCell = document.createElement('div');
+      padCell.className = 'calendar-cell calendar-cell-empty';
+      els.chekiCalendarGrid.appendChild(padCell);
+    }
+    for (let d = 1; d <= daysInMonth; d++) {
+      const dateStr = `${y}-${pad(m)}-${pad(d)}`;
+      const dayEntries = byDate[dateStr] || [];
+      const dayQty = dayEntries.reduce((s, e) => s + e.qty, 0);
+      const cell = document.createElement('button');
+      cell.type = 'button';
+      cell.className = 'calendar-cell';
+      if (dateStr === today) cell.classList.add('is-today');
+      if (dateStr === state.chekiSelectedDate) cell.classList.add('is-selected');
+      if (dayQty > 0) cell.classList.add('has-events');
+      const badge = dayQty > 0 ? `<span class="cheki-cal-qty">${dayQty}</span>` : '';
+      cell.innerHTML = `<span class="calendar-cell-day">${d}</span>${badge}`;
+      cell.addEventListener('click', () => {
+        state.chekiSelectedDate = state.chekiSelectedDate === dateStr ? null : dateStr;
+        renderChekiCalendar();
+      });
+      els.chekiCalendarGrid.appendChild(cell);
+    }
+
+    els.chekiCalendarDayDetail.innerHTML = '';
+    if (!state.chekiSelectedDate) {
+      const hint = document.createElement('p');
+      hint.className = 'calendar-hint';
+      hint.textContent = '日付をタップすると内訳を表示します。';
+      els.chekiCalendarDayDetail.appendChild(hint);
+      return;
+    }
+    const selectedEntries = byDate[state.chekiSelectedDate] || [];
+    if (!selectedEntries.length) {
+      const hint = document.createElement('p');
+      hint.className = 'calendar-hint';
+      hint.textContent = 'この日のチェキ記録はありません。';
+      els.chekiCalendarDayDetail.appendChild(hint);
+      return;
+    }
+    selectedEntries.forEach(({ live, qty, items }) => {
+      const card = document.createElement('div');
+      card.className = 'cheki-live-card';
+      const itemsHtml = items.map((c) => {
+        const n = c.qty || 1;
+        const suffix = n > 1 ? ` ×${n}枚` : '';
+        return `<div class="cheki-live-item"><span>${escapeHtml(c.member || '(名前なし)')}${suffix}</span><b>${yen(chekiItemTotal(c))}</b></div>`;
+      }).join('');
+      card.innerHTML = `
+        <div class="cheki-live-head">
+          <span><span class="cheki-live-label">${escapeHtml(live.group)}</span><span class="cheki-live-date">${qty}枚</span></span>
+          <span class="cheki-live-total">${yen(chekiTotal(live))}</span>
+        </div>
+        <div class="cheki-live-items">${itemsHtml}</div>
+      `;
+      els.chekiCalendarDayDetail.appendChild(card);
+    });
   }
 
   function renderChekiSummaryScreen() {
@@ -727,6 +813,19 @@
     renderCalendarView();
   });
 
+  els.chekiCalendarPrevBtn.addEventListener('click', () => {
+    state.chekiCalendarMonth -= 1;
+    if (state.chekiCalendarMonth < 1) { state.chekiCalendarMonth = 12; state.chekiCalendarYear -= 1; }
+    state.chekiSelectedDate = null;
+    renderChekiCalendar();
+  });
+  els.chekiCalendarNextBtn.addEventListener('click', () => {
+    state.chekiCalendarMonth += 1;
+    if (state.chekiCalendarMonth > 12) { state.chekiCalendarMonth = 1; state.chekiCalendarYear += 1; }
+    state.chekiSelectedDate = null;
+    renderChekiCalendar();
+  });
+
   // Tabs
   els.tabs.addEventListener('click', (e) => {
     const btn = e.target.closest('.tab');
@@ -914,6 +1013,7 @@
     els.chekiPageMemberInput.value = '';
     els.chekiPagePriceInput.value = '';
     els.chekiPageQtyInput.value = '1';
+    renderChekiCalendar();
     renderChekiSummaryScreen();
   });
   [els.chekiPageMemberInput, els.chekiPagePriceInput, els.chekiPageQtyInput].forEach((input) => {
@@ -1164,6 +1264,7 @@
       renderSpendingSummary();
     } else if (name === 'cheki') {
       renderChekiLiveOptions();
+      renderChekiCalendar();
       renderChekiSummaryScreen();
     }
   }

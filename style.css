@@ -412,6 +412,18 @@ html, body {
   border-radius: 50%;
 }
 
+.cheki-cal-qty {
+  min-width: 14px;
+  height: 14px;
+  line-height: 14px;
+  padding: 0 4px;
+  border-radius: 999px;
+  background: var(--primary);
+  color: var(--bg);
+  font-size: 9px;
+  font-weight: 800;
+}
+
 .calendar-day-detail {
   display: flex;
   flex-direction: column;

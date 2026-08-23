@@ -148,6 +148,24 @@
     </section>
 
     <section class="settings-section">
+      <h2 class="settings-title">カレンダー</h2>
+      <div class="calendar-nav">
+        <button type="button" class="icon-btn calendar-nav-btn" id="chekiCalendarPrevBtn" aria-label="前の月">
+          <svg viewBox="0 0 24 24" width="18" height="18"><path d="M15 4 L7 12 L15 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <span class="calendar-month-label" id="chekiCalendarMonthLabel"></span>
+        <button type="button" class="icon-btn calendar-nav-btn" id="chekiCalendarNextBtn" aria-label="次の月">
+          <svg viewBox="0 0 24 24" width="18" height="18"><path d="M9 4 L17 12 L9 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+      <div class="calendar-dow-row">
+        <span>日</span><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span>
+      </div>
+      <div class="calendar-grid" id="chekiCalendarGrid"></div>
+      <div class="calendar-day-detail" id="chekiCalendarDayDetail"></div>
+    </section>
+
+    <section class="settings-section">
       <h2 class="settings-title">チェキ集計</h2>
       <div class="spending-total" id="chekiGrandTotal">¥0</div>
       <p class="cheki-grand-qty" id="chekiGrandQty">全0枚</p>
