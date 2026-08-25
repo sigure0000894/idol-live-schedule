@@ -42885,5 +42885,32 @@
     "prefecture": "大阪府",
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-08-25T18:34:22Z"
+  },
+  "https://eplus.jp/sf/detail/4593220001-P0030001P021001": {
+    "title": "SET YOU FREE～VS SERIES",
+    "group": "SET YOU FREE～VS SERIES",
+    "date": "2026-09-30",
+    "venue": "KOENJI HIGH（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-25T21:26:44Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030004P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2026-11-06",
+    "venue": "横浜BAY HALL（神奈川県）",
+    "prefecture": "神奈川県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-25T21:26:44Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030005P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2026-11-14",
+    "venue": "Music Club JANUS（大阪府）",
+    "prefecture": "大阪府",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-25T21:26:44Z"
   }
 }
