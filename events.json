@@ -42822,5 +42822,50 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-08-25T12:41:45Z"
+  },
+  "https://tiget.net/events/516603": {
+    "title": "9/13(日)「Spiritwalker Jam レベレベCAN...",
+    "group": "REBEL REBEL / EVERYTHING IS W...",
+    "date": "2026-09-13",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-25T15:40:22Z"
+  },
+  "https://tiget.net/events/517578": {
+    "title": "Teamくれれっ娘！定期公演「Teamくれれっ娘！フェスタ Vo...",
+    "group": "Teamくれれっ娘！",
+    "date": "2026-09-26",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-25T15:40:22Z"
+  },
+  "https://tiget.net/events/517576": {
+    "title": "True Love",
+    "group": "信野樹奈 / 守道小粋",
+    "date": "2026-09-26",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-25T15:40:22Z"
+  },
+  "https://tiget.net/events/517558": {
+    "title": "Happy ParadiSe幸村ちさと生誕祭",
+    "group": "HappyParadiSe / 幸村ちさと / 漆黒ノ協奏...",
+    "date": "2026-09-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-25T15:40:22Z"
+  },
+  "https://ticketdive.com/event/GENmuraFes-20260829": {
+    "title": "GEN村フェス２次会",
+    "group": "GEN村フェス２次会",
+    "date": null,
+    "venue": "",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-08-25T15:42:00Z"
   }
 }
