@@ -44010,5 +44010,167 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-08-26T16:19:06Z"
+  },
+  "https://tiget.net/events/517886": {
+    "title": "すずはらかのんプレミアム個人撮影会",
+    "group": "すずはらかのん",
+    "date": "2026-08-29",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-26T19:45:58Z"
+  },
+  "https://eplus.jp/sf/detail/3825680001-P0030015P021001": {
+    "title": "ふぇありーているず!",
+    "group": "ふぇありーているず!",
+    "date": "2026-09-20",
+    "venue": "CLUB ANiMA（北海道）",
+    "prefecture": "北海道",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4581140001-P0030001P021001": {
+    "title": "ANOTHER ME -Mirei Sasaki 1st Live-",
+    "group": "ANOTHER ME -Mirei Sasaki 1st Live-",
+    "date": "2026-10-10",
+    "venue": "日本橋三井ホール（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4581140001-P0030001P021002": {
+    "title": "ANOTHER ME -Mirei Sasaki 1st Live-",
+    "group": "ANOTHER ME -Mirei Sasaki 1st Live-",
+    "date": "2026-10-10",
+    "venue": "日本橋三井ホール（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/3746860001-P0030079P021001": {
+    "title": "OCHA NORMA",
+    "group": "OCHA NORMA",
+    "date": "2026-10-24",
+    "venue": "COMTEC PORTBASE（愛知県）",
+    "prefecture": "愛知県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/3746860001-P0030079P021002": {
+    "title": "OCHA NORMA",
+    "group": "OCHA NORMA",
+    "date": "2026-10-24",
+    "venue": "COMTEC PORTBASE（愛知県）",
+    "prefecture": "愛知県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/0432800001-P0030259P021001": {
+    "title": "アンジュルム",
+    "group": "アンジュルム",
+    "date": "2026-11-01",
+    "venue": "長野市芸術館 メインホール（長野県）",
+    "prefecture": "長野県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/0432800001-P0030259P021002": {
+    "title": "アンジュルム",
+    "group": "アンジュルム",
+    "date": "2026-11-01",
+    "venue": "長野市芸術館 メインホール（長野県）",
+    "prefecture": "長野県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/3293110001-P0030025P021001": {
+    "title": "@onefive",
+    "group": "@onefive",
+    "date": "2026-11-10",
+    "venue": "KT Zepp Yokohama（神奈川県）",
+    "prefecture": "神奈川県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/0432800001-P0030260P021001": {
+    "title": "アンジュルム",
+    "group": "アンジュルム",
+    "date": "2026-11-11",
+    "venue": "札幌市教育文化会館 大ホール（北海道）",
+    "prefecture": "北海道",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030006P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2026-12-04",
+    "venue": "MASH HALL（北海道）",
+    "prefecture": "北海道",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030007P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2026-12-12",
+    "venue": "神戸VARIT.（兵庫県）",
+    "prefecture": "兵庫県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030008P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2026-12-18",
+    "venue": "桜坂セントラル（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030009P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2026-12-25",
+    "venue": "仙台Rensa（宮城県）",
+    "prefecture": "宮城県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030010P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2027-01-10",
+    "venue": "BEAT STATION（福岡県）",
+    "prefecture": "福岡県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030011P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2027-01-15",
+    "venue": "高松MONSTER（香川県）",
+    "prefecture": "香川県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030012P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」",
+    "date": "2027-01-22",
+    "venue": "X-HALL-ZEN-（愛知県）",
+    "prefecture": "愛知県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
+  },
+  "https://eplus.jp/sf/detail/4516620001-P0030013P021001": {
+    "title": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」《全公演怪談アリ》",
+    "group": "マザリ マザリ深夜全国ツアー「二十六時ノ呪怪列島」《全公演怪談アリ》",
+    "date": "2027-02-01",
+    "venue": "なかのZERO 大ホール（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-26T19:49:12Z"
   }
 }
