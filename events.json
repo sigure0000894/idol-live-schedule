@@ -42912,5 +42912,41 @@
     "prefecture": "大阪府",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-08-25T21:26:44Z"
+  },
+  "https://tiget.net/events/515739": {
+    "title": "点染テンセイ少女。 超早朝完全無銭LIVE",
+    "group": "点染テンセイ少女。",
+    "date": "2026-09-26",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-26T00:59:01Z"
+  },
+  "https://livepocket.jp/e/t5_6j": {
+    "title": "海音 presents 「あまねくテラス 〜朝の光編」",
+    "group": "海音(マリンブルーデージー) / リンダ(サブマリンオルカ号) / yuika",
+    "date": "2026-10-15",
+    "venue": "下北沢Laguna（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-26T01:02:06Z"
+  },
+  "https://livepocket.jp/e/fyrwy": {
+    "title": "ねぽっくす！ 〜ねぽらぼ×秘密結社holoX〜（有明アリーナ）DAY2",
+    "group": "雪花ラミィ / 桃鈴ねね / 獅白ぼたん / 尾丸ポルカ / ラプラス・ダークネス / 鷹嶺ルイ / 博衣こより / 風真いろは",
+    "date": "2026-09-27",
+    "venue": "有明アリーナ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-26T01:02:06Z"
+  },
+  "https://livepocket.jp/e/y8yfu": {
+    "title": "ねぽっくす！ 〜ねぽらぼ×秘密結社holoX〜（有明アリーナ）DAY1",
+    "group": "雪花ラミィ / 桃鈴ねね / 獅白ぼたん / 尾丸ポルカ / ラプラス・ダークネス / 鷹嶺ルイ / 博衣こより / 風真いろは",
+    "date": "2026-09-26",
+    "venue": "有明アリーナ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-26T01:02:06Z"
   }
 }
