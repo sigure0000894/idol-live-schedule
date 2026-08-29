@@ -45927,5 +45927,140 @@
     "prefecture": "千葉県",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-08-29T12:12:25Z"
+  },
+  "https://tiget.net/events/518060": {
+    "title": "Say acheese! vol.2",
+    "group": "Say acheese! vol.2",
+    "date": "2026-10-11",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-29T18:10:27Z"
+  },
+  "https://tiget.net/events/518508": {
+    "title": "スワスワちゃんpresents \"しゅわりんごパーラー\"",
+    "group": "スワスワちゃんpresents \"しゅわりんごパーラー\"",
+    "date": "2026-09-06",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-29T18:10:27Z"
+  },
+  "https://tiget.net/events/518505": {
+    "title": "SPP pre. 『ちゃんとしてなーい！』",
+    "group": "幾星霜を彷徨った君と希望を翳して。 / 榎本真弓(みゅい)...",
+    "date": "2026-09-08",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-29T18:10:27Z"
+  },
+  "https://tiget.net/events/518349": {
+    "title": "『POPAPIPUPEPOPA NEO』",
+    "group": "Nosquael / ロロキルッ！ / 福山あいどるくらぶ...",
+    "date": "2026-09-06",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-29T18:10:27Z"
+  },
+  "https://livepocket.jp/e/hyperproof25": {
+    "title": "\"hyperproof\" vol.25",
+    "group": "グデイ / 美味しい水玉 / KIKO / ki.o.ku / syqsyq",
+    "date": "2026-09-14",
+    "venue": "FEVER（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-29T18:13:17Z"
+  },
+  "https://livepocket.jp/e/20261203": {
+    "title": "Mr.マングース6周年企画 『ハブとツーマン』",
+    "group": "Mr.マングース",
+    "date": "2026-12-03",
+    "venue": "Flowers Loft（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-29T18:13:17Z"
+  },
+  "https://eplus.jp/sf/detail/4317360001-P0030012P021001": {
+    "title": "ロージークロニクル",
+    "group": "ロージークロニクル",
+    "date": "2026-09-12",
+    "venue": "Zepp DiverCity(TOKYO)（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/2345170001-P0030444P021001": {
+    "title": "STU48 4期研究生「さあ 未来を探しに行こうか?」公演",
+    "group": "STU48 4期研究生「さあ 未来を探しに行こうか?」公演",
+    "date": "2026-09-16",
+    "venue": "STU48広島劇場(広島クラブクアトロ)（広島県）",
+    "prefecture": "広島県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/2345170001-P0030446P021001": {
+    "title": "STU48 STU48 Live Tour 2026",
+    "group": "STU48 STU48 Live Tour 2026",
+    "date": "2026-09-27",
+    "venue": "UNITED LAB（福岡県）",
+    "prefecture": "福岡県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/2345170001-P0030446P021002": {
+    "title": "STU48 STU48 Live Tour 2026",
+    "group": "STU48 STU48 Live Tour 2026",
+    "date": "2026-09-27",
+    "venue": "UNITED LAB（福岡県）",
+    "prefecture": "福岡県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/4589780001-P0030001P021001": {
+    "title": "茉白彩聖",
+    "group": "茉白彩聖",
+    "date": "2026-09-30",
+    "venue": "Zepp Shinjuku (TOKYO)（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/4595210001-P0030001P021001": {
+    "title": "ヒカシュー×XOXO EXTREME2マンライブ「ヒカエク」 秋のYOIMACHI プレイベント PRE-MACHI",
+    "group": "ヒカシュー×XOXO EXTREME2マンライブ「ヒカエク」 秋のYOIMACHI プレイベント PRE-MACHI",
+    "date": "2026-10-02",
+    "venue": "大塚 Live House Hearts+（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/3864720001-P0030004P021004": {
+    "title": "かがやきフェス 2026",
+    "group": "かがやきフェス 2026",
+    "date": "2026-10-03",
+    "venue": "金沢歌劇座/各ライブハウス会場",
+    "prefecture": null,
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/3739690001-P0030087P021001": {
+    "title": "PIGGS",
+    "group": "PIGGS",
+    "date": "2026-10-12",
+    "venue": "鴬谷 東京キネマ倶楽部（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/2029630001-P0030569P021001": {
+    "title": "MARQUEE祭 Vol.183",
+    "group": "MARQUEE祭 Vol.183",
+    "date": "2026-10-15",
+    "venue": "Spotify O-WEST（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T18:13:34Z"
   }
 }
