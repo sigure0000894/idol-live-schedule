@@ -46062,5 +46062,23 @@
     "prefecture": "東京都",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-08-29T18:13:34Z"
+  },
+  "https://eplus.jp/sf/detail/2222150001-P0030110P021001": {
+    "title": "Devil ANTHEM.",
+    "group": "Devil ANTHEM.",
+    "date": "2026-12-06",
+    "venue": "仙台darwin（宮城県）",
+    "prefecture": "宮城県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T23:04:04Z"
+  },
+  "https://eplus.jp/sf/detail/2222150001-P0030111P021001": {
+    "title": "Devil ANTHEM.",
+    "group": "Devil ANTHEM.",
+    "date": "2026-12-19",
+    "venue": "GORILLA HALL OSAKA（大阪府）",
+    "prefecture": "大阪府",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-08-29T23:04:04Z"
   }
 }
