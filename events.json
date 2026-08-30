@@ -46080,5 +46080,86 @@
     "prefecture": "大阪府",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-08-29T23:04:04Z"
+  },
+  "https://tiget.net/events/518367": {
+    "title": "「Galaxy SUPER LIVE」AKIBA GALAXY ...",
+    "group": "キプリスモルホォ / INSRiA / ドキドキハキミノセ...",
+    "date": "2026-09-06",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-30T03:03:40Z"
+  },
+  "https://tiget.net/events/518462": {
+    "title": "Monster Cat's MONTHLY LIVE -Sept...",
+    "group": "Monster Cat's / SPROUTTRAINEE",
+    "date": "2026-09-19",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-30T03:03:40Z"
+  },
+  "https://tiget.net/events/517984": {
+    "title": "めろん畑a go go Pre.【HORROR BILLY NI...",
+    "group": "めろん畑a go go Pre.【HORROR BILLY NI...",
+    "date": "2026-10-24",
+    "venue": "栃木県",
+    "prefecture": "栃木県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-30T03:03:40Z"
+  },
+  "https://tiget.net/events/518394": {
+    "title": "ぽけっとファントム撮影会",
+    "group": "松岡未都、南雲ひより、水沢美咲、月詠乃愛",
+    "date": "2026-09-26",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-30T03:03:40Z"
+  },
+  "https://tiget.net/events/517919": {
+    "title": "まどろみMusicnight vol.27",
+    "group": "nem仔 / ぼくのかみさま / 夢咲あいり(異国のルミナ...",
+    "date": "2026-09-16",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-30T03:03:40Z"
+  },
+  "https://tiget.net/events/518334": {
+    "title": "MEMORI定期イベント『三千年の記憶27』",
+    "group": "MEMORI定期イベント『三千年の記憶27』",
+    "date": "2026-09-17",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-08-30T03:03:40Z"
+  },
+  "https://livepocket.jp/e/20260926_night_lofta": {
+    "title": "沖田遊戯トークライブ　「じゃきじゃけ」",
+    "group": "沖田遊戯",
+    "date": "2026-09-26",
+    "venue": "阿佐ヶ谷ロフトA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-30T03:06:22Z"
+  },
+  "https://livepocket.jp/e/yq5gk": {
+    "title": "TAKE OFF 7 × ちょこはち presents 『chocolat décollage』",
+    "group": "ちょこはち / MoooLy Men / Koyoi",
+    "date": "2026-09-16",
+    "venue": "SHIBUYA TAKE OFF 7（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-30T03:06:22Z"
+  },
+  "https://livepocket.jp/e/bgc_26_autumn": {
+    "title": "BUGY CRAXONE 2026 winter oneman show わたしたちをよろしく",
+    "group": "BUGY CRAXONE 2026 winter oneman show わたしたちをよろしく",
+    "date": "2026-11-01",
+    "venue": "下北沢BASEMENTBAR（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-08-30T03:06:22Z"
   }
 }
