@@ -50427,5 +50427,50 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-09-01T13:59:04Z"
+  },
+  "https://tiget.net/events/518827": {
+    "title": "【ぽんふぇす⑤】秋月みく生誕祭2026 ～ 昼祭 ～",
+    "group": "翔んでファレノプシス / 岩村 華 / プリンセスは眠らな...",
+    "date": "2026-09-26",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-01T18:09:20Z"
+  },
+  "https://tiget.net/events/519503": {
+    "title": "ゆりざべす生誕祭お祝いご協力企画",
+    "group": "ゆりざべす生誕祭お祝いご協力企画",
+    "date": "2026-12-12",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-01T18:09:20Z"
+  },
+  "https://tiget.net/events/519468": {
+    "title": "きみとバンドミステリー沖縄オフ会",
+    "group": "きみとバンド",
+    "date": "2026-09-13",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-01T18:09:20Z"
+  },
+  "https://tiget.net/events/519440": {
+    "title": "オンリーワンスVol.3",
+    "group": "オンリーワンスVol.3",
+    "date": "2026-09-21",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-01T18:09:20Z"
+  },
+  "https://ticketdive.com/event/freexiwami2026_3": {
+    "title": "イベント限定！岩美中学校見学",
+    "group": "イベント限定！岩美中学校見学",
+    "date": "2026-10-11",
+    "venue": "岩美中学校",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-01T18:12:07Z"
   }
 }
