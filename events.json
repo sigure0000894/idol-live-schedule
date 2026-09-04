@@ -52173,5 +52173,302 @@
     "prefecture": null,
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-09-03T22:59:21Z"
+  },
+  "https://tiget.net/events/519829": {
+    "title": "あなただけの歌",
+    "group": "竹内一央",
+    "date": "2026-09-06",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-04T02:30:02Z"
+  },
+  "https://tiget.net/events/520110": {
+    "title": "風愛ことり 浴衣撮影会in浅草",
+    "group": "風愛ことり",
+    "date": "2026-09-27",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-04T02:30:02Z"
+  },
+  "https://livepocket.jp/e/ih6co": {
+    "title": "ポケモンカードゲーム「メガシンフォニア」抽選販売受付",
+    "group": "ポケモンカードゲーム「メガシンフォニア」抽選販売受付",
+    "date": "2026-09-11",
+    "venue": "TSUTAYA鳥栖店（佐賀県）",
+    "prefecture": "佐賀県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/95u98": {
+    "title": "ポケモンカードゲーム「メガブレイブ」抽選販売受付",
+    "group": "ポケモンカードゲーム「メガブレイブ」抽選販売受付",
+    "date": "2026-09-11",
+    "venue": "TSUTAYA鳥栖店（佐賀県）",
+    "prefecture": "佐賀県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/0lbil": {
+    "title": "推しナンデス！vol.24 ～今回は前田あこナンデス",
+    "group": "前田あこ",
+    "date": "2026-09-20",
+    "venue": "LEFKADA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/8vv76": {
+    "title": "米花 剛史【30th Anniversary&Birthday Event】",
+    "group": "米花 剛史 / 秋山 純 / 町田 慎吾",
+    "date": "2026-10-03",
+    "venue": "BLUE SQUARE YOTSUYA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/25is-": {
+    "title": "米花 剛史【30th Anniversary&Birthday Event】",
+    "group": "米花 剛史 / 秋山 純 / 町田 慎吾",
+    "date": "2026-10-03",
+    "venue": "BLUE SQUARE YOTSUYA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/tvmjk": {
+    "title": "ポケモンカードゲーム MEGA 30thCELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+    "group": "ポケモンカードゲーム MEGA 30thCELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+    "date": "2026-09-16",
+    "venue": "文教堂函館昭和店（北海道）",
+    "prefecture": "北海道",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/fby1106": {
+    "title": "FBY FLOOR LIVE one man show",
+    "group": "FRONTIER BACKYARD",
+    "date": "2026-11-06",
+    "venue": "SPREAD（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/gvs6o": {
+    "title": "キデイランド 浦和美園店　ポケモンカードゲームMEGA　拡張パック「ストームエメラルダ」購入券 抽選",
+    "group": "キデイランド 浦和美園店　ポケモンカードゲームMEGA　拡張パック「ストームエメラルダ」購入券 抽選",
+    "date": "2026-09-11",
+    "venue": "キデイランド浦和美園店（埼玉県）",
+    "prefecture": "埼玉県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/brghnoir1108": {
+    "title": "Day2 - NOIR TOUR 2026 -AFTER PARTY- in OKINAWA",
+    "group": "BELLRING少女ハート",
+    "date": "2026-11-08",
+    "venue": "沖縄Cyber-Box（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/brghnoir1108off": {
+    "title": "BBQオフ会 in OKINAWA",
+    "group": "BELLRING少女ハート",
+    "date": "2026-11-08",
+    "venue": "Costa Village ESPANA -コスタビレッジ エスパーナ-（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/brghnoir1107": {
+    "title": "Day1 - NOIR TOUR 2026 -AFTER PARTY- in OKINAWA",
+    "group": "BELLRING少女ハート / RYUKYU IDOL",
+    "date": "2026-11-07",
+    "venue": "沖縄Cyber-Box（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/0wxia": {
+    "title": "【10/12・12:00】壇あやこ『BOINISM』DVD発売記念イベント",
+    "group": "壇あやこ",
+    "date": "2026-10-12",
+    "venue": "ソフマップAKIBA アミューズメント館 8階（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/hphfu": {
+    "title": "【10/12・14:00】日下部ほたる『どんどんやる気になる！日下部式学習法』DVD発売記念イベント",
+    "group": "日下部ほたる",
+    "date": "2026-10-12",
+    "venue": "ソフマップAKIBA アミューズメント館 8階（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/3s62g": {
+    "title": "【10/10・16:00】立花りんか『見つけてくれてありがとう』DVD発売記念イベント",
+    "group": "立花りんか",
+    "date": "2026-10-10",
+    "venue": "ソフマップAKIBA アミューズメント館 8階（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/koroste_vol49-1": {
+    "title": "【殺ステvol.49(1部)】(Dexeultio単独)",
+    "group": "DeXeultio",
+    "date": "2026-10-09",
+    "venue": "下北沢シャングリラ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/koroste_vol49-2": {
+    "title": "【殺ステvol.49(2部)】(Dexeultio単独)",
+    "group": "DeXeultio",
+    "date": "2026-10-09",
+    "venue": "下北沢シャングリラ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/1009tokyo2": {
+    "title": "［一般抽選］THE とーや関係者～スタッフが語るとーやのリアル～東京",
+    "group": "とーや",
+    "date": "2026-10-09",
+    "venue": "Asagaya Loft A（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/kantabdsenko": {
+    "title": "KANTA Birthday EVENT (先行&VIP)",
+    "group": "Heyhe1 / KANTA / etc...",
+    "date": "2026-10-09",
+    "venue": "アムホール（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/nana_2026": {
+    "title": "天沢なな_生誕企画2026",
+    "group": "#Mooove! / 天沢なな",
+    "date": "2026-10-07",
+    "venue": "都内某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/20261004sun": {
+    "title": "【昼公演】Tribu presents SUN",
+    "group": "berliner filling wish / LØISLOID / novel junction / you-show / AVACLUB",
+    "date": "2026-10-04",
+    "venue": "西永福JAM（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/ch20m": {
+    "title": "１０月４日(日)　バンビーナ撮影会　夏目みさこ",
+    "group": "１０月４日(日)　バンビーナ撮影会　夏目みさこ",
+    "date": "2026-10-04",
+    "venue": "銭湯（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/j4v93": {
+    "title": "１０月４日(日)　バンビーナ撮影会　天海せな",
+    "group": "１０月４日(日)　バンビーナ撮影会　天海せな",
+    "date": "2026-10-04",
+    "venue": "銭湯（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/taips": {
+    "title": "【10/4・18:00】Gyava『ギャバちゃんラヴ』DVD発売記念イベント",
+    "group": "Gyava",
+    "date": "2026-10-04",
+    "venue": "ソフマップAKIBA アミューズメント館 8階（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/1004osaka2": {
+    "title": "［一般抽選］THE とーや関係者～スタッフが語るとーやのリアル～大阪",
+    "group": "とーや",
+    "date": "2026-10-04",
+    "venue": "Loft PlusOne West（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/20261003": {
+    "title": "東京flavor スペシャルライブ2026",
+    "group": "東京flavor",
+    "date": "2026-10-03",
+    "venue": "大塚ドリームシアター（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/20261003day": {
+    "title": "【昼公演】Tribu presents DAY",
+    "group": "kijō no kūron / ЯanaB / RETRORAIN / berliner filling wish / LØISLOID",
+    "date": "2026-10-03",
+    "venue": "西永福JAM（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/diabell_1002_1": {
+    "title": "やみおちっvol22　[1部]",
+    "group": "diabell",
+    "date": "2026-10-02",
+    "venue": "渋谷音楽堂（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/diabell_1002_2": {
+    "title": "やみおちっvol22 2部",
+    "group": "diabell",
+    "date": "2026-10-02",
+    "venue": "渋谷音楽堂（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/k8que": {
+    "title": "りんと生誕祭『よもぎの楽園でレッツパーティー』",
+    "group": "君色パティシエ",
+    "date": "2026-10-02",
+    "venue": "BUZZ LIVE 赤坂（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/girls_delight419": {
+    "title": "『GIRLS☆DELIGHT#419』",
+    "group": "彗星♩dropTune° / DRAWCY / Lって何のLですか？ / DREAMING MONSTER / I MY ME MINE / アキシブproject / Aerolipop / きゅんﾀﾋに一生を!? / 強がりセンセーション / MELYUME / ai*ai / あくまで天使 / OS☆U  / キミニハネ / Sophià la Mode / 昼夜逆転 / New Crown / HAPPY CREATORS / PiRiRi / 魔訶不思議変革者-デスデス- / Lily wonder / LunaMoon",
+    "date": "2026-09-30",
+    "venue": "新宿ReNY（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
+  },
+  "https://livepocket.jp/e/al-00": {
+    "title": "infini定期ライブ  i-LIVE story 【第6話】",
+    "group": "本田理乃",
+    "date": "2026-09-29",
+    "venue": "Buddy up!（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-04T02:32:44Z"
   }
 }
