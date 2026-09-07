@@ -55674,5 +55674,59 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-07T14:47:22Z"
+  },
+  "https://tiget.net/events/520702": {
+    "title": "アイコピフェス!!",
+    "group": "アイコピフェス!!",
+    "date": "2026-09-21",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-07T19:01:59Z"
+  },
+  "https://tiget.net/events/521285": {
+    "title": "『可愛愛兎のレベルが29になりました。良い感じに祝ってください！...",
+    "group": "可愛愛兎 / 雅孔 / 禁断のティアラ / 清水穗 / ス...",
+    "date": "2026-09-21",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-07T19:01:59Z"
+  },
+  "https://tiget.net/events/521269": {
+    "title": "TOKYO青春映画祭2026・DAY2",
+    "group": "TOKYO青春映画祭2026・DAY2",
+    "date": "2026-10-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-07T19:01:59Z"
+  },
+  "https://tiget.net/events/521268": {
+    "title": "TOKYO青春映画祭2026・DAY1",
+    "group": "TOKYO青春映画祭2026・DAY1",
+    "date": "2026-10-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-07T19:01:59Z"
+  },
+  "https://tiget.net/events/520914": {
+    "title": "「情熱LIVE!!オールジャンルイベント編」",
+    "group": "「情熱LIVE!!オールジャンルイベント編」",
+    "date": "2026-09-21",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-07T19:01:59Z"
+  },
+  "https://ticketdive.com/event/sd8gWYNIxpBXqPHFFxAK": {
+    "title": "［愛知公演］ミュージカル『ファインディング・ネバーランド』",
+    "group": "［愛知公演］ミュージカル『ファインディング・ネバーランド』",
+    "date": "2027-02-19",
+    "venue": "愛知県芸術劇場 大ホール",
+    "prefecture": "愛知県",
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-07T19:05:31Z"
   }
 }
