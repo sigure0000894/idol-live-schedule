@@ -62100,5 +62100,41 @@
     "prefecture": "東京",
     "source": "liveidol.blog（集約サイト）",
     "firstSeen": "2026-09-08T13:21:06Z"
+  },
+  "https://tiget.net/events/521550": {
+    "title": "大槻梢生誕祭　こずこずのいちばんかわいいところ",
+    "group": "Vo.大槻梢 / Pf.滝野郁瑛 / Dr.足立浩 / B...",
+    "date": "2026-11-29",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-08T18:18:26Z"
+  },
+  "https://livepocket.jp/e/ibnki": {
+    "title": "OITA PORT HALL こけら落とし",
+    "group": "TAKEBAN / 昭和爆弾 / 毒より甘い菊の味 / DJ 皆殺し / IRIS / TOMOMASA NAKAMURA / Jays / IBIZAROCK / GOTCH / PANDA STAR / YUJI KURODA",
+    "date": "2026-10-11",
+    "venue": "OITA PORT HALL（大分県）",
+    "prefecture": "大分県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-08T18:21:08Z"
+  },
+  "https://livepocket.jp/e/trn6m": {
+    "title": "『代々木DE誕生祭』",
+    "group": "なだぎ武 / もう中学生",
+    "date": "2026-10-16",
+    "venue": "A Talk Club WOOFER（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-08T18:21:08Z"
+  },
+  "https://ticketdive.com/event/ilife-yukata2026": {
+    "title": "iLiFE! 浴衣特典会",
+    "group": "iLiFE! 浴衣特典会",
+    "date": "2026-09-13",
+    "venue": "東京流通センター 第二展示Fホール",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-08T18:21:09Z"
   }
 }
