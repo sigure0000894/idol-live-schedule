@@ -62739,5 +62739,509 @@
     "prefecture": "大阪府",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-09-09T07:52:04Z"
+  },
+  "https://tiget.net/events/519549": {
+    "title": "KINSEI 20th BIRTHDAY PARTY KII-C...",
+    "group": "KINSEI 20th BIRTHDAY PARTY KII-C...",
+    "date": "2026-09-26",
+    "venue": "青森県",
+    "prefecture": "青森県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521418": {
+    "title": "おかえり！ぱんまつり ~秋~【もっち生誕＆活動11周年記念ライブ】",
+    "group": "木之宮有香 / もっち / 星野亜里沙 / Sparkly...",
+    "date": "2026-10-17",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/520618": {
+    "title": "プエラの絶対値 向葵presents名古屋城撮影会",
+    "group": "プエラの絶対値",
+    "date": "2026-09-13",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/519978": {
+    "title": "ネクストカルチャーズVAMPKIN",
+    "group": "AIMIA / antares / InnocentFai...",
+    "date": "2026-09-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/520249": {
+    "title": "おむすびコロコロ 感謝ライブ〜ありがとうをぎゅっと結んで♡〜",
+    "group": "おむすびコロコロ",
+    "date": "2026-12-01",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/520509": {
+    "title": "「Star’s light at Stage Vol.104」 ...",
+    "group": "なづ季澪 / 彩星夏海 / 浅緋桃 / 小鳥遊七星 / r...",
+    "date": "2026-10-04",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/520505": {
+    "title": "「Star’s light at Stage Vol.104」 ...",
+    "group": "なづ季澪 / 彩星夏海 / 海凪きぬ / 浅緋桃 / 小鳥...",
+    "date": "2026-10-04",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521412": {
+    "title": "Historic X-over",
+    "group": "モードラ / goonie / いざ参らん / 姫事絶対値",
+    "date": "2026-09-27",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521438": {
+    "title": "「PGN撮影会(0919)」",
+    "group": "みやでらみほ / 月乃みか / 伊波紗彩",
+    "date": "2026-09-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521117": {
+    "title": "みんなで作る音楽体験！ ～のんちゃん定期またまた借りましたSP～",
+    "group": "木元のぞみ / 葉月 / 鈴原優美",
+    "date": "2026-09-19",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521356": {
+    "title": "SUPER HARD C",
+    "group": "BudLaB / プエラの絶対値 / ルナリウム",
+    "date": "2026-10-09",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521049": {
+    "title": "残響倫理",
+    "group": "残響のリフレイン / SQRRL / RETRORAIN ...",
+    "date": "2026-10-16",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521460": {
+    "title": "ラストブルー佳美メイ20th記念ライブ「youth,again.」",
+    "group": "ラストブルー",
+    "date": "2026-10-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521454": {
+    "title": "GIRLS LIVE-Diary 4部  (9/19)",
+    "group": "GIRLS LIVE-Diary 4部  (9/19)",
+    "date": "2026-09-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521450": {
+    "title": "GIRLS LIVE-Diary 3部  (9/19)",
+    "group": "GIRLS LIVE-Diary 3部  (9/19)",
+    "date": "2026-09-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521448": {
+    "title": "GIRLS LIVE-Diary 2部  (9/19)",
+    "group": "GIRLS LIVE-Diary 2部  (9/19)",
+    "date": "2026-09-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521443": {
+    "title": "GIRLS LIVE-Diary 1部  (9/19)",
+    "group": "GIRLS LIVE-Diary 1部  (9/19)",
+    "date": "2026-09-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521439": {
+    "title": "「LmG2:ReG Live Vol.01 髙石彩乃 みゆう 合...",
+    "group": "STRAWBERRY FEATHERSTAR / Lana...",
+    "date": "2026-09-28",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521824": {
+    "title": "桃乃あまみ生誕単独公演『 吠えろ！狂犬！MIX祭 』",
+    "group": "てんしろっ！",
+    "date": "2026-10-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521817": {
+    "title": "9月企画スタジオ撮影会📸",
+    "group": "吉水真央",
+    "date": "2026-09-24",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521806": {
+    "title": "♡DEMICK心拍数爆上げ公演~ノンストップLIVE~",
+    "group": "♡DEMICK",
+    "date": "2026-09-16",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521797": {
+    "title": "RED-i presents「KALOA BIRTHDAY LI...",
+    "group": "RED-i",
+    "date": "2026-10-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521796": {
+    "title": "水曜もくるまれナイト✈️",
+    "group": "菅原にこ / 芹沢愛桜 / 花咲花奈",
+    "date": "2026-09-16",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521792": {
+    "title": "戦闘力、たったの3。 presents「戦闘区域― シンジュクサ...",
+    "group": "戦闘力、たったの3。 / アイアイタイガー / 1800 ...",
+    "date": "2026-09-13",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521786": {
+    "title": "みんなで一緒にあいととんとんまつり",
+    "group": "可愛愛兎 / 火炎十七隊 / 小松由里子 / 佐藤いずみ ...",
+    "date": "2026-09-21",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521783": {
+    "title": "柳家スーパーフェス DAY2",
+    "group": "柳家スーパーフェス DAY2",
+    "date": "2026-11-11",
+    "venue": "山梨県",
+    "prefecture": "山梨県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521779": {
+    "title": "purette debut live ~かわいいはまっすぐだ~",
+    "group": "purette",
+    "date": "2026-10-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521770": {
+    "title": "【東京】Teamくれれっ娘！東京出張公演",
+    "group": "Teamくれれっ娘！",
+    "date": "2026-10-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521768": {
+    "title": "【東京】I☆Cicle×ぷち☆ぽっぴんぐ ツーマンライブ",
+    "group": "Teamくれれっ娘！",
+    "date": "2026-10-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521764": {
+    "title": "Idol Monthly Live　ver.15",
+    "group": "Idol Monthly Live　ver.15",
+    "date": "2026-10-30",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521738": {
+    "title": "僕の仙台ヒストリア",
+    "group": "だいあくまめいろ / ぎゃると地雷 / Angelique...",
+    "date": "2026-11-21",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521737": {
+    "title": "ツーマン企画Fortuness✖️Lunouir Tiara 『...",
+    "group": "二刀流系アイドルFortuness / Lunouir T...",
+    "date": "2026-10-02",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521726": {
+    "title": "RETRORAIN無銭単独公演 「RAIN FALL」at AO...",
+    "group": "RETRORAIN",
+    "date": "2026-09-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521723": {
+    "title": "モーニングしながら動物を見る会(※雨天決行修行)",
+    "group": "黒川音 / 小熊りん / 倉瀬あすか / 松羽柑奈 / 月...",
+    "date": "2026-09-13",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521714": {
+    "title": "NOVA",
+    "group": "NOVA",
+    "date": "2026-09-16",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521627": {
+    "title": "魁の部屋vol.35",
+    "group": "魁の部屋vol.35",
+    "date": "2026-11-24",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521623": {
+    "title": "山作戰&ROXY pre.   熊本災害チャリティーイベント『で...",
+    "group": "山作戰&ROXY pre.   熊本災害チャリティーイベント『で...",
+    "date": "2026-09-25",
+    "venue": "静岡県",
+    "prefecture": "静岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521621": {
+    "title": "#BEMYLOVE 平日定期公演",
+    "group": "#BEMYLOVE",
+    "date": "2026-09-16",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521600": {
+    "title": "空色Glitterハロウィンオフ会",
+    "group": "空色Glitterハロウィンオフ会",
+    "date": "2026-10-10",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521593": {
+    "title": "IQ99定期公演「耐久99」vol.27",
+    "group": "IQ99 / おまんじゅう倶楽部 / 主謀者翔馬",
+    "date": "2026-10-05",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521592": {
+    "title": "『KiLLiNG ME vol.68』",
+    "group": "My Criminal Lovers' / ユキノユーリ ...",
+    "date": "2026-09-13",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521591": {
+    "title": "『 IDOL IGNITION　vol.3』",
+    "group": "みるせんっ！ / Re:M!ND / 世界逆転宣言 / S...",
+    "date": "2026-09-13",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521585": {
+    "title": "11/3中野夢で逢えたら主催「This is 福岡」",
+    "group": "甘夏ゆず",
+    "date": "2026-11-03",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521582": {
+    "title": "アユスク8周年ワンマン「Glanzia」アフターイベント",
+    "group": "I to U $CREAMing!!",
+    "date": "2026-09-12",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521574": {
+    "title": "愛野爆誕2026",
+    "group": "うさぎみく / 松山あおい / 津崎真希 / 小鳥遊める ...",
+    "date": "2026-10-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521565": {
+    "title": "iDOLUMiNEXi",
+    "group": "世ノ果テデ人形ハ唯晒フ。 / ヴィランの掟 / 世界逆転宣...",
+    "date": "2026-09-12",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521519": {
+    "title": "Poppin'Party vol.5~肌寒い秋風が吹いても もう...",
+    "group": "未完成の瞬き / SØiD / Lonely‎‎‎²<3",
+    "date": "2026-09-16",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://tiget.net/events/521313": {
+    "title": "novel junction主催フリーライブ「Here's to...",
+    "group": "novel junction / KACHIDOKI / ...",
+    "date": "2026-09-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-09T13:25:00Z"
+  },
+  "https://livepocket.jp/e/oa9p1": {
+    "title": "UNIVERSE企画『NEW ORDER #無銭NIGHT』",
+    "group": "LOOPARADE / Drawry. / ろりぽっぷ!!!!!!! / Chime de Happy",
+    "date": "2026-10-05",
+    "venue": "新宿MARZ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
+  },
+  "https://livepocket.jp/e/sha_22": {
+    "title": "【SHEER HEART ATTACK vol.22 -ASK ME ANOTHER \"Gravity Release Tour 2026\"-】",
+    "group": "DREAMING ALONE / ASK ME ANOTHER / A Ghost of Flare / DATE BACK TO DAWN / HAYANIE / SYZYGYS / NABLA9 / SENSE OF DEFEAT / UNFACTION",
+    "date": "2026-10-22",
+    "venue": "新宿ANTIKNOCK（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
+  },
+  "https://livepocket.jp/e/y24m2": {
+    "title": "EMIHONO presents 「NEW PHASE」",
+    "group": "えみほの / MONICA",
+    "date": "2026-11-13",
+    "venue": "大塚MEETS（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
+  },
+  "https://livepocket.jp/e/5k0e8": {
+    "title": "【東京】マチ★アソビカフェTOKYO 9/21(月) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "group": "【東京】マチ★アソビカフェTOKYO 9/21(月) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "date": "2026-09-21",
+    "venue": "マチ★アソビカフェ東京（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
+  },
+  "https://livepocket.jp/e/sfkb5": {
+    "title": "【東京】マチ★アソビカフェTOKYO 9/20(日) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "group": "【東京】マチ★アソビカフェTOKYO 9/20(日) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "date": "2026-09-20",
+    "venue": "マチ★アソビカフェ東京（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
+  },
+  "https://livepocket.jp/e/pybut": {
+    "title": "【東京】マチ★アソビカフェTOKYO 9/19(土) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "group": "【東京】マチ★アソビカフェTOKYO 9/19(土) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "date": "2026-09-19",
+    "venue": "マチ★アソビカフェ東京（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
+  },
+  "https://livepocket.jp/e/f6vnv": {
+    "title": "【東京】マチ★アソビカフェTOKYO 9/18(金) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "group": "【東京】マチ★アソビカフェTOKYO 9/18(金) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "date": "2026-09-18",
+    "venue": "マチ★アソビカフェ東京（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
+  },
+  "https://livepocket.jp/e/7v6jz": {
+    "title": "【東京】マチ★アソビカフェTOKYO 9/17(木) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "group": "【東京】マチ★アソビカフェTOKYO 9/17(木) 『テイルズ オブ』シリーズ30周年 ufotable×Production I.G ~RPGが紡いだ軌跡~コラボレーションカフェ 第二期",
+    "date": "2026-09-17",
+    "venue": "マチ★アソビカフェ東京（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-09T13:27:59Z"
   }
 }
