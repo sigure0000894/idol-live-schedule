@@ -64728,5 +64728,32 @@
     "prefecture": null,
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-09-10T20:45:05Z"
+  },
+  "https://tiget.net/events/522176": {
+    "title": "ひまわりロックフェスVol.2",
+    "group": "マカロネイト / 大阪メルヘン / Bijou",
+    "date": "2026-10-16",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-10T22:56:40Z"
+  },
+  "https://livepocket.jp/e/2akya": {
+    "title": "流転ソワレ2026",
+    "group": "佳館杏ノ助 / 仙波清彦 / 梅津和時 / 白井良明 / 久米大作 / 髙橋香織 / かわいしのぶ / 濱田遼太朗",
+    "date": "2026-12-13",
+    "venue": "まほろ座 MACHIDA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-10T22:59:21Z"
+  },
+  "https://ticketdive.com/event/iCOL-5thAnniversary": {
+    "title": "HA☆PI☆BA - i-COL 5th AnniversaryLive -",
+    "group": "HA☆PI☆BA - i-COL 5th AnniversaryLive -",
+    "date": null,
+    "venue": "",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-10T22:59:40Z"
   }
 }
