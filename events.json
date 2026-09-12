@@ -65718,5 +65718,113 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-12T02:45:23Z"
+  },
+  "https://tiget.net/events/521028": {
+    "title": "4MAN LIVE 『二代目X-Order with Mirror』",
+    "group": "X-OVER / FOR:ACE / Place Orde...",
+    "date": "2026-10-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/521399": {
+    "title": "2026年9月20日(日)amabile主宰 MUSIC TRA...",
+    "group": "amabile / Baby inspire / ATLE...",
+    "date": "2026-09-20",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522511": {
+    "title": "おはようLIVE~パジャマ公演~",
+    "group": "♡DEMICK",
+    "date": "2026-09-19",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522498": {
+    "title": "アイドルパーティー in MBL 2026 9 20 〜配信li...",
+    "group": "せせらぎ小町 / Me-rise / Dorothy Li...",
+    "date": "2026-09-20",
+    "venue": "福島県",
+    "prefecture": "福島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522450": {
+    "title": "広島アイドルライブ「POPAPIPUPEPOPA NEO」",
+    "group": "ロロキルッ！ / 絶望のポメラニアン / 天女神樂 / N...",
+    "date": "2026-09-19",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522440": {
+    "title": "AKIARIM LAST TOUR「証」@ TOKYO SHIN...",
+    "group": "AKIARIM / CHEMICAL X / LOOPAR...",
+    "date": "2026-10-12",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522265": {
+    "title": "UP-T FESTIVAL mini名古屋 vol.2",
+    "group": "UP-T FESTIVAL mini名古屋 vol.2",
+    "date": "2026-09-27",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522263": {
+    "title": "「ZEST SUPER LIVE」AKIBA SELECT☆NE...",
+    "group": "キミイロプロジェクト / キミイロユース / ニコニコ♡L...",
+    "date": "2026-09-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522259": {
+    "title": "「ZEST SUPER LIVE」AKIBA FREE☆ELEC...",
+    "group": "大宮I☆DOLL / HyperMelty / キミトサク...",
+    "date": "2026-09-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/522191": {
+    "title": "「NIPPORI SUPER LIVE 2026」にゃんドル☆M...",
+    "group": "BANZAI JAPAN / いつだって青い春。 / ヴィ...",
+    "date": "2026-09-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://tiget.net/events/515172": {
+    "title": "MiMi 3周年LIVE～MiM!nt Party～",
+    "group": "MiMi / すぎちゃん / 沖めぐみ / はる / 紬えりな",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T07:37:58Z"
+  },
+  "https://livepocket.jp/e/l7hjt": {
+    "title": "小室哲哉DINNERSHOW",
+    "group": "小室哲哉",
+    "date": "2026-10-20",
+    "venue": "アビー・チャーチ（静岡県）",
+    "prefecture": "静岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-12T07:40:40Z"
   }
 }
