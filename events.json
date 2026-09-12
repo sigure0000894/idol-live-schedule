@@ -66231,5 +66231,32 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-12T12:40:54Z"
+  },
+  "https://tiget.net/events/522618": {
+    "title": "MYKNOT pre. 『15周年も一番にさせてください。』",
+    "group": "MYKNOT / DOGGYMAN / eriha / S...",
+    "date": "2026-10-17",
+    "venue": "新潟県",
+    "prefecture": "新潟県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T17:41:10Z"
+  },
+  "https://tiget.net/events/522617": {
+    "title": "聖彩天萌音 生誕祭2026 ～みんなで染める白い世界～",
+    "group": "聖彩天萌音 生誕祭2026 ～みんなで染める白い世界～",
+    "date": "2026-10-10",
+    "venue": "静岡県",
+    "prefecture": "静岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T17:41:10Z"
+  },
+  "https://livepocket.jp/e/spv_ttc_20260924": {
+    "title": "すーぱーぷーばぁー!! & tune time capsule presents Road to Castle × tune file vol.4",
+    "group": "すーぱーぷーばぁー!! / tune time capsule",
+    "date": "2026-09-24",
+    "venue": "Banana Hall（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-12T17:43:57Z"
   }
 }
