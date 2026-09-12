@@ -65691,5 +65691,32 @@
     "prefecture": "東京都",
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-09-11T22:59:27Z"
+  },
+  "https://tiget.net/events/521366": {
+    "title": "gaizao主催公演　ミッドナイト サイクリング リサイタルvo...",
+    "group": "gaizao / 狂想ドッペル / ファーストディナー /...",
+    "date": "2026-11-21",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-12T02:42:37Z"
+  },
+  "https://livepocket.jp/e/7lgvz": {
+    "title": "SHELTER 35th Anniversary × ARJP presents 「にしむらみねざきうえずよしむら」",
+    "group": "Nikoん / arko lemming / 快速東京",
+    "date": "2026-11-03",
+    "venue": "下北沢SHELTER（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-12T02:45:22Z"
+  },
+  "https://ticketdive.com/event/Mm1ClZIzjsrkMR8AFDDc": {
+    "title": "【デビュー記念】SUNNY PARADEメモリアルパンフレット【数量限定/”完全無料”全員プレゼント】",
+    "group": "【デビュー記念】SUNNY PARADEメモリアルパンフレット【数量限定/”完全無料”全員プレゼント】",
+    "date": "2026-11-01",
+    "venue": "※数量限定/　”完全無料”全プレ商品販売ページ",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-12T02:45:23Z"
   }
 }
