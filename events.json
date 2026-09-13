@@ -66735,5 +66735,50 @@
     "prefecture": "大阪府",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-09-13T13:41:55Z"
+  },
+  "https://tiget.net/events/519564": {
+    "title": "惑星天国",
+    "group": "惑星通信社 / demipogune / はるちろ",
+    "date": "2026-09-14",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-13T17:53:46Z"
+  },
+  "https://tiget.net/events/522823": {
+    "title": "【FC個人プラン限定ページ】朝日あゆ生誕祭2026 - あまあま...",
+    "group": "シャルロット",
+    "date": "2026-10-18",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-13T17:53:46Z"
+  },
+  "https://tiget.net/events/522808": {
+    "title": "『 再生のルクトゥミーCafe＠cafeMENU 』",
+    "group": "『 再生のルクトゥミーCafe＠cafeMENU 』",
+    "date": "2026-09-21",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-13T17:53:46Z"
+  },
+  "https://tiget.net/events/522754": {
+    "title": "「Pilina★Night☆Fever Vol.５ 〜BLAST〜」",
+    "group": "★aspera astra☆（佐伯華夏、中原ゆの） / 森...",
+    "date": "2026-11-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-13T17:53:46Z"
+  },
+  "https://livepocket.jp/e/borogatari11": {
+    "title": "ぼっちぼろまる弾き語り&トークライブ「ぼろ語り Vol.11」",
+    "group": "ぼっちぼろまる",
+    "date": "2026-10-01",
+    "venue": "Live House Heats+（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-13T17:56:24Z"
   }
 }
