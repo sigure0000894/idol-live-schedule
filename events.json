@@ -66303,5 +66303,41 @@
     "prefecture": "神奈川県",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-09-12T20:07:24Z"
+  },
+  "https://tiget.net/events/522651": {
+    "title": "ギミラブ！ワンマンライブ直前対バンLIVE",
+    "group": "ギミラブ！ / 凛々しくも臨界に咲くARTERIA / に...",
+    "date": "2026-10-18",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-13T02:40:13Z"
+  },
+  "https://tiget.net/events/522649": {
+    "title": "Tフェス Vol.3",
+    "group": "Tフェス Vol.3",
+    "date": "2026-11-29",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-13T02:40:13Z"
+  },
+  "https://tiget.net/events/522634": {
+    "title": "9月14日（月）神田CLUB F# 「Seltzer Girls...",
+    "group": "Li-V-RAVE / 春名ともみ",
+    "date": "2026-09-14",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-13T02:40:13Z"
+  },
+  "https://livepocket.jp/e/2026-12-20": {
+    "title": "Heart skips a beat !!  -Rock de nasiy 1st. ONE MAN SHOW-  Give me a dance Beat !!",
+    "group": "Rock de nasiy",
+    "date": "2026-12-20",
+    "venue": "club KNOT（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-13T02:43:02Z"
   }
 }
