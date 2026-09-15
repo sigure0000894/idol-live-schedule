@@ -69390,5 +69390,149 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-15T14:11:17Z"
+  },
+  "https://tiget.net/events/521590": {
+    "title": "ZENKOBA",
+    "group": "ZENKOBA",
+    "date": "2027-02-22",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-15T18:43:29Z"
+  },
+  "https://tiget.net/events/523411": {
+    "title": "Galaxyオーナーの生誕祭をすずはらかのんが企画してみた！vo...",
+    "group": "すずはらかのん / あまたてみこ / アマノガワプリンセス...",
+    "date": "2026-10-18",
+    "venue": "埼玉県",
+    "prefecture": "埼玉県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-15T18:43:29Z"
+  },
+  "https://tiget.net/events/523410": {
+    "title": "小原涼スタジオライブ",
+    "group": "小原涼スタジオライブ",
+    "date": "2026-09-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-15T18:43:29Z"
+  },
+  "https://tiget.net/events/523409": {
+    "title": "Galaxyオーナーの生誕祭をすずはらかのんが企画してみた！vo...",
+    "group": "すずはらかのん / あまたてみこ / アマノガワプリンセス...",
+    "date": "2026-10-18",
+    "venue": "埼玉県",
+    "prefecture": "埼玉県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-15T18:43:29Z"
+  },
+  "https://tiget.net/events/523403": {
+    "title": "ふくろうFM～ゆてぃりせのドッペルゲンガー放送局～",
+    "group": "ふくろうFM～ゆてぃりせのドッペルゲンガー放送局～",
+    "date": "2026-09-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-15T18:43:29Z"
+  },
+  "https://eplus.jp/sf/detail/3371470001-P0030137P021001": {
+    "title": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "group": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "date": "2026-10-11",
+    "venue": "新宿ReNY（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3371470001-P0030137P021002": {
+    "title": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "group": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "date": "2026-10-11",
+    "venue": "新宿ReNY（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3410100001-P0030016P021002": {
+    "title": "豆柴の大群",
+    "group": "豆柴の大群",
+    "date": "2026-10-12",
+    "venue": "output（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3587390001-P0030027P021001": {
+    "title": "ほくりくアイドル部 ほくりくアイドル部presents 北信越アイドルサミットVol.1",
+    "group": "ほくりくアイドル部 ほくりくアイドル部presents 北信越アイドルサミットVol.1",
+    "date": "2026-11-01",
+    "venue": "NIIGATA LOTS（新潟県）",
+    "prefecture": "新潟県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3371470001-P0030138P021001": {
+    "title": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "group": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "date": "2026-11-01",
+    "venue": "柏PALOOZA（千葉県）",
+    "prefecture": "千葉県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3587390001-P0030027P021002": {
+    "title": "ほくりくアイドル部 ほくりくアイドル部presents 北信越アイドルサミットVol.1",
+    "group": "ほくりくアイドル部 ほくりくアイドル部presents 北信越アイドルサミットVol.1",
+    "date": "2026-11-01",
+    "venue": "NIIGATA LOTS（新潟県）",
+    "prefecture": "新潟県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3371470001-P0030138P021002": {
+    "title": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "group": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "date": "2026-11-01",
+    "venue": "柏PALOOZA（千葉県）",
+    "prefecture": "千葉県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3371470001-P0030139P021001": {
+    "title": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "group": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "date": "2026-11-07",
+    "venue": "新宿ReNY（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/3371470001-P0030139P021002": {
+    "title": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "group": "M-line Special 2026 Autumn ～NOCTURNE～",
+    "date": "2026-11-07",
+    "venue": "新宿ReNY（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/4317360001-P0030019P021001": {
+    "title": "ロージークロニクル",
+    "group": "ロージークロニクル",
+    "date": "2026-11-14",
+    "venue": "名古屋ReNY limited（愛知県）",
+    "prefecture": "愛知県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
+  },
+  "https://eplus.jp/sf/detail/4317360001-P0030019P021002": {
+    "title": "ロージークロニクル",
+    "group": "ロージークロニクル",
+    "date": "2026-11-14",
+    "venue": "名古屋ReNY limited（愛知県）",
+    "prefecture": "愛知県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-15T18:46:46Z"
   }
 }
