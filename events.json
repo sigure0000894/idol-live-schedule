@@ -76671,5 +76671,23 @@
     "prefecture": "青森県",
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-09-20T20:11:56Z"
+  },
+  "https://tiget.net/events/524545": {
+    "title": "SAKURA PARTY vol.13",
+    "group": "SAKURADOLL",
+    "date": "2026-09-30",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-21T02:52:41Z"
+  },
+  "https://tiget.net/events/524549": {
+    "title": "SAKURA PARTY vol.13",
+    "group": "SAKURADOLL",
+    "date": "2026-09-30",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-21T02:52:41Z"
   }
 }
