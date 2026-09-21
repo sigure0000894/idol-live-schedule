@@ -76689,5 +76689,68 @@
     "prefecture": "東京都",
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-09-21T02:52:41Z"
+  },
+  "https://tiget.net/events/523620": {
+    "title": "なおかほ酒場",
+    "group": "倉河奈央 / 西香帆 / ゆうな。 / ムートン伊藤",
+    "date": "2026-10-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-21T08:32:09Z"
+  },
+  "https://tiget.net/events/524485": {
+    "title": "二葉あやかラストライブ 〜One More Period〜",
+    "group": "えくれあエクレット / 小鳥遊朱寿 CandyCross ...",
+    "date": "2026-10-11",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-21T08:32:09Z"
+  },
+  "https://tiget.net/events/524611": {
+    "title": "Teamくれれっ娘！定期公演「Teamくれれっ娘！フェスタ Vo...",
+    "group": "Teamくれれっ娘！",
+    "date": "2026-10-01",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-21T08:32:09Z"
+  },
+  "https://tiget.net/events/524608": {
+    "title": "『 大宮I☆DOLL Cafe＠cafeMENU 』",
+    "group": "『 大宮I☆DOLL Cafe＠cafeMENU 』",
+    "date": "2026-09-29",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-21T08:32:09Z"
+  },
+  "https://livepocket.jp/e/bigs5": {
+    "title": "怪談恋慕　秘境の怪",
+    "group": "若本衣織 / 深津さくら / 鳴深弁",
+    "date": "2026-10-31",
+    "venue": "ROCK CAFE LOFT is your room（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-21T08:35:11Z"
+  },
+  "https://livepocket.jp/e/lke19": {
+    "title": "【2部】長月明日香　生誕イベント『つき誕2026』",
+    "group": "長月明日香 / 隈本茉莉奈",
+    "date": "2026-10-17",
+    "venue": "Route Theater（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-21T08:35:11Z"
+  },
+  "https://livepocket.jp/e/f4uzw": {
+    "title": "【1部】長月明日香　生誕イベント『つき誕2026』",
+    "group": "長月明日香 / 藍澤慶子",
+    "date": "2026-10-17",
+    "venue": "Route Theater（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-21T08:35:11Z"
   }
 }
