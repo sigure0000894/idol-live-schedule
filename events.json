@@ -77535,5 +77535,86 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-09-22T13:55:59Z"
+  },
+  "https://tiget.net/events/525018": {
+    "title": "「ゆめのせいと語らnight？」",
+    "group": "雪乃さり / 夕樹倫理",
+    "date": "2026-09-25",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://tiget.net/events/525013": {
+    "title": "2026/10/23（FRI）🥀 AIBECK となりのアイル生...",
+    "group": "AIBECK",
+    "date": "2026-10-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://tiget.net/events/525012": {
+    "title": "『あみ生誕祭~あみちゃんさいつよ~』",
+    "group": "あみ / 花城ゆうき / あいどっぐる / ヴィランの掟 ...",
+    "date": "2026-10-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://tiget.net/events/525007": {
+    "title": "10/15(木) 初台DOORS AIBECK 単独公演 『現実...",
+    "group": "AIBECK",
+    "date": "2026-10-15",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://tiget.net/events/525004": {
+    "title": "Lunatoi'l主催『月灯りの下、まちあわせ-3回目の約束-』",
+    "group": "Lunatoi'l / ごいちー / SAKA-SAMA",
+    "date": "2026-10-01",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://tiget.net/events/524999": {
+    "title": "プリリアオフ会 in 徳島",
+    "group": "Prettical Reaction",
+    "date": "2026-10-17",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://tiget.net/events/524997": {
+    "title": "プリリアオフ会 in 名古屋",
+    "group": "Prettical Reaction",
+    "date": "2026-10-10",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://tiget.net/events/524972": {
+    "title": "スター街道酔いどれツアーファイナル〜SNG生誕祭〜",
+    "group": "VEGASPADE / CANTOY / Reptile ...",
+    "date": "2026-12-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-22T18:30:58Z"
+  },
+  "https://ticketdive.com/event/mamanfesta11": {
+    "title": "ハロウィンママン in神戸 vol11",
+    "group": "ハロウィンママン in神戸 vol11",
+    "date": "2026-10-29",
+    "venue": "KIITO 神戸  兵庫県神戸市中央区小野浜町1-4",
+    "prefecture": "兵庫県",
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-22T18:33:59Z"
   }
 }
