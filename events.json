@@ -82440,5 +82440,59 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-24T14:04:12Z"
+  },
+  "https://tiget.net/events/524718": {
+    "title": "亜桜ゆぅき主催ライブ「じょしどるっ！」Vol.79-2026年あ...",
+    "group": "亜桜ゆぅき / 美海 / さっきー ミルキーメロディーX ...",
+    "date": "2026-11-13",
+    "venue": "静岡県",
+    "prefecture": "静岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-24T18:50:24Z"
+  },
+  "https://tiget.net/events/524880": {
+    "title": "福留光帆生誕祭2026",
+    "group": "株式会社プライム",
+    "date": "2026-10-24",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-24T18:50:24Z"
+  },
+  "https://tiget.net/events/525531": {
+    "title": "10/11(日)葉月ゆめ団体撮影会",
+    "group": "10/11(日)葉月ゆめ団体撮影会",
+    "date": "2026-10-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-24T18:50:24Z"
+  },
+  "https://tiget.net/events/525488": {
+    "title": "PATI PATI CANDY...☆ 定期公演『飴FES Vo...",
+    "group": "PATI PATI CANDY / かすみん / Fanc...",
+    "date": "2026-09-26",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-24T18:50:24Z"
+  },
+  "https://eplus.jp/sf/detail/2734830001-P0030152P021001": {
+    "title": "いぎなり東北産 初!いぎなりアリーナライブ ～帰ってきたいぎなり東北産～",
+    "group": "いぎなり東北産 初!いぎなりアリーナライブ ～帰ってきたいぎなり東北産～",
+    "date": "2026-12-19",
+    "venue": "ゼビオアリーナ仙台（宮城県）",
+    "prefecture": "宮城県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-24T18:53:18Z"
+  },
+  "https://eplus.jp/sf/detail/2734830001-P0030153P021001": {
+    "title": "いぎなり東北産 初!いぎなりアリーナライブ ～かわいいの向こう側へ～",
+    "group": "いぎなり東北産 初!いぎなりアリーナライブ ～かわいいの向こう側へ～",
+    "date": "2026-12-20",
+    "venue": "ゼビオアリーナ仙台（宮城県）",
+    "prefecture": "宮城県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-24T18:53:18Z"
   }
 }
