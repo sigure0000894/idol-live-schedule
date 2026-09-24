@@ -81279,5 +81279,50 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-23T18:53:06Z"
+  },
+  "https://tiget.net/events/525242": {
+    "title": "【毬 生誕LIVE】IndigoMoon",
+    "group": "Ver.0̸ / ReignVail / Brush Ru...",
+    "date": "2026-10-02",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-24T02:43:31Z"
+  },
+  "https://tiget.net/events/525176": {
+    "title": "幽世脅嚇 沖縄ファンミーティング",
+    "group": "幽世脅嚇 沖縄ファンミーティング",
+    "date": "2026-09-27",
+    "venue": "沖縄県",
+    "prefecture": "沖縄県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-24T02:43:31Z"
+  },
+  "https://livepocket.jp/e/osaka2026": {
+    "title": "【大阪公演】まきあみさちあいトーク＆ライブ2026",
+    "group": "宮前真樹 / 松野有里巳 / 今井佐知子 / 佐藤愛子",
+    "date": "2026-11-29",
+    "venue": "新世界ZAZA HOUSE（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-24T02:46:04Z"
+  },
+  "https://livepocket.jp/e/a9tue": {
+    "title": "１０月１８日(日)　バンビーナ撮影会　池田レイ",
+    "group": "１０月１８日(日)　バンビーナ撮影会　池田レイ",
+    "date": "2026-10-18",
+    "venue": "STUDIO MONTFORT（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-24T02:46:04Z"
+  },
+  "https://livepocket.jp/e/k58j-": {
+    "title": "玉城夏帆『秋のBBQオフ会コーレーグースはご持参ください』",
+    "group": "玉城夏帆",
+    "date": "2026-10-18",
+    "venue": "池袋駅 付近（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-24T02:46:04Z"
   }
 }
