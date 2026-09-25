@@ -82494,5 +82494,383 @@
     "prefecture": "宮城県",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-09-24T18:53:18Z"
+  },
+  "https://tiget.net/events/525190": {
+    "title": "乙姫寿藍 22nd お誕生日当日祭~めちゃんこカウントダウン~",
+    "group": "乙姫寿藍 / うしおゆりな / まぁの / すぎのなこ /...",
+    "date": "2026-10-05",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-25T03:00:41Z"
+  },
+  "https://tiget.net/events/525472": {
+    "title": "URAYASU KANAE",
+    "group": "URAYASU KANAE",
+    "date": "2026-11-23",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-25T03:00:41Z"
+  },
+  "https://livepocket.jp/e/g1lh6": {
+    "title": "松崎健夫&春日太一の映画時評13",
+    "group": "松崎健夫 / 春日太一",
+    "date": "2026-10-19",
+    "venue": "阿佐ヶ谷ロフトA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/harakado261103_sakamoto": {
+    "title": "【11/3（火）東京・ハラカド店】TVアニメ『SAKAMOTO DAYS』DJ GROOVE CAFE at 洒落CAFE／来店予約チケット",
+    "group": "洒落CAFE / SAKAMOTO DAYS",
+    "date": "2026-11-03",
+    "venue": "洒落CAFE ハラカド店（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/zcuaq": {
+    "title": "10/30(金)２部<無銭>His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-30",
+    "venue": "なんばMILULARI　Delight（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/5co8s": {
+    "title": "10/30(金)<無銭>１部His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-30",
+    "venue": "なんばMILULARI　Delight（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/fpplw": {
+    "title": "10/28(水)２部<無銭>His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-28",
+    "venue": "なんばMILULARI　Delight（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/6-6k7": {
+    "title": "10/28(水)<無銭>１部His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-28",
+    "venue": "なんばMILULARI　Delight（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/tcit8": {
+    "title": "10/27(火)２部<無銭>His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-27",
+    "venue": "なんばMILULARI　Delight（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/nep1l": {
+    "title": "10/26(月)<無銭>２部His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-26",
+    "venue": "なんばMILULARI　Legacy（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/durian_42th_fanmeeting_tokyo_e": {
+    "title": "Durian Lollobrigida Birthday Fan Meeting『＃42』 in Tokyo【夜の部】",
+    "group": "ドリアン・ロロブリジーダ",
+    "date": "2026-12-13",
+    "venue": "東京カルチャーカルチャー（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/durian_42th_fanmeeting_tokyo_d": {
+    "title": "Durian Lollobrigida Birthday Fan Meeting『＃42』 in Tokyo【昼の部】",
+    "group": "ドリアン・ロロブリジーダ",
+    "date": "2026-12-13",
+    "venue": "東京カルチャーカルチャー（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/durian_42th_fanmeeting_osaka": {
+    "title": "Durian Lollobrigida Birthday Fan Meeting『＃42』 in Osaka",
+    "group": "ドリアン・ロロブリジーダ",
+    "date": "2026-12-11",
+    "venue": "大阪 do with cafe（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/toutoina_osaka2026_": {
+    "title": "トウトイナ。東名阪ツアー「“尊さ”探しに行きます～大阪公演～」",
+    "group": "トウトイナ。",
+    "date": "2026-11-22",
+    "venue": "アメリカ村 BEYOND（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/hs10th_anniversary": {
+    "title": "『HIGHSPIRITS 10th Anniversary LIVE』",
+    "group": "HIGH SPIRITS",
+    "date": "2026-11-17",
+    "venue": "渋谷WWW X（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/uw7-o": {
+    "title": "【11/14・12:00】林美希『Homare 1st.』DVD発売記念イベント",
+    "group": "林美希",
+    "date": "2026-11-14",
+    "venue": "ソフマップAKIBA アミューズメント館 8階（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/c8r-u": {
+    "title": "【11/14・14:00】矢澤サエ『Sweet Story』DVD発売記念イベント",
+    "group": "矢澤サエ",
+    "date": "2026-11-14",
+    "venue": "ソフマップAKIBA アミューズメント館 8階（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/69om5": {
+    "title": "アイアール推しT",
+    "group": "アイアール推しT",
+    "date": "2026-11-11",
+    "venue": "レジェンドホール（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/air_birthday2026": {
+    "title": "三浦あいる生誕祭2026",
+    "group": "GigiL",
+    "date": "2026-11-07",
+    "venue": "TwinBox AKIHABARA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/mx6jn": {
+    "title": "喫茶　ぷりんちぇす",
+    "group": "あぷそるちぇ",
+    "date": "2026-10-31",
+    "venue": "東京都　世田谷区（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/liveplanethallo": {
+    "title": "『LIVE PLANET HALLOWEEN』",
+    "group": "『LIVE PLANET HALLOWEEN』",
+    "date": "2026-10-30",
+    "venue": "白金高輪SELENE b2（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/d64vz": {
+    "title": "水端あさみ 1日店長BAR – Premium Fan Meeting –",
+    "group": "AV女優 / セクシー女優 / 水端あさみ",
+    "date": "2026-10-30",
+    "venue": "歌舞伎町プロデュース（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/va-liv_manaka_bd2026_re": {
+    "title": "灯里愛夏 BIRTHDAY ONLINE LIVE 2026 延期公演",
+    "group": "灯里愛夏",
+    "date": "2026-10-28",
+    "venue": "ユナイテッド・シネマ アクアシティお台場 [3番スクリーン] （東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/6lk5d": {
+    "title": "『ちゅうえい王国21』",
+    "group": "ちゅうえい（流れ星☆） / 片山智勝（スパイシーガーリック） / 井福一本道（ミスター大冒険。） / りょうせい（ミスター大冒険。） / なめ（ゴールドジョージ） / 別府ともひこ（エイトブリッジ）",
+    "date": "2026-10-27",
+    "venue": "A Talk Club WOOFER（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/ezivt": {
+    "title": "10/26(月)<無銭>１部His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-26",
+    "venue": "なんばMILULARI　Legacy（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/g_ewr": {
+    "title": "オリシャン引き換え券 (CHISA HALLOWEEN PARTY 2026)",
+    "group": "CHISA",
+    "date": "2026-10-25",
+    "venue": "Hawaiian Bar ROYAL ALOHA Tokyo（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/r-c8p": {
+    "title": "山下学園生 大集合ライブ！",
+    "group": "山下学園",
+    "date": "2026-10-25",
+    "venue": "山下学園仮校舎（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/6xvhw": {
+    "title": "♡ごみのんBBQ 2026♡",
+    "group": "ごみちゃん / ごみのん / あやのん・N・やねん",
+    "date": "2026-10-25",
+    "venue": "デジキューBBQテラス（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/xn71w": {
+    "title": "井出叶生誕2026 カンパ",
+    "group": "井出叶生誕2026 カンパ",
+    "date": "2026-10-24",
+    "venue": "井出叶生誕祭（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/y-tp5": {
+    "title": "（再販 09/23 20:00より）JACK BIRTHDAY - NIGHT DINNER PARTY -",
+    "group": "Jack / Rein",
+    "date": "2026-10-24",
+    "venue": "COLORSOL QUALIA (カラソルクオリア）（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/yumezyu261022_1": {
+    "title": "『 夢喰充電中vol.140 (1部) 』( 夢喰NEON単独公演 )",
+    "group": "夢喰NEON",
+    "date": "2026-10-22",
+    "venue": "渋谷ストリームホール（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/yumezyu2601022_2": {
+    "title": "『 夢喰充電中vol.140 (2部) 』( 夢喰NEON単独公演 )",
+    "group": "夢喰NEON",
+    "date": "2026-10-22",
+    "venue": "渋谷ストリームホール（神奈川県）",
+    "prefecture": "神奈川県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/episode_261021_2": {
+    "title": "『 episode 5 (2部) 』( Untitle単独公演 )",
+    "group": "Untitle",
+    "date": "2026-10-21",
+    "venue": "渋谷ストリームホール（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/satsueikai_261021_1": {
+    "title": "『 TikTok撮影会  』( Untitle　TikTok撮影会)",
+    "group": "Untitle",
+    "date": "2026-10-21",
+    "venue": "渋谷ストリームホール（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/a9_64": {
+    "title": "10/21(水)２部<無銭>His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-21",
+    "venue": "なんばMILULARI　Delight（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/33gpz": {
+    "title": "戦国アニマル極楽浄土 シン参周年記念単独公演『戦極-蒼穹の乱-』",
+    "group": "戦国アニマル極楽浄土",
+    "date": "2026-10-21",
+    "venue": "SHIBUYA CLUB QUATTRO（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/bdmcz": {
+    "title": "10/21(水)<無銭>１部His あまふわ ラブホリ",
+    "group": "Historia / あまふわキャンディー / Love Holic",
+    "date": "2026-10-21",
+    "venue": "なんばMILULARI　Delight（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/diabell_1021_2": {
+    "title": "ゆに生誕祭- 蒼花繚乱　[2部]",
+    "group": "diabell",
+    "date": "2026-10-21",
+    "venue": "大塚FUTURE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/diabell_1021_11": {
+    "title": "ゆに生誕祭- 蒼花繚乱　[1部]",
+    "group": "diabell",
+    "date": "2026-10-21",
+    "venue": "大塚FUTERE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/iq_halloween": {
+    "title": "IQ99主催ハロウィンライブ「midni9ht parade」",
+    "group": "IQ99 / エレクトリックリボン / MA7MEL /  AVACLUB / 不思議BOYS / パピプペポは難しい",
+    "date": "2026-10-20",
+    "venue": "渋谷clubasia（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://livepocket.jp/e/umi_birthday2026": {
+    "title": "蒼羽海生誕祭2026",
+    "group": "GigiL",
+    "date": "2026-10-20",
+    "venue": "TwinBox AKIHABARA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T03:03:25Z"
+  },
+  "https://ticketdive.com/event/eVT4qqqyuQBuwf2omwbM": {
+    "title": "[東京公演]ミュージカル 「ALICE ～不思議の国のアリスより～」",
+    "group": "[東京公演]ミュージカル 「ALICE ～不思議の国のアリスより～」",
+    "date": "2027-02-11",
+    "venue": "シアターH",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-25T03:03:28Z"
   }
 }
