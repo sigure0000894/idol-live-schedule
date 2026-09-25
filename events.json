@@ -83898,5 +83898,113 @@
     "prefecture": "東京都",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-09-25T14:28:38Z"
+  },
+  "https://tiget.net/events/524700": {
+    "title": "ウタのチカラ 第22回",
+    "group": "ふなおいかなみ / さら",
+    "date": "2026-10-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-25T19:08:28Z"
+  },
+  "https://tiget.net/events/525802": {
+    "title": "Serial experiment Wednesday",
+    "group": "逆に、ゆうちゃんバンド / ONE LAST SHOT /...",
+    "date": "2026-10-07",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-25T19:08:28Z"
+  },
+  "https://tiget.net/events/525799": {
+    "title": "徳島遠征ライブ＆オフ会愛野可奈予約フォーム",
+    "group": "愛野可奈",
+    "date": "2026-10-24",
+    "venue": "徳島県",
+    "prefecture": "徳島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-25T19:08:28Z"
+  },
+  "https://livepocket.jp/e/261124": {
+    "title": "JUNACO Live in JAPAN",
+    "group": "JUNACO / m/lue.",
+    "date": "2026-11-24",
+    "venue": "青山　月見ル君想フ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T19:11:07Z"
+  },
+  "https://livepocket.jp/e/6iibj": {
+    "title": "『第4回Going My Way～秋の歌謡祭～』",
+    "group": "『第4回Going My Way～秋の歌謡祭～』",
+    "date": "2026-11-21",
+    "venue": "Shinjuku HEIST（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T19:11:07Z"
+  },
+  "https://livepocket.jp/e/b2132": {
+    "title": "Queeness \"A Day with the Aces、華麗なるエース\" 2026 Tourファイナル公演",
+    "group": "QUEENESS",
+    "date": "2026-12-30",
+    "venue": "まほろ座 MACHIDA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-25T19:11:07Z"
+  },
+  "https://eplus.jp/sf/detail/1925850001-P0030006P021001": {
+    "title": "DEARSTAGE SHOWCASE",
+    "group": "DEARSTAGE SHOWCASE",
+    "date": "2026-10-22",
+    "venue": "Spotify O-EAST（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-25T19:11:33Z"
+  },
+  "https://eplus.jp/sf/detail/2105090001-P0030197P021001": {
+    "title": "IDO-LIVE!!",
+    "group": "IDO-LIVE!!",
+    "date": "2026-10-22",
+    "venue": "Music Club JANUS（大阪府）",
+    "prefecture": "大阪府",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-25T19:11:33Z"
+  },
+  "https://eplus.jp/sf/detail/2029630001-P0030570P021001": {
+    "title": "MARQUEE祭 mini Vol.354",
+    "group": "MARQUEE祭 mini Vol.354",
+    "date": "2026-11-07",
+    "venue": "Spotify O-nest（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-25T19:11:33Z"
+  },
+  "https://eplus.jp/sf/detail/2029630001-P0030571P021001": {
+    "title": "MARQUEE祭 mini Vol.355",
+    "group": "MARQUEE祭 mini Vol.355",
+    "date": "2026-11-07",
+    "venue": "Spotify O-nest（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-25T19:11:33Z"
+  },
+  "https://eplus.jp/sf/detail/3485660001-P0030098P021001": {
+    "title": "Quubi with 九尾Band",
+    "group": "Quubi with 九尾Band",
+    "date": "2026-11-11",
+    "venue": "SHIBUYA CYCLONE（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-25T19:11:33Z"
+  },
+  "https://eplus.jp/sf/detail/4401260001-P0030003P021001": {
+    "title": "カンナギマロ",
+    "group": "カンナギマロ",
+    "date": "2026-11-30",
+    "venue": "Flowers Loft（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-25T19:11:33Z"
   }
 }
