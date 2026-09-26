@@ -84348,5 +84348,50 @@
     "prefecture": "広島県",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-09-26T13:41:27Z"
+  },
+  "https://tiget.net/events/525959": {
+    "title": "姫野香織主催ライブひめまつりVol.37 「ハロウィンライブ(仮)」",
+    "group": "Addiction Me",
+    "date": "2026-10-03",
+    "venue": "埼玉県",
+    "prefecture": "埼玉県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-26T18:16:54Z"
+  },
+  "https://tiget.net/events/525952": {
+    "title": "10/28(水)心斎橋ANIMA『トワイライト vol.7 -H...",
+    "group": "夜明けのウサギ / Squall Line / Roman...",
+    "date": "2026-10-28",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-26T18:16:54Z"
+  },
+  "https://eplus.jp/sf/detail/4608750001-P0030001P021001": {
+    "title": "高千穂祭 SPECIAL LIVE～Peel the Apple～ <高千穂大学 高千穂祭>",
+    "group": "高千穂祭 SPECIAL LIVE～Peel the Apple～ <高千穂大学 高千穂祭>",
+    "date": "2026-10-17",
+    "venue": "高千穂大学 体育館（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-26T18:20:11Z"
+  },
+  "https://eplus.jp/sf/detail/4611060001-P0030002P021001": {
+    "title": "尚美祭 尚美学園100周年記念公演 『Wisdom and Love』",
+    "group": "尚美祭 尚美学園100周年記念公演 『Wisdom and Love』",
+    "date": "2026-10-25",
+    "venue": "尚美学園大学 2000年記念館（埼玉県）",
+    "prefecture": "埼玉県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-09-26T18:20:11Z"
+  },
+  "https://ticketdive.com/event/freexiwami2026_6": {
+    "title": "鳥取・岩美シャトルバス",
+    "group": "鳥取・岩美シャトルバス",
+    "date": "2026-10-10",
+    "venue": "岩美町役場→鳥取駅南口",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-09-26T18:20:11Z"
   }
 }
