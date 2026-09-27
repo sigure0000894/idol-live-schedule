@@ -84978,5 +84978,23 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-27T16:18:12Z"
+  },
+  "https://tiget.net/events/526025": {
+    "title": "『JOY CASE vol.2』",
+    "group": "『JOY CASE vol.2』",
+    "date": "2026-11-08",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T23:36:07Z"
+  },
+  "https://livepocket.jp/e/b7uwc": {
+    "title": "15周年Specialイベント（夜の部）",
+    "group": "田中菜津美 / 植木南央 / 本村碧唯 / 中西智代梨 / 中川パラダイス / 下野由貴 / 冨吉明日香 / 田中優香 / 山田麻莉奈 / 神志那結衣",
+    "date": "2026-11-15",
+    "venue": "HADO ARENAお台場（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T23:38:53Z"
   }
 }
