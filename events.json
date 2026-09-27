@@ -84519,5 +84519,293 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-09-27T03:11:44Z"
+  },
+  "https://tiget.net/events/525001": {
+    "title": "「捲土重来 ―亀、帰還―」2/7(日)*",
+    "group": "ぐしゃ人間 / 奇奇愛愛 / 少女式ヱリス / ルアン",
+    "date": "2027-02-07",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/525807": {
+    "title": "Disconnect Cendrillon × Parallel...",
+    "group": "Disconnect Cendrillon / Paral...",
+    "date": "2026-10-18",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/525790": {
+    "title": "【1部】夕霧×エスターク先輩 2026年ラスト合同オフ会！",
+    "group": "DaizyStripper Vo.夕霧 / エスターク先輩",
+    "date": "2026-12-26",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/525615": {
+    "title": "MARUKADO 第25回定期公演 「まるかひゅ～どろ。」",
+    "group": "MARUKADO",
+    "date": "2026-10-17",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/521326": {
+    "title": "【IBA 2nd Anniversary】SPECIAL TAL...",
+    "group": "NEFFY",
+    "date": "2026-11-22",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/525767": {
+    "title": "癒着の極み Vol.11 \"脱・暇人\"",
+    "group": "癒着の極み Vol.11 \"脱・暇人\"",
+    "date": "2026-10-31",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/525875": {
+    "title": "カンロヂ主催 54Sense 秋だから！学園祭だよ全員集合！",
+    "group": "カンロヂ主催 54Sense 秋だから！学園祭だよ全員集合！",
+    "date": "2026-10-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/525791": {
+    "title": "【2部】夕霧×エスターク先輩 2026年ラスト合同オフ会！",
+    "group": "DaizyStripper Vo.夕霧 / エスターク先輩",
+    "date": "2026-12-26",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526090": {
+    "title": "神楽くるる生誕祭2026-KURURU in the Wonde...",
+    "group": "神楽くるる / 秘密結社フローリス / 桃奈りさこ / #...",
+    "date": "2026-10-31",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526038": {
+    "title": "10/30〈Guest : i Moon〉マイフェアガ→ル × ...",
+    "group": "マイフェアガ→ル / i Moon",
+    "date": "2026-10-30",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526037": {
+    "title": "10/28〈Guest : 彩月莉愛〉マイフェアガ→ル × 尼崎...",
+    "group": "マイフェアガ→ル / 彩月莉愛",
+    "date": "2026-10-28",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526036": {
+    "title": "10/23〈Guest : natty time〉マイフェアガ→...",
+    "group": "マイフェアガ→ル / natty time",
+    "date": "2026-10-23",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526035": {
+    "title": "10/21〈Guest : SKILL of light〉マイフ...",
+    "group": "マイフェアガ→ル / SKILL of light",
+    "date": "2026-10-21",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526034": {
+    "title": "10/16〈Guest : 妖狐繚乱〉マイフェアガ→ル × 尼崎...",
+    "group": "マイフェアガ→ル / 妖狐繚乱",
+    "date": "2026-10-16",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526033": {
+    "title": "10/8〈Guest : 無花果とマシンガン〉マイフェアガ→ル ...",
+    "group": "マイフェアガ→ル / 妖狐繚乱",
+    "date": "2026-10-08",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526031": {
+    "title": "10/6〈Guest : いざ参らん〉マイフェアガ→ル × 尼崎...",
+    "group": "マイフェアガ→ル / いざ参らん",
+    "date": "2026-10-06",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526029": {
+    "title": "10/2〈Guest : メロブリンク〉マイフェアガ→ル × 尼...",
+    "group": "マイフェアガ→ル / いざ参らん",
+    "date": "2026-10-02",
+    "venue": "兵庫県",
+    "prefecture": "兵庫県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526023": {
+    "title": "無花果とマシンガン碧原りく生誕祭 一般",
+    "group": "無花果とマシンガン / 碧原りく",
+    "date": "2026-10-03",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526022": {
+    "title": "無花果とマシンガン碧原りく生誕祭 優先",
+    "group": "無花果とマシンガン",
+    "date": "2026-10-03",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526021": {
+    "title": "Made in BARNEY'S",
+    "group": "井水優菜 / ONE LAST SHOT / HATEan...",
+    "date": "2026-10-04",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526013": {
+    "title": "ふくろうFM「Golden Time」公開収録",
+    "group": "ふくろうFM「Golden Time」公開収録",
+    "date": "2026-10-12",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/526010": {
+    "title": "歌姫六唱　Vol.10",
+    "group": "萌木ひなこ / 【申】 / Awai / ばーぴー / 國...",
+    "date": "2026-10-09",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/523808": {
+    "title": "イロハサクラ定期ライブ",
+    "group": "花村優希 / 菅原にこ / 芹沢愛桜 / 来栖璃音 / 白羽兎早",
+    "date": "2026-10-08",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://tiget.net/events/498298": {
+    "title": "久保田慎吾の男もつらいよ、日本全国弾き語りツアー・名古屋編",
+    "group": "久保田慎吾 / 杉林恭雄 / 唐井睦",
+    "date": "2026-12-26",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-27T11:14:08Z"
+  },
+  "https://livepocket.jp/e/aethercross": {
+    "title": "【Mana Diagram AETHER CROSS Release Party 3rd Anniversary -Prologue-】",
+    "group": "Mana Diagram / 愛探眼影 / Broken By The Scream",
+    "date": "2026-11-06",
+    "venue": "新宿ANTIKNOCK（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
+  },
+  "https://livepocket.jp/e/yq9wp": {
+    "title": "階段革命 vol.2",
+    "group": "カナタタケヒロ(LEGO BIG MORL) / 竹内サティフォ(ONIGAWARA) / あみ(ゆれる) / ハットリクミコ(シナリオアート/vitaruun)",
+    "date": "2026-11-27",
+    "venue": "shibuya 7thFLOOR（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
+  },
+  "https://livepocket.jp/e/y517h": {
+    "title": "強炭酸Night Market",
+    "group": "after20時 / バンド四段 / るぃあり / COLA!? / さめざめwithバナナとドーナッツ",
+    "date": "2026-11-26",
+    "venue": "shibuya 7thFLOOR（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
+  },
+  "https://livepocket.jp/e/qp6pw": {
+    "title": "SHIBUYA CYCLONE pre. DUNK NORMALIZED  VOODOOV JAPAN TOUR",
+    "group": "SALLY & THE BELLBOTTOMS / MAX’N / Aqilla / DON VOLG / The Trench Hill / VOODOOV(FIN)",
+    "date": "2026-11-25",
+    "venue": "SHIBUYA CYCLONE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
+  },
+  "https://livepocket.jp/e/s_impact": {
+    "title": "【SONIC IMPACT~icontinew New Inst EP [Another icontinew] Release Event~】",
+    "group": "icontinew / ASTERISM / Broken By The Scream",
+    "date": "2026-12-27",
+    "venue": "新宿ANTIKNOCK（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
+  },
+  "https://livepocket.jp/e/meltiq26-11-08": {
+    "title": "彩田麗智生誕祭 “THE SECRET GARDEN” 〜今夜限りの秘密の庭園〜",
+    "group": "MeltiQ",
+    "date": "2026-11-08",
+    "venue": "club KNOT（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
+  },
+  "https://livepocket.jp/e/deadinsidexmas": {
+    "title": "CHAOS CONTROL Presents 2Man Show【DEAD INSIDE XmaS】",
+    "group": "CHAOS CONTROL / Alternation of Generation",
+    "date": "2026-12-25",
+    "venue": "新宿ANTIKNOCK（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
+  },
+  "https://livepocket.jp/e/q5vbs": {
+    "title": "秋波愛麗（Chupo) JAPAN TOUR supported by 楽団祭 Bandstival",
+    "group": "秋波愛麗（Chupo)  / リフの惑星 / Sleepless / TsuBaKi",
+    "date": "2026-10-23",
+    "venue": "Live House Hearts（埼玉県）",
+    "prefecture": "埼玉県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-27T11:17:03Z"
   }
 }
