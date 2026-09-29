@@ -86256,5 +86256,23 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-09-28T21:06:52Z"
+  },
+  "https://tiget.net/events/519190": {
+    "title": "藤瀬未桜生誕LIVE『PRISM』",
+    "group": "藤瀬未桜生誕LIVE『PRISM』",
+    "date": "2026-11-01",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-09-29T00:58:22Z"
+  },
+  "https://livepocket.jp/e/g_sgy": {
+    "title": "【11/3・14:00】山崎真由美『Velvet Gaze』DVD発売記念イベント",
+    "group": "山崎真由美",
+    "date": "2026-11-03",
+    "venue": "ソフマップAKIBA アミューズメント館 8階（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-09-29T01:01:07Z"
   }
 }
