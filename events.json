@@ -91719,5 +91719,23 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-10-02T17:21:36Z"
+  },
+  "https://tiget.net/events/527742": {
+    "title": "桜ちい リクエスト撮影会【10月】",
+    "group": "桜ちい リクエスト撮影会【10月】",
+    "date": "2026-10-31",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-02T21:45:46Z"
+  },
+  "https://tiget.net/events/527741": {
+    "title": "桜ちい 個人撮影会",
+    "group": "桜ちい 個人撮影会",
+    "date": "2026-10-31",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-02T21:45:46Z"
   }
 }
