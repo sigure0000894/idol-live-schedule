@@ -91737,5 +91737,113 @@
     "prefecture": null,
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-10-02T21:45:46Z"
+  },
+  "https://tiget.net/events/527635": {
+    "title": "瀬戸むせん。",
+    "group": "瀬戸万莉愛 / のーぷらん。 / AiR / 愛野可奈 /...",
+    "date": "2026-10-22",
+    "venue": "Tokyo",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://tiget.net/events/527696": {
+    "title": "nenemelo主催ライブvol.2",
+    "group": "アヤメアヤ / nenenone / 木之宮有香 / 早咲みほ",
+    "date": "2027-01-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://tiget.net/events/527449": {
+    "title": "Free Aqua Butterfly SAKI生誕祭〜Night〜",
+    "group": "Free Aqua Butterfly / はるちょん /...",
+    "date": "2026-11-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://tiget.net/events/527326": {
+    "title": "ガールズ×ガールズ×ガールズvol.608",
+    "group": "えたーなる☆ぱれーどっ！ / 百桜えりか / 咲雲和奏",
+    "date": "2026-10-25",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://tiget.net/events/527371": {
+    "title": "Free Aqua Butterfly SAKI生誕祭〜Day〜",
+    "group": "Free Aqua Butterfly / はるちょん /...",
+    "date": "2026-11-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://tiget.net/events/527772": {
+    "title": "10/18(日)まゆぴぴファンミ@東京",
+    "group": "まゆぴぴ",
+    "date": "2026-10-18",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://tiget.net/events/527753": {
+    "title": "【大阪】the Nulls Début 大阪公演",
+    "group": "ネムレス / REBEL REBEL / the Nulls",
+    "date": "2026-11-14",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://tiget.net/events/527717": {
+    "title": "着せ替えアミちゃん~たけうち亜美生誕2026~",
+    "group": "マリーメトロノーム* / ゆしん / 美広まりな",
+    "date": "2026-11-29",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-03T03:22:58Z"
+  },
+  "https://livepocket.jp/e/reprise_kumamoto_2026": {
+    "title": "Michael Kaneko   Reprise   Release Tour 2026-2027 熊本公演",
+    "group": "マイケルカネコ / Michael Kaneko  / Maiki / peeq",
+    "date": "2026-12-04",
+    "venue": "tsukimi（熊本県）",
+    "prefecture": "熊本県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-03T03:25:14Z"
+  },
+  "https://livepocket.jp/e/20261031_night_lofta": {
+    "title": "「秋のまこぷに学園〜あなたの心を惑わせる！？まこぷに魔女会議SP〜」",
+    "group": "戸田真琴 / 塚本舞",
+    "date": "2026-10-31",
+    "venue": "阿佐ヶ谷ロフトA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-03T03:25:14Z"
+  },
+  "https://livepocket.jp/e/20261130_night_lofta": {
+    "title": "ADマーフィー救済ライブ　HELP！ VOL.10",
+    "group": "柿沼キヨシ / キミシマユウキ",
+    "date": "2026-11-30",
+    "venue": "阿佐ヶ谷ロフトA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-03T03:25:14Z"
+  },
+  "https://livepocket.jp/e/uxlu1": {
+    "title": "リチャード藤田　Birthday Special Jazz Live❗️ My favorite songs❗️",
+    "group": "リチャード藤田 / ジェニファー / 松井レオ / 小口理英 / 寺島優樹 / 吉川大介 / 小林慎",
+    "date": "2026-10-17",
+    "venue": "六本木バードランド（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-03T03:25:14Z"
   }
 }
