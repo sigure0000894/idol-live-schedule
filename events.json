@@ -95445,5 +95445,68 @@
     "prefecture": "大阪",
     "source": "liveidol.blog（集約サイト）",
     "firstSeen": "2026-10-03T20:34:29Z"
+  },
+  "https://tiget.net/events/527750": {
+    "title": "楽演祭 vol.45　〜ハロウィーンSP〜",
+    "group": "天美めあ / 笹倉杏 / 紫月ゆかり / 東雲あずさ / ...",
+    "date": "2026-10-28",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-04T03:50:42Z"
+  },
+  "https://tiget.net/events/527313": {
+    "title": "ふみひろうと愉快な仲間達VER10",
+    "group": "文悲朗",
+    "date": "2026-10-18",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-04T03:50:42Z"
+  },
+  "https://tiget.net/events/528006": {
+    "title": "姫事絶対値 毎年恒例「BBQ」",
+    "group": "姫事絶対値",
+    "date": "2026-10-11",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-04T03:50:42Z"
+  },
+  "https://tiget.net/events/527999": {
+    "title": "涼音りあ生誕祭2026 -きみと見つけるしあわせのかけら-",
+    "group": "AQUAPLANET / Lonely²<3",
+    "date": "2026-10-18",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-04T03:50:42Z"
+  },
+  "https://livepocket.jp/e/omsbn": {
+    "title": "「告発された表現者はその後どう生きるのか」",
+    "group": "谷賢一 / 上野庸平",
+    "date": "2026-11-10",
+    "venue": "阿佐ヶ谷ロフトA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-04T03:53:01Z"
+  },
+  "https://livepocket.jp/e/yohakujikan": {
+    "title": "余白時間",
+    "group": "gb / Murakami Keisuke / KEI_HAYASHI",
+    "date": "2026-11-14",
+    "venue": "shibuya gee-ge.（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-04T03:53:01Z"
+  },
+  "https://livepocket.jp/e/t1aep": {
+    "title": "【水卜さくら】11/14撮影会＆サイン会",
+    "group": "水卜さくら",
+    "date": "2026-11-14",
+    "venue": "チェリッシュスタジオ４号館（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-04T03:53:01Z"
   }
 }
