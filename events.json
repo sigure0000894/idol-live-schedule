@@ -97452,5 +97452,68 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-10-05T13:24:18Z"
+  },
+  "https://tiget.net/events/527279": {
+    "title": "10月24日(土)『燦楽景 舞台』",
+    "group": "燦楽景",
+    "date": "2026-10-24",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-05T21:50:02Z"
+  },
+  "https://tiget.net/events/527283": {
+    "title": "10月25日(日)『燦楽景 舞台』",
+    "group": "燦楽景",
+    "date": "2026-10-25",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-05T21:50:02Z"
+  },
+  "https://tiget.net/events/528558": {
+    "title": "にゃんにゃんふぇす!vol.36",
+    "group": "擬人化にゃんた / 幻奏リフレクション / 愛絵れみ / ...",
+    "date": "2026-10-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-05T21:50:02Z"
+  },
+  "https://tiget.net/events/528540": {
+    "title": "『香月生誕2026』",
+    "group": "あいらしっく / Lonely² <3 / 堕storia...",
+    "date": "2026-10-25",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-05T21:50:02Z"
+  },
+  "https://tiget.net/events/528528": {
+    "title": "想都ぱら生誕祭2026 -ぱら・ふぇっと- 総員集合",
+    "group": "想都ぱら生誕祭2026 -ぱら・ふぇっと- 総員集合",
+    "date": "2026-11-09",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-05T21:50:02Z"
+  },
+  "https://tiget.net/events/528519": {
+    "title": "平日水曜定期ライブ",
+    "group": "AQUAPLANET",
+    "date": "2026-10-07",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-05T21:50:02Z"
+  },
+  "https://ticketdive.com/event/HEROINES-26101823": {
+    "title": "HEROINES HALLOWEEN",
+    "group": "HEROINES HALLOWEEN",
+    "date": "2026-10-18",
+    "venue": "COMTEC PORTBASE",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-10-05T21:52:28Z"
   }
 }
