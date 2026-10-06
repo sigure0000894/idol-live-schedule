@@ -98397,5 +98397,77 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-10-06T12:41:03Z"
+  },
+  "https://tiget.net/events/527662": {
+    "title": "11月7日(土)『燦楽景定期公演 親愛なる燦愛へ -一成生誕SP-』",
+    "group": "燦楽景",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-06T20:00:04Z"
+  },
+  "https://tiget.net/events/527338": {
+    "title": "Heart Voice vol.16",
+    "group": "冬姫 / 青木ありあ / 平野純輔 / 深雪 / 伽",
+    "date": "2026-11-01",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-06T20:00:04Z"
+  },
+  "https://tiget.net/events/496828": {
+    "title": "けーずや。 12th anniversary from CUS ...",
+    "group": "けーずや。 / 秋月煉 / とんでもはっぷん！ / YAK...",
+    "date": "2026-11-27",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-06T20:00:04Z"
+  },
+  "https://tiget.net/events/528942": {
+    "title": "たこやきヒロイン",
+    "group": "妄想ヒロイン",
+    "date": "2026-10-10",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-06T20:00:04Z"
+  },
+  "https://tiget.net/events/528661": {
+    "title": "AKIARIM LAST TOUR「証」@ HITACHI-TA...",
+    "group": "AKIARIM / THE SALA / Moon Lig...",
+    "date": "2026-11-01",
+    "venue": "茨城県",
+    "prefecture": "茨城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-06T20:00:04Z"
+  },
+  "https://tiget.net/events/528555": {
+    "title": "AVACLUB 2nd Anniversary Live 「PA...",
+    "group": "AVACLUB",
+    "date": "2026-12-15",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-06T20:00:04Z"
+  },
+  "https://tiget.net/events/528553": {
+    "title": "AVACLUB 新体制披露公演「IF」",
+    "group": "AVACLUB / Buddha TOKYO / 始発待ち...",
+    "date": "2026-11-12",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-06T20:00:04Z"
+  },
+  "https://ticketdive.com/event/haruchan-261016": {
+    "title": "はるちゃんのお誕生日会2026",
+    "group": "はるちゃんのお誕生日会2026",
+    "date": "2026-10-16",
+    "venue": "Shibuya LOVEZ",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-10-06T20:02:41Z"
   }
 }
