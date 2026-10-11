@@ -110538,5 +110538,23 @@
     "prefecture": "東京",
     "source": "liveidol.blog（集約サイト）",
     "firstSeen": "2026-10-10T21:06:51Z"
+  },
+  "https://tiget.net/events/530123": {
+    "title": "ニュースタ FREE LIVE（一般チケット）",
+    "group": "未完成未来図 / モスキートーン / てるとりと / らぶとら",
+    "date": "2026-11-05",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-11T00:13:58Z"
+  },
+  "https://ticketdive.com/event/gakusei_runway_osaka_qualifier": {
+    "title": "【予選ステージ・入場チケット】GAKUSEI RUNWAY 2026 WINTER in OSAKA supported by BeReal.",
+    "group": "【予選ステージ・入場チケット】GAKUSEI RUNWAY 2026 WINTER in OSAKA supported by BeReal.",
+    "date": "2026-12-27",
+    "venue": "なんばHatch",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-10-11T00:16:24Z"
   }
 }
