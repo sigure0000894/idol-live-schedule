@@ -112680,5 +112680,86 @@
     "prefecture": null,
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-10-12T22:26:46Z"
+  },
+  "https://tiget.net/events/530628": {
+    "title": "🎓 にこっと学園☆アイドル部 ― 放課後、夢が咲く。",
+    "group": "🎓 にこっと学園☆アイドル部 ― 放課後、夢が咲く。",
+    "date": "2026-10-23",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-13T05:01:46Z"
+  },
+  "https://tiget.net/events/530525": {
+    "title": "🦌 Le Siana 14周年記念LIVE 🦌  〜紡いだ想い、...",
+    "group": "花咲花奈 / 七瀬美澪 / 瀬川侑宇 / 桃瀬りのあ / ...",
+    "date": "2026-10-24",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-13T05:01:46Z"
+  },
+  "https://livepocket.jp/e/2_jyf": {
+    "title": "WASEDA ARENA SUMMIT vol.7 supported by LivePocket",
+    "group": "eill",
+    "date": "2026-11-08",
+    "venue": "早稲田アリーナ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-13T05:04:04Z"
+  },
+  "https://livepocket.jp/e/hamlet1025": {
+    "title": "ハムレット",
+    "group": "若松力 / 加藤記生 / 小山あずさ / 服部容子 / 山田美波 / 井神崚太 / 井神崚太 / 竹内瞳 / 石井瞭一 / 山崎清介 / 飯田桃子",
+    "date": "2026-10-25",
+    "venue": "神奈川県立青少年センター紅葉坂ホール（神奈川県）",
+    "prefecture": "神奈川県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-13T05:04:04Z"
+  },
+  "https://livepocket.jp/e/9dfi5": {
+    "title": "2DのNUANCE",
+    "group": "NUANCE",
+    "date": "2026-10-20",
+    "venue": "新宿MARZ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-13T05:04:04Z"
+  },
+  "https://livepocket.jp/e/otonarivol14": {
+    "title": "OTONARI Vol.14",
+    "group": "ヒカリトナリ",
+    "date": "2026-10-16",
+    "venue": "SOUNDNOTE秋葉原（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-13T05:04:04Z"
+  },
+  "https://livepocket.jp/e/rina_last1017": {
+    "title": "宮古莉奈卒業公演2026~今まで本当にありがとう。この想い、ずっと忘れないよ。~",
+    "group": "宮古莉奈卒業公演2026~今まで本当にありがとう。この想い、ずっと忘れないよ。~",
+    "date": "2026-10-17",
+    "venue": "渋谷音楽堂（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-13T05:04:04Z"
+  },
+  "https://livepocket.jp/e/1017_barikawa": {
+    "title": "ばり♡KAWA!!単独-みんなで来CHINA公演-",
+    "group": "ばり♡KAWA!!",
+    "date": "2026-10-17",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-13T05:04:04Z"
+  },
+  "https://livepocket.jp/e/sunplus_online20261018": {
+    "title": "【１～５部】SUNPLUS個別オンライントークイベント（一般）",
+    "group": "谷水力 / 野口準 / 水田達貴 / 藍沢晃多 / 大津朝陽 / 大津夕陽",
+    "date": "2026-10-18",
+    "venue": "Zoom（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-13T05:04:04Z"
   }
 }
