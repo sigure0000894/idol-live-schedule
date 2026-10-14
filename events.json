@@ -117945,5 +117945,14 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-10-14T19:13:39Z"
+  },
+  "https://tiget.net/events/531165": {
+    "title": "McDog登山部",
+    "group": "McDog登山部",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-14T23:39:10Z"
   }
 }
