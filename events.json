@@ -118251,5 +118251,401 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-10-15T08:01:06Z"
+  },
+  "https://tiget.net/events/530994": {
+    "title": "桜咲 1st ワンマンライブ『やっぱり桜咲が117♡』",
+    "group": "桜咲",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/530577": {
+    "title": "あかつきフェスmini vol.3",
+    "group": "グットクルー / cleomery / まいどあり！ / ...",
+    "date": "2026-11-25",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/529152": {
+    "title": "ネクストカルチャーズ -ハッピーハロウィン編🎃-",
+    "group": "兎アイズ / AKIARIM / Addiction Me...",
+    "date": "2026-10-31",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/530163": {
+    "title": "sus-tainの火曜祝日無銭拡大版",
+    "group": "sus-tain / 無花果とマシンガン / Breakt...",
+    "date": "2026-11-03",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/530995": {
+    "title": "代々木女子音楽院定期公演『学院集会 Vol.7』",
+    "group": "代々木女子音楽院 / Innocent Fairy / A...",
+    "date": "2026-11-02",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531101": {
+    "title": "Unity1周年ワンマンライブ！",
+    "group": "Unity1周年ワンマンライブ！",
+    "date": "2026-11-29",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/530824": {
+    "title": "FPRO HALLOWEEN NIGHT",
+    "group": "FPRO HALLOWEEN NIGHT",
+    "date": "2026-10-31",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/530877": {
+    "title": "【プライバシーの欠如Vol.4】おたまボンバーの実家生誕祭2026",
+    "group": "おたまボンバー / うさきち / オミ / セイちゃん /...",
+    "date": "2026-12-06",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/526597": {
+    "title": "MERCURY新年会",
+    "group": "MERCURY新年会",
+    "date": "2027-01-11",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/530827": {
+    "title": "FPROハロコスライブ",
+    "group": "FPROハロコスライブ",
+    "date": "2026-11-01",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/527109": {
+    "title": "かなめ×みぐコラボライブ",
+    "group": "みぐ / かなめ",
+    "date": "2026-10-27",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/530976": {
+    "title": "苫小牧くれれこバスツアー！",
+    "group": "Teamくれれっ娘！",
+    "date": "2026-11-08",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531399": {
+    "title": "葵こころ　私服撮影会",
+    "group": "葵こころ",
+    "date": "2026-10-25",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531398": {
+    "title": "蒼斗ゆりあ　私服撮影会",
+    "group": "蒼斗ゆりあ",
+    "date": "2026-10-25",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531388": {
+    "title": "一ノ瀬みやび　私服撮影会",
+    "group": "一ノ瀬みやび",
+    "date": "2026-10-25",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531383": {
+    "title": "はぴふる★TEA PARTY",
+    "group": "寿々木はるか / 朱衣るり / あまたてみこ / いぐかお...",
+    "date": "2026-11-05",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531374": {
+    "title": "カノコレFES 白部由依生誕祭",
+    "group": "奏音コレクト / DearCOLOR / 稲荷わんこ / ...",
+    "date": "2026-12-06",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531363": {
+    "title": "ふうとあおのバースデーイベント in ライブバス",
+    "group": "はるかすみ / ワタシは雨、 / きみはれ｡",
+    "date": "2026-11-14",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531361": {
+    "title": "パイナップルクラブ　制服＆ハロウィン撮影会",
+    "group": "パイナップルクラブ",
+    "date": "2026-10-31",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531349": {
+    "title": "プエラの絶対値 🍬大阪やで♡2ショットおさんぽ会🍬",
+    "group": "プエラの絶対値",
+    "date": "2026-10-23",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531347": {
+    "title": "WOW! アイドルサンデー",
+    "group": "SPATIO / CutiV",
+    "date": "2026-11-01",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531310": {
+    "title": "チカ・G・ロジャー生誕イベント 『ギア・フォース』",
+    "group": "塩タン五人前 / ベリーバッドアラモード / Mistia...",
+    "date": "2026-11-14",
+    "venue": "京都府",
+    "prefecture": "京都府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531309": {
+    "title": "ゆるツーマン~あ、あやなんもうすぐ28歳だねおめでとう㊗️~ ~...",
+    "group": "斎藤あやな / Royalmagnet / 甲田彩夏 / 渚舞希",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531304": {
+    "title": "Teamくれれっ娘！定期公演「Teamくれれっ娘！フェスタ Vo...",
+    "group": "Teamくれれっ娘！",
+    "date": "2026-11-01",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531303": {
+    "title": "I☆Cicle 定期公演「Ice☆Bullet」vol.102",
+    "group": "I☆Cicle",
+    "date": "2026-11-01",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531294": {
+    "title": "望月あんず ソロ公演",
+    "group": "望月あんず",
+    "date": "2026-11-20",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531289": {
+    "title": "津代美月🎂生誕ミニグッズ販売",
+    "group": "JamsCollection",
+    "date": "2026-10-31",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531283": {
+    "title": "ブレーメン山梨BBQオフ会",
+    "group": "Brave Mental Orchestra",
+    "date": "2026-10-17",
+    "venue": "山梨県",
+    "prefecture": "山梨県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531264": {
+    "title": "💜津代美月 生誕特典会 💜",
+    "group": "JamsCollection",
+    "date": "2026-10-21",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531257": {
+    "title": "neon requiem",
+    "group": "KOBARAHELL / DooDooDooMiuMIuM...",
+    "date": "2026-11-07",
+    "venue": "沖縄県",
+    "prefecture": "沖縄県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531232": {
+    "title": "しえみあのダンスWS",
+    "group": "MIAI / SHIERA",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531227": {
+    "title": "強くてにゅーげーむ ミスエル・サキ生誕祭 2026",
+    "group": "強くてにゅーげーむ",
+    "date": "2026-11-09",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531175": {
+    "title": "MEMORI LIVE ~MISAKI is BACK TO T...",
+    "group": "MEMORI LIVE ~MISAKI is BACK TO T...",
+    "date": "2026-11-14",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/531155": {
+    "title": "飲み処こまど",
+    "group": "飲み処こまど",
+    "date": "2026-10-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://tiget.net/events/527817": {
+    "title": "きくちくん 10周年ライブツアー＠大阪府泉佐野市",
+    "group": "きくちくん 10周年ライブツアー＠大阪府泉佐野市",
+    "date": "2026-12-12",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-15T13:54:34Z"
+  },
+  "https://livepocket.jp/e/hj7p9": {
+    "title": "オカルティック・サイレンス vol.13「The Gift」",
+    "group": "吉田悠軌 / 田中俊行",
+    "date": "2026-12-03",
+    "venue": "Club Heavy Sick（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://livepocket.jp/e/mbi0q": {
+    "title": "海音 presents 「あまねくテラス 〜昼下がり編」",
+    "group": "海音(マリンブルーデージー)",
+    "date": "2026-11-15",
+    "venue": "下北沢Laguna（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://livepocket.jp/e/qi5m9": {
+    "title": "「Zakky Night 2026」",
+    "group": "「Zakky Night 2026」",
+    "date": "2026-12-09",
+    "venue": "下北沢ERA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://livepocket.jp/e/w3we3": {
+    "title": "事故物件×人怖　てるらむの恐夜笑夜",
+    "group": "大島てる / 村田らむ",
+    "date": "2026-12-01",
+    "venue": "阿佐ヶ谷ロフトA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://livepocket.jp/e/6ly3u": {
+    "title": "不明界隈活動終了主催 『Re:START』",
+    "group": "不明界隈 / 泡沫と雨 / ハカナキ / リジェーヌ / The Monali. / Pumpkin.",
+    "date": "2026-11-27",
+    "venue": "ライブハウス 獅子王（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://livepocket.jp/e/y6m8w": {
+    "title": "『北島康雄の喋り足りなくて…秋』",
+    "group": "北島康雄（四星球） / 豊島“ペリー来航”渉（バックドロップシンデレラ） / 玉屋2060%（Wienners） / ヤマサキ セイヤ（キュウソネコカミ）",
+    "date": "2026-11-16",
+    "venue": "GARRET udagawa（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://livepocket.jp/e/440261214": {
+    "title": "メルキュリオ〜忘年会スペシャル〜",
+    "group": "joppin:cal / luin / ハイダンシークドロシー",
+    "date": "2026-12-14",
+    "venue": "下北沢440(four forty)（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://livepocket.jp/e/fusion1106": {
+    "title": "ESAKA MUSE×新章 大阪⭐︎春夏秋冬 pre.BAND×IDOL-FUSION-",
+    "group": "BE≠CAN / 新章 大阪☆春夏秋冬 with SYUKASYUN BAND / alma / Lailah / マイフェアガ→ル",
+    "date": "2026-11-06",
+    "venue": "ESAKA MUSE（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-15T13:56:55Z"
+  },
+  "https://ticketdive.com/event/h41usg62zw9Z8bKgMkoo": {
+    "title": "【10/18 ②部】iLiFE! 特典会参加券 @ Zepp Namba",
+    "group": "【10/18 ②部】iLiFE! 特典会参加券 @ Zepp Namba",
+    "date": "2026-10-18",
+    "venue": "Zepp Namba",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-10-15T13:56:57Z"
   }
 }
