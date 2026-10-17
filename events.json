@@ -120186,5 +120186,86 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-10-16T18:40:33Z"
+  },
+  "https://tiget.net/events/531733": {
+    "title": "合同撮影会(10/25)",
+    "group": "みぐ / ひなた / あずさ",
+    "date": "2026-10-25",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-17T02:36:48Z"
+  },
+  "https://tiget.net/events/531728": {
+    "title": "合同撮影会(10/24)",
+    "group": "みぐ / ひなた / あずさ",
+    "date": "2026-10-24",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-17T02:36:48Z"
+  },
+  "https://livepocket.jp/e/20261019_pass": {
+    "title": "【静止画撮影パス】10/19 あいな 生誕祭",
+    "group": "カラフルスクリーム / すーぱーぷーばぁー!!",
+    "date": "2026-10-19",
+    "venue": "Banana Hall（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-17T02:39:12Z"
+  },
+  "https://livepocket.jp/e/9rrbj": {
+    "title": "赤ペン瀧川の添削スライドショーvol.37『ゆくネタくるネタ2026』二日目",
+    "group": "赤ペン瀧川",
+    "date": "2026-12-20",
+    "venue": "大阪ロフトプラスワンウエスト（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-17T02:39:12Z"
+  },
+  "https://livepocket.jp/e/tipah": {
+    "title": "赤ペン瀧川の添削スライドショーvol.37『ゆくネタくるネタ2026』初日",
+    "group": "赤ペン瀧川",
+    "date": "2026-12-19",
+    "venue": "大阪ロフトプラスワンウエスト（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-17T02:39:12Z"
+  },
+  "https://livepocket.jp/e/gub7y": {
+    "title": "『2026年､この映画見たんですけど｡in大阪』",
+    "group": "北村真平(ABCテレビアナウンサー) / 萌々(爛々) / 赤ペン瀧川",
+    "date": "2026-12-19",
+    "venue": "大阪ロフトプラスワンウエスト（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-17T02:39:12Z"
+  },
+  "https://livepocket.jp/e/pudxd": {
+    "title": "｢ゆくネタくるネタ2026｣ day.2",
+    "group": "赤ペン瀧川",
+    "date": "2026-12-27",
+    "venue": "LOFT9 Shibuya（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-17T02:39:12Z"
+  },
+  "https://livepocket.jp/e/84v4p": {
+    "title": "｢ゆくネタくるネタ2026｣ day.1",
+    "group": "赤ペン瀧川",
+    "date": "2026-12-26",
+    "venue": "LOFT9 Shibuya（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-17T02:39:12Z"
+  },
+  "https://livepocket.jp/e/50ao7": {
+    "title": "｢2026年､この映画見たんですけど｡in東京｣",
+    "group": "ミヤザキタケル / 児玉美月 / 赤ペン瀧川",
+    "date": "2026-12-26",
+    "venue": "LOFT9 Shibuya（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-17T02:39:12Z"
   }
 }
