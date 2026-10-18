@@ -122040,5 +122040,635 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-10-18T13:01:39Z"
+  },
+  "https://tiget.net/events/531381": {
+    "title": "ルルエクレールワンマンライブ〜ルルパティ100人大集合計画！？〜",
+    "group": "ルルエクレール",
+    "date": "2026-11-15",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-18T17:46:51Z"
+  },
+  "https://tiget.net/events/531774": {
+    "title": "水槽とクレマチス全国ツアー「誰かの庭で」静岡公演　第２部",
+    "group": "水槽とクレマチス / Shred Winter Nerds",
+    "date": "2026-11-01",
+    "venue": "静岡県",
+    "prefecture": "静岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-18T17:46:51Z"
+  },
+  "https://tiget.net/events/523539": {
+    "title": "11/18（水)「G-ROCK PARTY vol.27｣",
+    "group": "Rezaria / JiggyJade / RAIDEN ...",
+    "date": "2026-11-18",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-18T17:46:51Z"
+  },
+  "https://tiget.net/events/532044": {
+    "title": "ゆっき〜presents STAND MARIA Vol.141...",
+    "group": "AdFicTioN / Baby inspire / Ca...",
+    "date": "2026-11-08",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-18T17:46:51Z"
+  },
+  "https://tiget.net/events/532014": {
+    "title": "不定期公演ティアランド〜PANICでPOPなPARTYすルノ！〜",
+    "group": "LunouirTiara / PANIC POP PARTY",
+    "date": "2026-11-23",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-18T17:46:51Z"
+  },
+  "https://tiget.net/events/531944": {
+    "title": "アイドルカレッジ 合同チェキ会",
+    "group": "アイドルカレッジ / おむすびコロコロ",
+    "date": "2026-10-24",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-18T17:46:51Z"
+  },
+  "https://tiget.net/events/523540": {
+    "title": "11/25(水)「G-ROCK PARTY vol.28｣",
+    "group": "HONEYBEE / RAIDEN / Sirius / ...",
+    "date": "2026-11-25",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-18T17:46:51Z"
+  },
+  "https://livepocket.jp/e/que20270220": {
+    "title": "ニューロティカ/蜂鳥あみ太＝４号+acc田村賢太郎/のっぺら：“走死走愛タイマンシヨウ　第五死愛 -三角関係-”",
+    "group": "ニューロティカ / 蜂鳥あみ太＝４号+acc田村賢太郎 / のっぺら",
+    "date": "2027-02-20",
+    "venue": "下北沢CLUB Que（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/iyc91": {
+    "title": "【S.P.C会員限定】新森二愛・二宮伶寧・浜田萌帆にお誕生日祝いのお花を贈ろう！",
+    "group": "SUPER☆GiRLS / 新森二愛 / 二宮伶寧 / 浜田萌帆",
+    "date": "2026-10-24",
+    "venue": "パームス秋葉原（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/irf5j": {
+    "title": "ライブ撮影可イベント！ GiRLS POWER LiVESHOT！  ～　山根優佳生誕祭2026　～",
+    "group": "天空のシラバス / のーぷらん。 / ももいろプロジェクト / ATLEPY / TiiL / GPアイドル声優部 / 山根優佳 / はるなぎ(仮)",
+    "date": "2026-10-24",
+    "venue": "GOTANDA G7（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/tmqae": {
+    "title": "比留川マイ写真集 Mailani発売記念イベント(秋葉原)",
+    "group": "比留川マイ",
+    "date": "2026-10-24",
+    "venue": "書泉ブックタワー（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/heyte": {
+    "title": "10月24日　瀬海優那　撮影会",
+    "group": "10月24日　瀬海優那　撮影会",
+    "date": "2026-10-24",
+    "venue": "バービーハウススタジオ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/261024": {
+    "title": "U&Y〜YUUGA Birthday Party 25th!!〜",
+    "group": "YUUGA / nassy",
+    "date": "2026-10-24",
+    "venue": "Ikebukuro Hoteyes（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/m_fdc": {
+    "title": "「LIT THEATER🦇Happy Halloween🦇Vol.1〜食べちゃうぞ〜」",
+    "group": "LIT",
+    "date": "2026-10-24",
+    "venue": "CLUB SARU（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/aso5u": {
+    "title": "「LIT THEATER🎃Happy Halloween🎃Vol.2〜ちょっと先取りハロウィンライブ〜」",
+    "group": "LIT",
+    "date": "2026-10-24",
+    "venue": "CLUB SARU（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/ddq76": {
+    "title": "10/24(土)林ゆめバースデー撮影会♡",
+    "group": "林ゆめ",
+    "date": "2026-10-24",
+    "venue": "都内某所(参加者のみメールでお知らせいたします) （東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/happyrinkaday2026": {
+    "title": "Happy Rinka Day 2026",
+    "group": "りんか",
+    "date": "2026-10-24",
+    "venue": "ベルエポック美容専門学校 イベントホール（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/aorab1024": {
+    "title": "【一般販売】青山Rabness LIVE TOUR 2026 〜Beyond the Dream〜 宮城公演",
+    "group": "青山Rabness",
+    "date": "2026-10-24",
+    "venue": "space Zero（宮城県）",
+    "prefecture": "宮城県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/6d7-y": {
+    "title": "川瀬もえ Newフォトブック「Moement」発売記念イベント",
+    "group": "川瀬もえ",
+    "date": "2026-10-24",
+    "venue": "ABCラボ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/vekxg": {
+    "title": "１０月２４日(土)　バンビーナ撮影会　　穂南しずく",
+    "group": "１０月２４日(土)　バンビーナ撮影会　　穂南しずく",
+    "date": "2026-10-24",
+    "venue": "四谷BASE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/d006d": {
+    "title": "Vtu”Bar”イベント　10/24(土)　ユラ＆ケイカ　オンライントークイベント",
+    "group": "Vtu”Bar”イベント　10/24(土)　ユラ＆ケイカ　オンライントークイベント",
+    "date": "2026-10-24",
+    "venue": "オンライン",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/tokutokuhallo": {
+    "title": "トクトク-ハロウィン編-",
+    "group": "Heyhe1 / KANTA",
+    "date": "2026-10-24",
+    "venue": "one D（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/connect-tochigi2026": {
+    "title": "【メインステージ指定席申込用】DetonatioN FocusMe presents CONNeCT TOCHIGI 2026 powered by 足利銀行",
+    "group": "Meiy / SSeeS / Caedye / yatsuka / Vorz / Biju / 板橋ザンギエフ / ナウマン / アール / ラプラス・ダークネス / DetonatioN FocusMe / OooDa",
+    "date": "2026-10-24",
+    "venue": "アークタウン宇都宮（東部総合公園） 多目的広場（栃木県）",
+    "prefecture": "栃木県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/dc0ys": {
+    "title": "友恵温香『ハロウィン＆FRIDAY発売』イベント",
+    "group": "友恵温香",
+    "date": "2026-10-24",
+    "venue": "都内某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/ivy_psyro1024": {
+    "title": "IVY & PSYROハロウィン撮影会🎃",
+    "group": "IVY & PSYROハロウィン撮影会🎃",
+    "date": "2026-10-24",
+    "venue": "Eric2F Studio（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/q624v": {
+    "title": "【九井スナオ】SOD本社スタジオでオフ会イベント！",
+    "group": "九井スナオ",
+    "date": "2026-10-24",
+    "venue": "ソフト・オン・デマンド株式会社（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/t37dm": {
+    "title": "立華理莉ハロウィン＆コスチューム撮影会",
+    "group": "立華理莉",
+    "date": "2026-10-24",
+    "venue": "都内スタジオ（蒲田近辺予定）（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/6186b": {
+    "title": "[EVENT] にゃーとらこしあち会",
+    "group": "澤井星名 / 松田太雅",
+    "date": "2026-10-24",
+    "venue": "ファンファーレ東池袋（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/bud3x": {
+    "title": "【10月24日(土)】ことりの塩対応“メイド”カフェ",
+    "group": "貝賀琴莉",
+    "date": "2026-10-24",
+    "venue": "都内某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/ho2tp": {
+    "title": "【オンラインガチャ＆直筆サイン入りチェキ】Vtu”Bar” 　ユラ＆ケイカ　10/24　トークイベント",
+    "group": "【オンラインガチャ＆直筆サイン入りチェキ】Vtu”Bar” 　ユラ＆ケイカ　10/24　トークイベント",
+    "date": "2026-10-24",
+    "venue": "Zoom（その他）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/3c53a": {
+    "title": "パニモン『アクロバット個別オフ会~アスレチックで遊ぼう~』",
+    "group": "Panic Monster !n Wonderland",
+    "date": "2026-10-24",
+    "venue": "東京某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/s_qvb": {
+    "title": "GANGDEMIC『ハロウィン全体オフ会』",
+    "group": "GANGDEMIC",
+    "date": "2026-10-24",
+    "venue": "Livepocketのメールにてお知らせいたします。（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/p0_sl": {
+    "title": "憑依中毒-シャーマンホリック-ハロウィンオフ会",
+    "group": "憑依中毒-シャーマンホリック-",
+    "date": "2026-10-24",
+    "venue": "都内某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/7ptde": {
+    "title": "ルシフェルの園。『ハロウィン個別オフ会』",
+    "group": "ルシフェルの園。",
+    "date": "2026-10-24",
+    "venue": "都内某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/zm8y5": {
+    "title": "ルシフェルの園。『ハロウィン全体オフ会』",
+    "group": "ルシフェルの園。",
+    "date": "2026-10-24",
+    "venue": "都内某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/po_xe": {
+    "title": "点染テンセイ少女。『ハロウィン個別オフ会』",
+    "group": "点染テンセイ少女。",
+    "date": "2026-10-24",
+    "venue": "東京都（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/wv04j": {
+    "title": "点染テンセイ少女。『ハロウィン全体オフ会』",
+    "group": "点染テンセイ少女。",
+    "date": "2026-10-24",
+    "venue": "東京都（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/flntt": {
+    "title": "ビアガーデン🍺",
+    "group": "ビアガーデン🍺",
+    "date": "2026-10-24",
+    "venue": "都内某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/sxaz-": {
+    "title": "香咲月 撮影会",
+    "group": "香咲月 撮影会",
+    "date": "2026-10-24",
+    "venue": "アットビジネスセンターサテライト渋谷宇田川 501号室（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/100stars_261024": {
+    "title": "10/24 楓雅バースデーイベント",
+    "group": "100STARS / 三葉 / 奥田啓斗 / 碧歩 / 森川七星 / 大和琉来也 / 中島吏穏 / 四宮楓雅",
+    "date": "2026-10-24",
+    "venue": "学校跡地の飯田橋でっかいレンタルスペース　教室３（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/imad6": {
+    "title": "【優先入場券】EBiDAN OSAKA「ほな！！楽しもか！！2026 ハロウィン」 in HMV&BOOKS NAMBA",
+    "group": "EBiDAN OSAKA",
+    "date": "2026-10-24",
+    "venue": "HMV&BOOKS NAMBA 店内イベントスペース（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/o_gle": {
+    "title": "【10/24当日ワンチャン枠！すべり込み券 】EBiDAN OSAKA「ほな！！楽しもか！！2026 ハロウィン」 in HMV&BOOKS NAMBA",
+    "group": "EBiDAN OSAKA",
+    "date": "2026-10-24",
+    "venue": "HMV&BOOKS NAMBA 店内イベントスペース（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/rinka-last1024": {
+    "title": "木ノ下凛花卒業公演2026~君と作る最高のフィナーレ。~",
+    "group": "木ノ下凛花卒業公演2026~君と作る最高のフィナーレ。~",
+    "date": "2026-10-24",
+    "venue": "渋谷近未来会館（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/amhall1024": {
+    "title": "言いたいこと君にあるんだ〜五大都市ツアー 大阪編〜",
+    "group": "言いたいこと君にあるんだ〜五大都市ツアー 大阪編〜",
+    "date": "2026-10-24",
+    "venue": "梅田amHALL（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/y7k9t": {
+    "title": "森沢ゆずは 撮影会",
+    "group": "森沢ゆずは 撮影会",
+    "date": "2026-10-24",
+    "venue": "アットビジネスセンターサテライト渋谷宇田川 501号室（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/lpmyv": {
+    "title": "椎名莉子 撮影会",
+    "group": "椎名莉子 撮影会",
+    "date": "2026-10-24",
+    "venue": "アットビジネスセンターサテライト渋谷宇田川 501号室（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/prhsg": {
+    "title": "10月24日（土）「インターナショナルリゾートホテル湯楽城」特撮Boyz・裏原BROTHERZ　BBQイベント",
+    "group": "特撮Boyz / 裏原BROTHERZ",
+    "date": "2026-10-24",
+    "venue": "インターナショナルリゾートホテル湯楽城　BBQ会場特設ステージ（千葉県）",
+    "prefecture": "千葉県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/7mzz2": {
+    "title": "木ノ下凛花 卒業カンパ",
+    "group": "木ノ下凛花 / SUPER JYAPON",
+    "date": "2026-10-24",
+    "venue": "東京（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/k5kuq": {
+    "title": "「K-NEXT特別公演一般¥0円SP」",
+    "group": "Star☆Prince / K-NEXT BOYS",
+    "date": "2026-10-24",
+    "venue": "Galaxy Box（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/rapinz_bbq2026": {
+    "title": "RapiNzと乾杯！大感謝BBQ PARTY",
+    "group": "RapiNz",
+    "date": "2026-10-24",
+    "venue": "デパそらURAWA（埼玉県）",
+    "prefecture": "埼玉県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/iwi_bbq_2026": {
+    "title": "🍁 IWI!と楽しむ！秋のスペシャルBBQオフ会 🍖",
+    "group": "IWI!",
+    "date": "2026-10-24",
+    "venue": "都内某所(池袋近辺)（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/u0z9x": {
+    "title": "☆With Allen☆BDランチ会2026 一般",
+    "group": "小波津亜廉",
+    "date": "2026-10-24",
+    "venue": "横浜中華街　菜香新館（神奈川県）",
+    "prefecture": "神奈川県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/ty-tk": {
+    "title": "ハロウィン撮影会♡",
+    "group": "miuzic NEXT / ルミ♡コード",
+    "date": "2026-10-24",
+    "venue": "3Fイベントスペース（静岡県）",
+    "prefecture": "静岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/0vb1o": {
+    "title": "萌花・ありす、夜のプライベート撮影会",
+    "group": "新井萌花 / 小山ありす",
+    "date": "2026-10-24",
+    "venue": "はなまるスタジオ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/1-tue": {
+    "title": "ありす・萌花、夜のプライベート撮影会",
+    "group": "新井萌花 / 小山ありす",
+    "date": "2026-10-24",
+    "venue": "はなまるスタジオ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/lestart_musen": {
+    "title": "LE:START 無銭ハロウィン編",
+    "group": "LastNote / StateArt / Lovin’ Collection",
+    "date": "2026-10-24",
+    "venue": "新栄DAYTRIVE（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/dk-h1": {
+    "title": "翡翠いろは　生誕イベント",
+    "group": "翡翠いろは　生誕イベント",
+    "date": "2026-10-24",
+    "venue": "大阪府大阪市西区北堀江1-1-24 近商ビル10F（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/uzzkg": {
+    "title": "サイレントラプソディ ボウリング大会",
+    "group": "サイレントラプソディ",
+    "date": "2026-10-24",
+    "venue": "ジョイランド原（静岡県）",
+    "prefecture": "静岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/hs10thpirits8": {
+    "title": "『10thpirits 「HIGH SPIRITS × DREAMING MONSTER × New Crown」』",
+    "group": "HIGH SPIRITS / DREAMING MONSTER / New Crown",
+    "date": "2026-10-24",
+    "venue": "SHIBUYA DIVE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/7mww9": {
+    "title": "10月24日(土)シンセカイヒーロー単独定期公演",
+    "group": "シンセカイヒーロー",
+    "date": "2026-10-24",
+    "venue": "仮面女子シアター（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/cc_1024": {
+    "title": "Chit Chat オンライン特典会 -１周年記念-",
+    "group": "Chit Chat",
+    "date": "2026-10-24",
+    "venue": "Trush Mob（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/1024_vol428": {
+    "title": "HACHI$LIVE vol.428",
+    "group": "親不孝Dolls / 革命の旋律 / 未完成の瞬き / 堕storia",
+    "date": "2026-10-24",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/1024_vol429": {
+    "title": "HACHI$LIVE vol.429",
+    "group": "SHOWTIME撃嬢 / 革命の旋律 / 未完成の瞬き / 堕storia",
+    "date": "2026-10-24",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/c7srv": {
+    "title": "ROSARIO＋CROSS ハロウィン撮影会",
+    "group": "ROSARIO＋CROSS",
+    "date": "2026-10-24",
+    "venue": "イベントスペース静岡（静岡県）",
+    "prefecture": "静岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/y9ibf": {
+    "title": "北野めぐみ生誕祭2026",
+    "group": "北野めぐみ生誕祭2026",
+    "date": "2026-10-24",
+    "venue": "永山健康ランド竹取の湯（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/ax261024": {
+    "title": "10/24  AXXX1S どしたん、話聞こか？TikTok撮影会",
+    "group": "AXXX1S",
+    "date": "2026-10-24",
+    "venue": "AP西新宿 Hルーム（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/d-908": {
+    "title": "やまだなみ個別オフ会in大阪",
+    "group": "やまだなみ",
+    "date": "2026-10-24",
+    "venue": "大阪道頓堀（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/46unr": {
+    "title": "10月25日（日）「Akiba Stella Cube」特撮Boyzリミテッドワンマンライブ『Boyz Land』",
+    "group": "特撮Boyz",
+    "date": "2026-10-25",
+    "venue": "Akiba Stella Cube（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/fk-94": {
+    "title": "10/25(日)安達夕莉♡大阪でお好み焼きオフ会♡【大阪開催】",
+    "group": "Bstar / 安達夕莉",
+    "date": "2026-10-25",
+    "venue": "大阪市内某所（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
+  },
+  "https://livepocket.jp/e/7v87b": {
+    "title": "神木悠里 お台場野外撮影会",
+    "group": "神木悠里 お台場野外撮影会",
+    "date": "2026-10-25",
+    "venue": "お台場周辺（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-18T17:49:13Z"
   }
 }
