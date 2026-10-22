@@ -133434,5 +133434,257 @@
     "prefecture": "東京",
     "source": "liveidol.blog（集約サイト）",
     "firstSeen": "2026-10-22T14:23:57Z"
+  },
+  "https://tiget.net/events/533117": {
+    "title": "Unafes",
+    "group": "WomanSyndrome / アイドルカンパニーUTAM...",
+    "date": "2026-11-23",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-22T19:04:31Z"
+  },
+  "https://tiget.net/events/533092": {
+    "title": "咲ネクスト事務所ライブ！",
+    "group": "スーパー弾力素材にーくん / シャーピン / アイス芸人た...",
+    "date": "2026-11-02",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-22T19:04:31Z"
+  },
+  "https://livepocket.jp/e/l21bh": {
+    "title": "★With Allen★BD2026 1on1オンライントーク！10/25④★一般",
+    "group": "小波津亜廉",
+    "date": "2026-10-25",
+    "venue": "皆様のご自宅など（全国各地）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/x3_od": {
+    "title": "★With Allen ★BD2026 1on1オンライントーク！10/25⑤★一般",
+    "group": "小波津亜廉",
+    "date": "2026-10-25",
+    "venue": "皆様のご自宅など（全国各地）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/9j1bi": {
+    "title": "★With Allen★BD2026 1on1オンライントーク！10/25⑥★一般",
+    "group": "小波津亜廉",
+    "date": "2026-10-25",
+    "venue": "皆様のご自宅など（全国各地）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/0tamj": {
+    "title": "★With Allen★BD2026 1on1オンライントーク！10/25⑦★一般",
+    "group": "小波津亜廉",
+    "date": "2026-10-25",
+    "venue": "皆様のご自宅など（全国各地）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/yreo8": {
+    "title": "★With Allen★BD2026 1on1オンライントーク！10/25⑧★一般",
+    "group": "小波津亜廉",
+    "date": "2026-10-25",
+    "venue": "皆様のご自宅など（全国各地）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/z27ax": {
+    "title": "O PINK LION 〜Halloween撮影会🧡👻〜",
+    "group": "merumo / myuka / Uri",
+    "date": "2026-10-25",
+    "venue": "横浜元町・石川町 撮影スタジオ Petit Room（神奈川県）",
+    "prefecture": "神奈川県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/966g3": {
+    "title": "ゆりな 撮影会",
+    "group": "ゆりな 撮影会",
+    "date": "2026-10-25",
+    "venue": "池袋Hoteyes（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/lt7cd": {
+    "title": "南美 撮影会",
+    "group": "南美 撮影会",
+    "date": "2026-10-25",
+    "venue": "池袋Hoteyes（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/cio9p": {
+    "title": "足立彩珠 撮影会",
+    "group": "足立彩珠 撮影会",
+    "date": "2026-10-25",
+    "venue": "池袋Hoteyes（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/lestart_vol18": {
+    "title": "LE:START vol.18",
+    "group": "LastNote / StateArt / Lovin’ Collection / ミスティックドール / mashimashi",
+    "date": "2026-10-25",
+    "venue": "新栄DAYTRIVE（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/v_cr_": {
+    "title": "永久のLovin’Struck単独LIVE～2年目、全部愛してる♡～",
+    "group": "永久のLovin’Struck",
+    "date": "2026-10-25",
+    "venue": "BUZZ music LABO Shinjuku（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/1025_3man": {
+    "title": "888スリーマンライブ",
+    "group": "Mis=Fit / SunnyHoney / とにとゆうか",
+    "date": "2026-10-25",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/1025_vol430": {
+    "title": "HACHI$LIVE vol.430",
+    "group": "I'LL / SHOWTIME撃嬢 / Mis=Fit / SØiD / me to♡夢CHU / SunnyHoney / とにとゆうか / 堕storia",
+    "date": "2026-10-25",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/paseo085": {
+    "title": "ぱせお085号室",
+    "group": "『I'z』 / ~KNIGHT of ROUND'z~ / Cult of enigma / MELT THE BULLET / ユメカウツツカ / あいみーむ / バトラブ！ / プレアデス / MELOPHORiA / NEWPOEM / READY KITTY / DIARIS / 七罠 / Next:GEM! / SS/AW / シハイノコドモ / ヒカリトナリ / テディアンドロイド / ジェニュインザアイドル / First Fl∞r / SKYXROS / #アクタ / FEEQUE / FLΛME / Bloom CHIC",
+    "date": "2026-10-25",
+    "venue": "吉祥寺CLUBSEATA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/k-v89": {
+    "title": "緑埜よもぎ BBQ企画！",
+    "group": "緑埜よもぎ",
+    "date": "2026-10-25",
+    "venue": "THE BBQ BEACH in TOYOSU（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/g9bbr": {
+    "title": "竹川由華オリジナルグッズ《再販》",
+    "group": "竹川由華",
+    "date": "2026-10-25",
+    "venue": "各種イベント会場にて（全国各地）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/ax261025": {
+    "title": "10/25 AXXX1S YELLOW CELEBRATION",
+    "group": "AXXX1S",
+    "date": "2026-10-25",
+    "venue": "LIVE HOUSE Bloom（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/7d2b1": {
+    "title": "屋外ハロウィン夢月ゆのんコスプレ撮影会、衣装モデルセレクト、",
+    "group": "夢月ゆのん",
+    "date": "2026-10-25",
+    "venue": "代々木八幡駅集合（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/mini-1025": {
+    "title": "アナフェス名古屋mini vol.313  vol.314",
+    "group": "アナフェス名古屋mini vol.313  vol.314",
+    "date": "2026-10-25",
+    "venue": "伏見ライオンシアター（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/9n85o": {
+    "title": "屋外ハロウィン夢月ゆのんコスプレ撮影会、衣装モデルセレクト、",
+    "group": "夢月ゆのん",
+    "date": "2026-10-25",
+    "venue": "代々木八幡駅集合（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/q-yu-": {
+    "title": "らじお女子ハロウィン公演@CBC1スタホール",
+    "group": "らじお女子 / 小松吏穂 / 水野楓奈 / 宮本葵 / 竹宮ユウ / 古澤実歩 / 太田あかり / 伊藤望",
+    "date": "2026-10-25",
+    "venue": "CBC1スタホール（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/3emua": {
+    "title": "STELLAθのtrick or treat公演@CBC1スタホール",
+    "group": "STELLAθ / 永 / 板野隼之介 / 陵星 / 一ノ瀬颯太 / 鳴海善一郎 / 愛翔",
+    "date": "2026-10-25",
+    "venue": "CBC1スタホール（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/1025_mikashun_new": {
+    "title": "新曲お披露目！単独公演！",
+    "group": "未完成の瞬き",
+    "date": "2026-10-25",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://livepocket.jp/e/8m_-5": {
+    "title": "『アマトーーク』【10月開催】",
+    "group": "甘党男子",
+    "date": "2026-10-26",
+    "venue": "お電話のできる環境（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-22T19:07:01Z"
+  },
+  "https://ticketdive.com/event/YANFES-261118": {
+    "title": "YANFES 2026",
+    "group": "YANFES 2026",
+    "date": "2026-11-18",
+    "venue": "豊洲PIT",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-10-22T19:07:10Z"
+  },
+  "https://tiget.net/events/522286": {
+    "title": "レッスントゥミーZepp Shinjukuワンマンライブ〜全ての昨日を今日の夢へ〜",
+    "group": "レッスントゥミー",
+    "date": "2027-03-18",
+    "venue": "Zepp Shinjuku (TOKYO)",
+    "prefecture": "東京",
+    "source": "liveidol.blog（集約サイト）",
+    "firstSeen": "2026-10-22T19:07:35Z"
   }
 }
