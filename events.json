@@ -137079,5 +137079,32 @@
     "prefecture": "東京都",
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-10-24T22:52:33Z"
+  },
+  "https://tiget.net/events/533452": {
+    "title": "SHOWTIME撃嬢 現体制１周年記念ライブ",
+    "group": "SHOWTIME撃嬢 / SØID",
+    "date": "2026-11-15",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-25T02:48:20Z"
+  },
+  "https://tiget.net/events/533552": {
+    "title": "第111回 きんさい！みんさい！狐魂祭！「ポッキーｄａｙ！」",
+    "group": "天みれば君の幸せふりそそぐ / 小鳥遊朱寿 from Ca...",
+    "date": "2026-11-07",
+    "venue": "広島県",
+    "prefecture": "広島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-25T02:48:20Z"
+  },
+  "https://tiget.net/events/533592": {
+    "title": "宇野ななか ソロ公演~うのななかの参観日Vol.4~",
+    "group": "宇野ななか",
+    "date": "2026-11-01",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-25T02:48:20Z"
   }
 }
