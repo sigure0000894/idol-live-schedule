@@ -140742,5 +140742,23 @@
     "prefecture": "大阪府",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-10-26T15:49:03Z"
+  },
+  "https://tiget.net/events/533883": {
+    "title": "11/1 小原涼専用ページ",
+    "group": "11/1 小原涼専用ページ",
+    "date": "2026-11-01",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-26T22:14:14Z"
+  },
+  "https://tiget.net/events/533877": {
+    "title": "LuvHz 定期公演前　個別撮影会",
+    "group": "LuvHz / ハウツー世界征服",
+    "date": "2026-11-05",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-26T22:14:14Z"
   }
 }
