@@ -140760,5 +140760,194 @@
     "prefecture": null,
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-10-26T22:14:14Z"
+  },
+  "https://tiget.net/events/533639": {
+    "title": "26歳児取り扱い説明会~𝐁𝐈𝐑𝐓𝐇𝐃𝐀𝐘~",
+    "group": "とわにゃ",
+    "date": "2026-11-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-27T03:20:39Z"
+  },
+  "https://tiget.net/events/533712": {
+    "title": "「FUTURE: SUPER LIVE」32色のイルミナ☆ドリー...",
+    "group": "エラバレシ / Next☆Rico / I'Rink / ...",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-27T03:20:39Z"
+  },
+  "https://tiget.net/events/533841": {
+    "title": "Brave Mental Orchestra定期公演「Brave...",
+    "group": "Brave Mental Orchestra",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-27T03:20:39Z"
+  },
+  "https://tiget.net/events/533925": {
+    "title": "11/23(月•祝)まゆぴぴファンミ@東京",
+    "group": "まゆぴぴ",
+    "date": "2026-11-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-27T03:20:39Z"
+  },
+  "https://tiget.net/events/533923": {
+    "title": "TD MUSIC PARTY vol22、Halloween S...",
+    "group": "家元収 / 櫻乃ゆうぎ姫 / 海凪きぬ / 姫七森こいし ...",
+    "date": "2026-10-31",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-27T03:20:39Z"
+  },
+  "https://tiget.net/events/533906": {
+    "title": "MBL企画 〜スリーマンLive〜",
+    "group": "せせらぎ小町 / Me-rise / Dorothy Li...",
+    "date": "2026-11-03",
+    "venue": "福島県",
+    "prefecture": "福島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-27T03:20:39Z"
+  },
+  "https://livepocket.jp/e/89_uy": {
+    "title": "米川英之「年忘れよねかわの歌2026」",
+    "group": "森藤晶司 / 須藤満 / 岡本郭男",
+    "date": "2026-12-16",
+    "venue": "Blue-mood（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/me6ad": {
+    "title": "ブライスショップ＜Junie Moon＞期間限定POP UP SHOP",
+    "group": "ブライスショップ＜Junie Moon＞期間限定POP UP SHOP",
+    "date": "2026-11-11",
+    "venue": "丸井今井札幌本店 大通館3階 ステージ#3（北海道）",
+    "prefecture": "北海道",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/we_p-lastlive2026": {
+    "title": "We♡P『LAST LIVE 2026 ～解散するけど重大発表！？さいごまで、うちらウィピ！～』",
+    "group": "We♡P / ゆりぴ〜 / まるもももか / りーちむ / りち",
+    "date": "2026-12-28",
+    "venue": "KFC Hall（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/ptt6v": {
+    "title": "（2部）ワンワンとハイポーズ",
+    "group": "ワンワン",
+    "date": "2026-11-23",
+    "venue": "イオンモールKYOTO　Sakura館4階Kotoホール（京都府）",
+    "prefecture": "京都府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/alqhz": {
+    "title": "（1部）ワンワンとハイポーズ",
+    "group": "ワンワン",
+    "date": "2026-11-23",
+    "venue": "イオンモールKYOTO　Sakura館4階Kotoホール（京都府）",
+    "prefecture": "京都府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/ulrf_": {
+    "title": "【11/1】池袋ハロウィン2026 NTEブース ミニゲーム【パズルチャレンジ】整理券",
+    "group": "【11/1】池袋ハロウィン2026 NTEブース ミニゲーム【パズルチャレンジ】整理券",
+    "date": "2026-11-01",
+    "venue": "中池袋公園 NTEブース（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/s08ws": {
+    "title": "【10/31】池袋ハロウィン2026 NTEブース ミニゲーム【パズルチャレンジ】整理券",
+    "group": "【10/31】池袋ハロウィン2026 NTEブース ミニゲーム【パズルチャレンジ】整理券",
+    "date": "2026-10-31",
+    "venue": "中池袋公園 NTEブース（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/a5p4d": {
+    "title": "白金祭1部チケット Break Jam",
+    "group": "白金祭1部チケット Break Jam",
+    "date": "2026-11-02",
+    "venue": "Arts hall（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/4koqy": {
+    "title": "松島かのん　シーズンオンラインチェキ",
+    "group": "松島かのん",
+    "date": "2026-10-27",
+    "venue": "株式会社リップ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/cmkwr": {
+    "title": "「星希成奏のSecret Show Room」星希成奏さん＆薄井友里さん 直筆サイン入り色紙プレゼントキャンペーン！",
+    "group": "「星希成奏のSecret Show Room」星希成奏さん＆薄井友里さん 直筆サイン入り色紙プレゼントキャンペーン！",
+    "date": "2026-10-27",
+    "venue": "抽選で2名様に、星希成奏さん＆薄井友里さん直筆サイン入り色紙をプレゼントいたします。※Xと合計3名様（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/lt3xj": {
+    "title": "『めめっ‼︎vol.67-あいみーむハロウィン-』",
+    "group": "あいみーむ",
+    "date": "2026-10-28",
+    "venue": "studio freedom（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/u0_t7": {
+    "title": "“iLY//143 PROJECT HALLOWEEN NIGHT 2026”",
+    "group": "halloween / ハロウィン / ぐみ / bae<3 / WHA2THEBEAT- / Quixotiec",
+    "date": "2026-10-28",
+    "venue": "心斎橋KuRaGe（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/nya_ocat": {
+    "title": "ニャ・オーキャット -Halloween SP!-",
+    "group": "ニャ・オーキャット -Halloween SP!-",
+    "date": "2026-10-31",
+    "venue": "OCATポンテ広場（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/2i5ck": {
+    "title": "【オンラインガチャ＆直筆サイン入りチェキ】Vtu”Bar\"　菓子家躑躅　10/31　ワンマントークイベント",
+    "group": "【オンラインガチャ＆直筆サイン入りチェキ】Vtu”Bar\"　菓子家躑躅　10/31　ワンマントークイベント",
+    "date": "2026-10-31",
+    "venue": "Zoom（その他）",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
+  },
+  "https://livepocket.jp/e/lyp2n": {
+    "title": "【ハロウィン限定】てぃな姉との二人だけ通話会♥",
+    "group": "てぃな",
+    "date": "2026-10-31",
+    "venue": "オンライン",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-27T03:23:04Z"
   }
 }
