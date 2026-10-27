@@ -141561,5 +141561,50 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-10-27T17:19:18Z"
+  },
+  "https://eplus.jp/sf/detail/4236350001-P0030016P021001": {
+    "title": "THE FOOL",
+    "group": "THE FOOL",
+    "date": "2026-11-27",
+    "venue": "心斎橋SUNHALL（大阪府）",
+    "prefecture": "大阪府",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-27T21:48:02Z"
+  },
+  "https://eplus.jp/sf/detail/4626620001-P0030001P021001": {
+    "title": "ファイトの日! 能登半島沖地震復興支援 back on live FES 2026アイドル編",
+    "group": "ファイトの日! 能登半島沖地震復興支援 back on live FES 2026アイドル編",
+    "date": "2026-11-28",
+    "venue": "富山MAIRO（富山県）",
+    "prefecture": "富山県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-27T21:48:02Z"
+  },
+  "https://eplus.jp/sf/detail/4626620001-P0030001P021002": {
+    "title": "ファイトの日! 能登半島沖地震復興支援 back on live FES 2026アイドル編",
+    "group": "ファイトの日! 能登半島沖地震復興支援 back on live FES 2026アイドル編",
+    "date": "2026-11-28",
+    "venue": "富山MAIRO（富山県）",
+    "prefecture": "富山県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-27T21:48:02Z"
+  },
+  "https://eplus.jp/sf/detail/3620100001-P0030035P021001": {
+    "title": "Axelight",
+    "group": "Axelight",
+    "date": "2026-11-30",
+    "venue": "ESAKA MUSE（大阪府）",
+    "prefecture": "大阪府",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-27T21:48:02Z"
+  },
+  "https://eplus.jp/sf/detail/0432800001-P0030263P021001": {
+    "title": "アンジュルム",
+    "group": "アンジュルム",
+    "date": "2026-12-02",
+    "venue": "ぴあアリーナMM（神奈川県）",
+    "prefecture": "神奈川県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-27T21:48:02Z"
   }
 }
