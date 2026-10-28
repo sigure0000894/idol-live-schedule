@@ -142569,5 +142569,32 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-10-28T18:00:34Z"
+  },
+  "https://tiget.net/events/534542": {
+    "title": "2026年11月3日(火・祝)【瀬戸栞】スタジオ個人撮影会",
+    "group": "瀬戸栞",
+    "date": "2026-11-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-28T22:09:30Z"
+  },
+  "https://tiget.net/events/534540": {
+    "title": "『無銭大好きマン-ルミ生誕冠-』",
+    "group": "アイスクリーム夢少女 / ViViBee / Lily's...",
+    "date": "2026-11-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-28T22:09:30Z"
+  },
+  "https://tiget.net/events/534539": {
+    "title": "遊撃少女",
+    "group": "TERIOS / 「いつかのネバーランド」 / Sepia...",
+    "date": "2026-11-01",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-28T22:09:30Z"
   }
 }
