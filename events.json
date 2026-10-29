@@ -143181,5 +143181,176 @@
     "prefecture": "東京都",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-10-29T12:12:01Z"
+  },
+  "https://tiget.net/events/533262": {
+    "title": "もなずどりーむ",
+    "group": "もなずどりーむ",
+    "date": "2026-11-27",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/534418": {
+    "title": "SOUNDRIVE vol.49",
+    "group": "MAGDOLL† / SICXXX. / SunyHone...",
+    "date": "2026-11-15",
+    "venue": "広島県",
+    "prefecture": "広島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/534817": {
+    "title": "のーぷらん。星野えみ 生誕祭2026",
+    "group": "のーぷらん。 / 天空のシラバス / ももいろプロジェクト...",
+    "date": "2026-11-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/534779": {
+    "title": "♡DEMICK心拍数爆上げ公演-ノンストップLIVE-",
+    "group": "♡DEMICK / 幻影ロゼソムラ",
+    "date": "2026-11-05",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/534752": {
+    "title": "SPAフェス38／ERPHYラストライブ",
+    "group": "SPATIO／SPATIOERPHY／MeltyNest／...",
+    "date": "2026-11-29",
+    "venue": "大分県",
+    "prefecture": "大分県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/534751": {
+    "title": "ひじり りの生誕祭2026応援企画",
+    "group": "ひじり りの生誕祭2026応援企画",
+    "date": "2026-11-10",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/534742": {
+    "title": "夢野未来生誕祭2026 〜騒げ!歌え!CHAOSに！〜",
+    "group": "ギミラブ！ / 凛々しくも臨界に咲くARTERIA / 夢野未来",
+    "date": "2026-11-23",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/534688": {
+    "title": "二刀流系アイドルFortuness めぐ生誕祭 Amulet L...",
+    "group": "二刀流系アイドルFortuness / Otto / CO...",
+    "date": "2026-11-29",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://tiget.net/events/530801": {
+    "title": "鈴木玲那 BIRTHDAY LIVE",
+    "group": "RAIDEN / HONEYBEE / Risky Mel...",
+    "date": "2026-11-29",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-29T20:04:53Z"
+  },
+  "https://livepocket.jp/e/me6hs": {
+    "title": "月刊怪談KAWANA書房〜こどもの頃のこわい話〜",
+    "group": "住倉カオス / 川奈まり子 / 蛙坂 須美",
+    "date": "2026-12-13",
+    "venue": "ROCK CAFE LOFT（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-29T20:07:26Z"
+  },
+  "https://livepocket.jp/e/bqhd8": {
+    "title": "Dollgram",
+    "group": "皐月かえで / ふぁんたす！ / CØCØRIZE",
+    "date": "2026-11-02",
+    "venue": "2ndLINE（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-29T20:07:26Z"
+  },
+  "https://livepocket.jp/e/rozette_rogueplanet_tour0226": {
+    "title": "2ndEP『Emergece』Tour. Rogue Planet Tour. ~Emergenceと四重奏~",
+    "group": "ろぜっと°",
+    "date": "2027-02-26",
+    "venue": "ROCKTOWN（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-29T20:07:26Z"
+  },
+  "https://livepocket.jp/e/rozette_rogueplanet_tour0210": {
+    "title": "2ndEP『Emergece』Tour. Rogue Planet Tour. ~Emergenceと四重奏~",
+    "group": "ろぜっと°",
+    "date": "2027-02-10",
+    "venue": "CLUB CRAWL（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-29T20:07:26Z"
+  },
+  "https://livepocket.jp/e/ra_20261102": {
+    "title": "【Aチケット】教育-vol.8-",
+    "group": ".Roach",
+    "date": "2026-11-02",
+    "venue": "新宿WALLY（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-29T20:07:26Z"
+  },
+  "https://livepocket.jp/e/r4qg2": {
+    "title": "11/2(月)2部自社対バンPixy Ainsel Filene Sirius らっきぃとりがー あまでじ Astell 暁 革命軍",
+    "group": "あまでじ / Astell / らっきぃとりが〜 / Ainsel / 革命軍 / 暁 / Filene / Pixy / Sirius",
+    "date": "2026-11-02",
+    "venue": "キャメロット（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-29T20:07:26Z"
+  },
+  "https://livepocket.jp/e/tidok": {
+    "title": "11月2日(月)セカプロ合同公演",
+    "group": "ひろいんあっぷでーと / アイディライト / シンセカイヒーロー",
+    "date": "2026-11-02",
+    "venue": "仮面女子シアター（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-10-29T20:07:26Z"
+  },
+  "https://eplus.jp/sf/detail/2105090001-P0030198P021001": {
+    "title": "IDO-LIVE!!",
+    "group": "IDO-LIVE!!",
+    "date": "2026-11-28",
+    "venue": "Music Club JANUS（大阪府）",
+    "prefecture": "大阪府",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-29T20:07:56Z"
+  },
+  "https://eplus.jp/sf/detail/4317360001-P0030023P021001": {
+    "title": "ロージークロニクル",
+    "group": "ロージークロニクル",
+    "date": "2026-12-05",
+    "venue": "Zepp Namba(OSAKA)（大阪府）",
+    "prefecture": "大阪府",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-29T20:07:56Z"
+  },
+  "https://eplus.jp/sf/detail/2444730001-P0030053P021001": {
+    "title": "幽世脅嚇 KAQRIYOTERROR ONEMAN LIVE “LYXIS” at SHIBUYA Club Asia",
+    "group": "幽世脅嚇 KAQRIYOTERROR ONEMAN LIVE “LYXIS” at SHIBUYA Club Asia",
+    "date": "2027-01-17",
+    "venue": "clubasia（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-10-29T20:07:56Z"
   }
 }
