@@ -144459,5 +144459,23 @@
     "prefecture": "東京都",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-10-30T17:42:02Z"
+  },
+  "https://tiget.net/events/535057": {
+    "title": "Fille mimi 11月ハロウィン撮影会",
+    "group": "Fille mimi 11月ハロウィン撮影会",
+    "date": "2026-11-01",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-30T21:55:33Z"
+  },
+  "https://tiget.net/events/535056": {
+    "title": "Star☆Tライブ at 豊田カフェ[浜川一愛生誕祭]",
+    "group": "Star☆T",
+    "date": "2026-11-05",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-10-30T21:55:33Z"
   }
 }
