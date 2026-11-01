@@ -147717,5 +147717,113 @@
     "prefecture": "東京",
     "source": "liveidol.blog（集約サイト）",
     "firstSeen": "2026-10-31T20:59:09Z"
+  },
+  "https://tiget.net/events/533843": {
+    "title": "『Dress Up Cheki♡』",
+    "group": "NORMiL",
+    "date": "2026-11-07",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-01T03:50:35Z"
+  },
+  "https://tiget.net/events/535190": {
+    "title": "放課後LIVE",
+    "group": "紅葉学院 / MAGDOLL†",
+    "date": "2026-11-06",
+    "venue": "広島県",
+    "prefecture": "広島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-01T03:50:35Z"
+  },
+  "https://tiget.net/events/535261": {
+    "title": "EATS MUSIC 18周年記念 年間パスポート",
+    "group": "EATS MUSIC 18周年記念 年間パスポート",
+    "date": "2026-11-01",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-01T03:50:35Z"
+  },
+  "https://tiget.net/events/535237": {
+    "title": "北崎有紀生誕祭〜ざき神様は突然に…〜",
+    "group": "Descris. / 北崎有紀",
+    "date": "2027-01-10",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-01T03:50:35Z"
+  },
+  "https://livepocket.jp/e/9ke4f": {
+    "title": "「君の知らない名作僕が教えるから僕の知らない名作君が教えて2026」",
+    "group": "森下亮",
+    "date": "2026-12-29",
+    "venue": "LOFT/PLUS ONE | ロフトプラスワン（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-01T03:53:08Z"
+  },
+  "https://livepocket.jp/e/270310": {
+    "title": "花束をちょうだい",
+    "group": "希羽そら",
+    "date": "2027-03-10",
+    "venue": "LOFT HEAVEN（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-01T03:53:08Z"
+  },
+  "https://livepocket.jp/e/mn6ld": {
+    "title": "ISHIKAWA Fes 2027〜Winter Acoustic〜",
+    "group": "石川恭平 / 咲 / Māja / KOSEI / 小玉勇気 / えめり",
+    "date": "2027-01-17",
+    "venue": "まほろ座 MACHIDA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-01T03:53:08Z"
+  },
+  "https://livepocket.jp/e/0_i70": {
+    "title": "フェードロー野球ちゃんねるトークライブ２０２６〜天色の鉄壁(アイアンウォール)〜",
+    "group": "フェードロー野球ちゃんねる(もんでん/FAかいだ)",
+    "date": "2026-12-13",
+    "venue": "LOFT9 Shibuya（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-01T03:53:08Z"
+  },
+  "https://livepocket.jp/e/fe5g8": {
+    "title": "【一般】鈴木茂 ニューイヤーライブ 2027",
+    "group": "鈴木茂 / 長谷部徹 / 宮田岳 / 外崎銀河",
+    "date": "2027-01-11",
+    "venue": "まほろ座 MACHIDA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-01T03:53:08Z"
+  },
+  "https://livepocket.jp/e/o3d4d": {
+    "title": "-For Every Music Lover- HERE, THERE, EVERYWHERE!! shimokitazawa THREE 17TH ANNIVERSARY!!",
+    "group": "タデクイ / 眞名子 新",
+    "date": "2026-12-03",
+    "venue": "shimokitazawa THREE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-01T03:53:08Z"
+  },
+  "https://eplus.jp/sf/detail/4372310001-P0030010P021001": {
+    "title": "BNSI 2026 YEAR-END LIVE『露払い』",
+    "group": "BNSI 2026 YEAR-END LIVE『露払い』",
+    "date": "2026-12-31",
+    "venue": "CHIC HALL SHIBUYA（東京都）",
+    "prefecture": "東京都",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-11-01T03:53:33Z"
+  },
+  "https://ticketdive.com/event/gakusei_runway_fukuoka_qualifier": {
+    "title": "【予選ステージ・入場チケット】GAKUSEI RUNWAY 2026 WINTER in 福岡",
+    "group": "【予選ステージ・入場チケット】GAKUSEI RUNWAY 2026 WINTER in 福岡",
+    "date": "2027-01-16",
+    "venue": "Zepp Fukuoka",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-11-01T03:53:34Z"
   }
 }
