@@ -153117,5 +153117,113 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-11-02T21:22:25Z"
+  },
+  "https://tiget.net/events/535536": {
+    "title": "【LIVE with YOU!!】ハコイリムスメ　～ 昼の箱 ～",
+    "group": "てんひな？ / みみっchu / SukiZuna / あ...",
+    "date": "2026-11-07",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535552": {
+    "title": "【LIVE with YOU!!】ハコイリムスメ　～ 夜の箱 ～",
+    "group": "まだ、何色でもない。 / プリンセスは眠らないっ！ / K...",
+    "date": "2026-11-07",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535551": {
+    "title": "GIRLS LIVE-Diary 3部  (12/5)",
+    "group": "GIRLS LIVE-Diary 3部  (12/5)",
+    "date": "2026-12-05",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535550": {
+    "title": "GIRLS LIVE-Diary 2部  (12/5)",
+    "group": "GIRLS LIVE-Diary 2部  (12/5)",
+    "date": "2026-12-05",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535548": {
+    "title": "GIRLS LIVE-Diary 1部  (12/5)",
+    "group": "GIRLS LIVE-Diary 1部  (12/5)",
+    "date": "2026-12-05",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535754": {
+    "title": "「SHOWTIME撃嬢　平日無銭ライブ」",
+    "group": "SHOWTIME撃嬢",
+    "date": "2026-11-06",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535749": {
+    "title": "アイドルパーティー in MBL 2026 11 7",
+    "group": "せせらぎ小町 / Me-rise / Dorothy Li...",
+    "date": "2026-11-07",
+    "venue": "福島県",
+    "prefecture": "福島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535748": {
+    "title": "TD LIVE BAR NIGHT VOL8、バーバレル(アメリカ村)",
+    "group": "櫻乃ゆうぎ姫 / 七瀬いろは / 家元収 / 柴谷める /...",
+    "date": "2026-11-06",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535745": {
+    "title": "NEXT STAGE vol.95",
+    "group": "ころっけさんど / 駄舟",
+    "date": "2026-11-05",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://tiget.net/events/535706": {
+    "title": "LLC - LOVE LIVE CLUB - vol.43",
+    "group": "963 / 彼女のサーブ＆レシーブ / はるちろ / 惑星通信社",
+    "date": "2026-11-08",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-03T04:58:15Z"
+  },
+  "https://livepocket.jp/e/rr1pt": {
+    "title": "SILK LABO presents 師走 FES ～in Asagaya LOFT A～",
+    "group": "マキノ　エリ / 木崎凪 / 向理来 / 保志健斗 / 小鳥遊昴",
+    "date": "2026-12-12",
+    "venue": "阿佐ヶ谷ロフトA（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-03T05:00:37Z"
+  },
+  "https://eplus.jp/sf/detail/2345170001-P0030464P021001": {
+    "title": "STU48 STU48 4期研究生「さあ 未来を探しに行こうか?」公演",
+    "group": "STU48 STU48 4期研究生「さあ 未来を探しに行こうか?」公演",
+    "date": "2026-11-06",
+    "venue": "Shunan RISING HALL（山口県）",
+    "prefecture": "山口県",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-11-03T05:00:49Z"
   }
 }
