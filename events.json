@@ -154188,5 +154188,509 @@
     "prefecture": "愛知県",
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-11-04T01:03:02Z"
+  },
+  "https://tiget.net/events/533543": {
+    "title": "燃えこれ学園　仲川つむぎ生誕祭(ライブ配信あり)",
+    "group": "燃えこれ学園 / 成田麻穂 / 仲川つむぎ / 稲森のあ ...",
+    "date": "2026-11-24",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/534588": {
+    "title": "れんてつ23区ツアー2026～SP回～　14区目＠荒川区",
+    "group": "れんてつ / 國安さゆり / 今井結香 / エレクトリック...",
+    "date": "2026-11-23",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535820": {
+    "title": "後編【 IDOL CONTENT EXPO ＠TwinBox G...",
+    "group": "後編【 IDOL CONTENT EXPO ＠TwinBox G...",
+    "date": "2026-11-08",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535378": {
+    "title": "【WaChaフェス！ 】",
+    "group": "天使突抜ニ読ミ / 青春のフロンティア / 天使に恋してっ...",
+    "date": "2026-11-21",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535625": {
+    "title": "PPPR!!-ピポパロ-kotty生誕『激辛☆Kotty Clo...",
+    "group": "PPPR!!-ピポパロ- / たなかかなた / the N...",
+    "date": "2026-12-03",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535783": {
+    "title": "「HARAJUKU SUPER LIVE」竹下通り☆スイーツ推し...",
+    "group": "NORMiL / ESTLINK☆ / Krays / H...",
+    "date": "2026-11-17",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535248": {
+    "title": "『HiDOL FACTORY 第4回定期公演』",
+    "group": "HiDOL FACTORY",
+    "date": "2026-11-29",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535750": {
+    "title": "残響倫理",
+    "group": "TIGHT / Baby inspire / Dusk /...",
+    "date": "2026-12-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535859": {
+    "title": "レチェルチェ♡水瀬千紘プチ誕生祭",
+    "group": "レチェルチェ / パピマシェ / #SSSG / CHER...",
+    "date": "2026-11-15",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535384": {
+    "title": "【WaChaフェス！】",
+    "group": "空想と妄想とキミの恋した世界 / レッスントゥミー / 1...",
+    "date": "2026-11-29",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535893": {
+    "title": "KanaEリリースツアーFinal",
+    "group": "KanaE / 逆に、ゆうちゃんバンド",
+    "date": "2026-11-27",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535860": {
+    "title": "【IDOL Treasure bottle LIVE～秋の幕張ス...",
+    "group": "【IDOL Treasure bottle LIVE～秋の幕張ス...",
+    "date": "2026-11-23",
+    "venue": "千葉県",
+    "prefecture": "千葉県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536092": {
+    "title": "ワンブレンダーフリーライブ",
+    "group": "ワンブレンダーフリーライブ",
+    "date": "2026-11-30",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536090": {
+    "title": "ワンブレンダーフリーライブ",
+    "group": "ワンブレンダーフリーライブ",
+    "date": "2026-11-13",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536055": {
+    "title": "天国倶楽部",
+    "group": "SAKA-SAMA / sommeil  sommeil",
+    "date": "2026-11-10",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536036": {
+    "title": "DRESTA 秋のミニ撮影会vol.1",
+    "group": "DRESTA / 星宮心愛 / 揚羽 菜津美 / 甘恋 め...",
+    "date": "2026-11-14",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536035": {
+    "title": "クリスマスライブ",
+    "group": "しゅみぇる / 臨海ヤオヨロズ",
+    "date": "2026-12-24",
+    "venue": "広島県",
+    "prefecture": "広島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536024": {
+    "title": "MARUKADO 第26回定期公演 「今」",
+    "group": "MARUKADO",
+    "date": "2026-11-21",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536017": {
+    "title": "限界ヲタク収容所Vol.9",
+    "group": "夜明けの一番星 / 煌星といりうむ / Rays-Me！ ...",
+    "date": "2026-11-15",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/536005": {
+    "title": "Try to connect",
+    "group": "後藤大 / ユノローグ",
+    "date": "2026-12-17",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535992": {
+    "title": "『IDOL IGNITION　vol.6』",
+    "group": "みるせんっ！ / SILEN / ユキノユーリ",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535991": {
+    "title": "水曜もくるまれナイト✈️",
+    "group": "菅原にこ / 芹沢愛桜 / 花咲花奈",
+    "date": "2026-11-18",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535990": {
+    "title": "『IDOL IGNITION　vol.5』",
+    "group": "みるせんっ！ / SILEN / re:baby",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535988": {
+    "title": "君影ラン お誕生日会",
+    "group": "君影ラン",
+    "date": "2026-11-14",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535985": {
+    "title": "君影ラン 撮影会",
+    "group": "君影ラン",
+    "date": "2026-11-15",
+    "venue": "神奈川県",
+    "prefecture": "神奈川県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535975": {
+    "title": "君影ラン チェキ会",
+    "group": "君影ラン",
+    "date": "2026-11-14",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535974": {
+    "title": "戦闘力、たったの3。プロデュース公演 『秋の最弱王決定戦！』",
+    "group": "戦闘力、たったの3。 / 煌星といりうむ",
+    "date": "2026-11-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://tiget.net/events/535915": {
+    "title": "Monster Cat's HANG OVER TOUR  FI...",
+    "group": "Monster Cat’ｓ",
+    "date": "2026-11-29",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-04T10:21:02Z"
+  },
+  "https://livepocket.jp/e/1-cvm": {
+    "title": "一ノ瀬しろ写真集「虚実」",
+    "group": "一ノ瀬しろ写真集「虚実」",
+    "date": "2026-11-02",
+    "venue": "オンライン",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/s77eh": {
+    "title": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/15(日) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/15(日) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-15",
+    "venue": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/cbfi1": {
+    "title": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/14(土) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/14(土) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-14",
+    "venue": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/je_df": {
+    "title": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/13(金) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/13(金) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-13",
+    "venue": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/7k5p1": {
+    "title": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/12(木) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/12(木) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-12",
+    "venue": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/1204u": {
+    "title": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/11(水) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/11(水) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-11",
+    "venue": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/wnh2b": {
+    "title": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/10(火) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA 11/10(火) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-10",
+    "venue": "【名古屋】ufotableCafe & マチ★アソビカフェ NAGOYA（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/f6zhk": {
+    "title": "【大阪】マチ★アソビカフェOSAKA 11/15(日) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【大阪】マチ★アソビカフェOSAKA 11/15(日) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-15",
+    "venue": "ufotableCafe＆マチ★アソビカフェ OSAKA（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/rjbf6": {
+    "title": "【大阪】マチ★アソビカフェOSAKA 11/14(土) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "group": "【大阪】マチ★アソビカフェOSAKA 11/14(土) アニメ「鬼滅の刃」シリーズ全編再放送 コラボレーションカフェ ～結んだ絆～ ＆ 誕生祭2026",
+    "date": "2026-11-14",
+    "venue": "ufotableCafe＆マチ★アソビカフェ OSAKA（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/o56wg": {
+    "title": "READY KITTY 単独公演 - Are you ready, Kitty？-Vol.4",
+    "group": "READY KITTY",
+    "date": "2026-11-05",
+    "venue": "新宿WALLY（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/x6hys": {
+    "title": "天空のシラバス×Re:INCARNATION共催イベント GiRLS POWER ワンコイン祭り！Vol.22",
+    "group": "天空のシラバス / Re:INCARNATION / 陽乃ほのか / 善木南帆 / TiiL / HEAVENLY / のーぷらん。 / a-plan。",
+    "date": "2026-11-05",
+    "venue": "GOTANDA G4（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/22w_p": {
+    "title": "【通販特設ページ】『クリーム2026年12月号』特典付",
+    "group": "【通販特設ページ】『クリーム2026年12月号』特典付",
+    "date": "2026-11-06",
+    "venue": "※『クリーム2026年12月号』特典付　通販専用サイト（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/a8rps": {
+    "title": "【CHEReB】YシャツLive!!",
+    "group": "CHEReB（シェールビー）",
+    "date": "2026-11-06",
+    "venue": "ミーグリstudio\"セブンファイブエイト\"（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/f9j4_": {
+    "title": "王道 Vol.17",
+    "group": "王道 Vol.17",
+    "date": "2026-11-06",
+    "venue": "秋葉原Venus（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/icntq": {
+    "title": "2026 川越紗彩 e Sports Hon Marche - Special Edition ホンマルラジオ公開収録 川越紗彩スペシャル対談",
+    "group": "川越紗彩",
+    "date": "2026-11-07",
+    "venue": "月島もんじゃ どてっぱん 月島本店（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/42qq3": {
+    "title": "【P-Loco×CHEReB】 ミーグリLive Vol.3",
+    "group": "CHEReB（シェールビー） / P-Loco",
+    "date": "2026-11-07",
+    "venue": "ミーグリstudio\"セブンファイブエイト\"（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/qcp20": {
+    "title": "秋のBBQ!",
+    "group": "B2takes!!",
+    "date": "2026-11-07",
+    "venue": "池袋リンクス（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/wo-8e": {
+    "title": "ゆうごの渋谷散策",
+    "group": "カクテルパーティー / すずめろ",
+    "date": "2026-11-07",
+    "venue": "渋谷（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/s0w15": {
+    "title": "せりんこ思い出巡り🍲",
+    "group": "せりんこ思い出巡り🍲",
+    "date": "2026-11-07",
+    "venue": "白金高輪駅と品川駅から徒歩10分くらいのところ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/2eaj2": {
+    "title": "三橋くん　ヤングマガジン掲載記念　サイン&チェキ会&ぷち生誕祭",
+    "group": "三橋くん　ヤングマガジン掲載記念　サイン&チェキ会&ぷち生誕祭",
+    "date": "2026-11-08",
+    "venue": "NATULUCK御茶ノ水駅前店 Room B（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/kawaii1108": {
+    "title": "1日中 Kawaii💘Night",
+    "group": "alpha⁂Lux / てんぽぷりも♪ / Fille mimi / MeluCharm / SUGAR SPARK / プリュネ♡トゥインクレット / イロハサクラ / 脳内パステル / #PANnana / +Alpha / 宇宙∞プラネクシア / Merry Mellow / プラチナリボン / ちょこみんと / むげんこんぜ / W.ダブルヴィー / キューハチパーセント！ / COzMICぱれーど",
+    "date": "2026-11-08",
+    "venue": "心斎橋VARON（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/790rj": {
+    "title": "🍠🍁かすみん 秋の芋掘りイベント2026🍁🍠",
+    "group": "かすみん",
+    "date": "2026-11-08",
+    "venue": "東京多摩エリア近郊の農園（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/1108_osihenkinsi": {
+    "title": "推し変禁止⁉️衣装交換大作戦‼️",
+    "group": "AQUAPLANET / #フラサービックル / ばり♡KAWA!! / アオハル√ me / Mis=Fit",
+    "date": "2026-11-08",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/1108_vol440": {
+    "title": "HACHI$LIVE vol.440",
+    "group": "#フラサービックル / 空色ソルベ / ばり♡KAWA!! / アオハル√ me / Mis=Fit / とにとゆうか / 堕storia",
+    "date": "2026-11-08",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/1108_3man": {
+    "title": "888スリーマンライブ",
+    "group": "空色ソルベ / とにとゆうか / 限界RABBIT",
+    "date": "2026-11-08",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/ifmce": {
+    "title": "ROCKIDOL",
+    "group": "戦国アニマル極楽浄土 / 神様の言う通り / Y∀KiN / Meteorite of the huge ICE",
+    "date": "2026-11-08",
+    "venue": "RADHALL（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/k8ylz": {
+    "title": "ROCKIDOL EX",
+    "group": "戦国アニマル極楽浄土 / Meteorite of the huge ICE / PURE ME / PLYDE / OROCHI",
+    "date": "2026-11-08",
+    "venue": "RADHALL（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
+  },
+  "https://livepocket.jp/e/73pr5": {
+    "title": "ULTIMANIA-名古屋-",
+    "group": "戦国アニマル極楽浄土 / Meteorite of the huge ICE / PLYDE / OROCHI / SiLENT←NOiSE",
+    "date": "2026-11-08",
+    "venue": "RADHALL（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-04T10:23:21Z"
   }
 }
