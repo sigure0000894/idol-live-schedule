@@ -155232,5 +155232,473 @@
     "prefecture": "東京都",
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-11-05T01:17:37Z"
+  },
+  "https://tiget.net/events/528985": {
+    "title": "アイプロ6期 オーディションLIVE！",
+    "group": "PALE TULLE / グリッターシステム",
+    "date": "2026-11-28",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536099": {
+    "title": "「FUTURE: SUPER LIVE」12色の星めぐり☆ナイトパス編",
+    "group": "絶対少女 / Bunny La Crew / おむすびコロ...",
+    "date": "2026-11-18",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/535875": {
+    "title": "Sweet Paradise(スイパラ♡) -ポッキーDAY-",
+    "group": "パピマシェ / #SSSG / レチェルチェ",
+    "date": "2026-11-11",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536052": {
+    "title": "you-show 「とまる卒業します!!」",
+    "group": "you-show / SAZANAMi Λug. / 星紫穂",
+    "date": "2026-12-06",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/535304": {
+    "title": "水槽とクレマチス全国ツアー「誰かの庭で」福井公演　第１部",
+    "group": "水槽とクレマチス / オモテカホ / 恋音クロシェット",
+    "date": "2026-12-05",
+    "venue": "福井県",
+    "prefecture": "福井県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536202": {
+    "title": "ガールズ×ガールズ×ガールズvol.615",
+    "group": "MIRIAH / 百桜えりか / 城田ゆりあ / Li-V...",
+    "date": "2026-11-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536203": {
+    "title": "ガールズ×ガールズ×ガールズvol.616",
+    "group": "鈴木まりえwithじーこ / MIRIAH / Kana☆...",
+    "date": "2026-11-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536177": {
+    "title": "ルナリウム名阪福ツアー2026 in 大阪",
+    "group": "ルナリウム / #PANnana -パンダの指は実は7本あ...",
+    "date": "2026-11-14",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536126": {
+    "title": "ESTLINK⭐︎×Krays×Luminous♡Paradox...",
+    "group": "ESTLINK⭐︎×Krays×Luminous♡Paradox...",
+    "date": "2026-11-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536437": {
+    "title": "【笑美主催】ハロプロONLY FESTIVAL Vol.4",
+    "group": "峰尾 こずえ / 笑美",
+    "date": "2026-12-04",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536429": {
+    "title": "FULL OUT!!",
+    "group": "RYUNOSUKE / KID BANG / Fly-N ...",
+    "date": "2026-11-30",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536403": {
+    "title": "マリーメトロノーム* 〜嫁と新潟名物ご飯オフ会〜",
+    "group": "ソラ豆琴美 / 口石めぐみ / 酒黄らいむ / たけうち亜...",
+    "date": "2026-11-08",
+    "venue": "新潟県",
+    "prefecture": "新潟県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536370": {
+    "title": "WEEKDAY LOVE POTION vol.4",
+    "group": "WEEKDAY LOVE POTION vol.4",
+    "date": "2026-11-30",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536369": {
+    "title": "WEEKDAY LOVE POTION vol.3",
+    "group": "WEEKDAY LOVE POTION vol.3",
+    "date": "2026-11-16",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536366": {
+    "title": "WEEKDAY LOVE POTION vol.2",
+    "group": "WEEKDAY LOVE POTION vol.2",
+    "date": "2026-11-09",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536299": {
+    "title": "＋＋＋プエラの絶対値国際通り♡2ショットおさんぽ会＋＋＋",
+    "group": "＋＋＋プエラの絶対値国際通り♡2ショットおさんぽ会＋＋＋",
+    "date": "2026-11-08",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536267": {
+    "title": "上月せれな週イチ無料定期公演「せれちゅと大文化祭！」",
+    "group": "上月せれな",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536261": {
+    "title": "miniエコプラフェス vol.94",
+    "group": "悠白渚月 / SHOWTIME 撃嬢",
+    "date": "2026-11-08",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536252": {
+    "title": "RISE with SHOBI",
+    "group": "wqwq / ラフティア / 青山Rabness / ミー...",
+    "date": "2026-12-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536248": {
+    "title": "アイドパーティー in MBL 2026 11 8〜配信Live〜",
+    "group": "せせらぎ小町 / Me-rise / Dorothy Li...",
+    "date": "2026-11-08",
+    "venue": "福島県",
+    "prefecture": "福島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536226": {
+    "title": "姫宮希乃花 20のとくべちゅっ",
+    "group": "姫宮希乃花 20のとくべちゅっ",
+    "date": "2026-11-29",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536222": {
+    "title": "「KANDA is...」",
+    "group": "Fortuness / Rociena / 幾星霜を彷徨っ...",
+    "date": "2026-11-11",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536214": {
+    "title": "理想の少女　理想の恋人ライブ",
+    "group": "girl of my dream",
+    "date": "2026-11-11",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://tiget.net/events/536207": {
+    "title": "ガールズ×ガールズ×ガールズvol.619",
+    "group": "玉樹凜久 / 谷利沙紀 / 中村菫 / ゆまっくす / 兎...",
+    "date": "2026-12-06",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T10:14:43Z"
+  },
+  "https://livepocket.jp/e/litafter1119": {
+    "title": "lit \"THE AUTUMN EDITION\" AFTER PARTY",
+    "group": "lit / uin / CRAZY-T / Banri Kobayashi",
+    "date": "2026-11-19",
+    "venue": "The Voodoo Lounge（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/azpu1": {
+    "title": "大槻ケンヂ・オーケンのほほん学校 〜大晦日だよオーケンが2026をなんとなく振り返る夜皆さん良いお年を！",
+    "group": "大槻ケンヂ",
+    "date": "2026-12-31",
+    "venue": "LOFT9 Shibuya（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/audiobasecamp_all": {
+    "title": "Audio Base Camp #4【通し券】",
+    "group": "細井美裕 / 角田俊也 / AKIRAM EN / COMPUMA / 宇都宮泰 / BING\t / 坂田律子 / 1729 / Akie / DJ PIN / Le Perrie / nano odorine / tegadeteru / 乾針",
+    "date": "2026-12-29",
+    "venue": "WWW / WWWβ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/audiobasecamp_2": {
+    "title": "Audio Base Camp #4【2部】",
+    "group": "細井美裕 / 角田俊也 / AKIRAM EN / COMPUMA / 宇都宮泰 / BING\t / 坂田律子 / 1729 / Akie / DJ PIN / Le Perrie / nano odorine / tegadeteru / 乾針",
+    "date": "2026-12-29",
+    "venue": "WWW / WWWβ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/audiobasecamp": {
+    "title": "Audio Base Camp #4【1部】",
+    "group": "細井美裕 / 角田俊也 / AKIRAM EN / COMPUMA / 宇都宮泰 / BING\t / 坂田律子 / 1729 / Akie / DJ PIN / Le Perrie / nano odorine / tegadeteru / 乾針",
+    "date": "2026-12-29",
+    "venue": "WWW / WWWβ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/26-11-08": {
+    "title": "THE楽4周年記念!!KENGが弾き、RENが叩かNight",
+    "group": "KENG / REN / 嶺奈 / 武内太一 / じゅり",
+    "date": "2026-11-08",
+    "venue": "オンライン",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/2026-11-06": {
+    "title": "椋子presents 『そろそろTHE楽に会いにこりんvol.4』",
+    "group": "椋子 / 綾目和人 / 響袈 / 中村郁実 / 風駆",
+    "date": "2026-11-06",
+    "venue": "オンライン",
+    "prefecture": null,
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/6qf8x": {
+    "title": "大阪メンチオフ会　マザー降臨編",
+    "group": "メンチニキ / マザーメンチ",
+    "date": "2026-12-05",
+    "venue": "大阪ロフトプラスワンウエスト（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/a6g24": {
+    "title": "2026年11月7日(土)Märmiフリーライブ＠ヨドバシカメラマルチメディア梅田 B2Fイベントスペース",
+    "group": "Märmi",
+    "date": "2026-11-07",
+    "venue": "ヨドバシカメラマルチメディア梅田 B2Fイベントスペース（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/moe1107": {
+    "title": "【2026年11月7日】桜瀬もえ　撮影イベント",
+    "group": "桜瀬もえ",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/non_1107": {
+    "title": "【2026年11月7日】暖野木のん　撮影イベント",
+    "group": "暖野木のん",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/rara_1107": {
+    "title": "【2026年11月7日】南ララ　撮影イベント",
+    "group": "南ララ",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/nagisa_1107": {
+    "title": "【2026年11月7日】松倉凪沙　撮影イベント",
+    "group": "松倉凪沙",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/mizuki_1107": {
+    "title": "【2026年11月7日】佐野瑞季　撮影イベント",
+    "group": "佐野瑞季",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/ryo_1107": {
+    "title": "【2026年11月7日】如月涼　撮影イベント",
+    "group": "如月涼",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/miyuu_1107": {
+    "title": "【2026年11月7日】岸里美優　撮影イベント",
+    "group": "岸里美優",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/yuuka_1107": {
+    "title": "【2026年11月7日】李優香　撮影イベント",
+    "group": "李優香",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/sally_1107": {
+    "title": "【2026年11月7日】喜多さりぃ　撮影イベント",
+    "group": "喜多さりぃ",
+    "date": "2026-11-07",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/jfq-p": {
+    "title": "『-ROCK-VORTEX』",
+    "group": "仮面女子 / Dr.CUTTER / N∅VEL / Sinners Parade / Sinners Parade",
+    "date": "2026-11-07",
+    "venue": "Shibuya Milkyway（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/r66qr": {
+    "title": "『-CUTE-VORTEX』",
+    "group": "キュン!?恋堕ちキューピッド / RED-i / Sepiacode / wolfwaltz / 「いつかのネバーランド」",
+    "date": "2026-11-07",
+    "venue": "Shibuya Milkyway（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/zkvhc": {
+    "title": "11/7(土)スタジオデビーズ",
+    "group": "11/7(土)スタジオデビーズ",
+    "date": "2026-11-07",
+    "venue": "スタジオデビーズ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/9yov4": {
+    "title": "【オンライン】　1on1 Meeting",
+    "group": "Sora",
+    "date": "2026-11-07",
+    "venue": "オンラインでの開催（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/moe_1108": {
+    "title": "【2026年11月8日】桜瀬もえ　撮影イベント",
+    "group": "桜瀬もえ",
+    "date": "2026-11-08",
+    "venue": "沖縄某所（沖縄県）",
+    "prefecture": "沖縄県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/mtfcd": {
+    "title": "【チケット】11/8(日) 丸最レアの座・宴会",
+    "group": "丸最レア",
+    "date": "2026-11-08",
+    "venue": "LEFKADA新宿（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/5ulx4": {
+    "title": "らじお女子太田あかり生誕祭@CBC1スタホール",
+    "group": "らじお女子 / 小松吏穂 / 太田あかり / 白川紗彩 / 宮本葵 / 伊藤望 / 古澤実歩 / 水野楓奈",
+    "date": "2026-11-08",
+    "venue": "CBC1スタホール（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/197x7": {
+    "title": "【事前購入・シャンパン・音声チェキ】11/8(日) 丸最レアの座・宴会　エロ上等",
+    "group": "丸最レア",
+    "date": "2026-11-08",
+    "venue": "LEFKADA新宿（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/wyqgf": {
+    "title": "STELLAθ11月もよろしくね公演@CBC1スタホール",
+    "group": "STELLAθ / 永 / 陵星 / 一ノ瀬颯太 / 鳴海善一郎 / 愛翔",
+    "date": "2026-11-08",
+    "venue": "CBC1スタホール（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
+  },
+  "https://livepocket.jp/e/magi_261108": {
+    "title": "『Magi Meet & Greet』",
+    "group": "Magi",
+    "date": "2026-11-08",
+    "venue": "TIME SHARING 渋谷 藤和宮益坂ビル 7F（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-05T10:17:03Z"
   }
 }
