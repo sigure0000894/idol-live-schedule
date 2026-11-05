@@ -155205,5 +155205,32 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-11-04T19:19:43Z"
+  },
+  "https://tiget.net/events/535570": {
+    "title": "ちぃたん☆ぼんばーずOSK・∀-Chu☆私服ライブ",
+    "group": "ちぃたん☆ぼんばーずOSK・∀-Chu☆私服ライブ",
+    "date": "2026-11-21",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T01:17:37Z"
+  },
+  "https://tiget.net/events/536236": {
+    "title": "『遊撃少女』",
+    "group": "『遊撃少女』",
+    "date": "2026-11-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T01:17:37Z"
+  },
+  "https://tiget.net/events/536191": {
+    "title": "4×stAr5 CHRISTMAS ONEMAN LIVE 2026",
+    "group": "4×stAr5",
+    "date": "2026-12-13",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-05T01:17:37Z"
   }
 }
