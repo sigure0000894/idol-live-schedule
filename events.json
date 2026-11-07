@@ -158391,5 +158391,23 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-11-06T18:51:47Z"
+  },
+  "https://tiget.net/events/536808": {
+    "title": "幻奏リフレクションとよたかなみ バースデーワンマンライブ",
+    "group": "幻奏リフレクション",
+    "date": "2026-12-07",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-07T00:36:17Z"
+  },
+  "https://tiget.net/events/536950": {
+    "title": "単独公演\"FIND MY COLOUR\" 京都公演",
+    "group": "#BEMYLOVE",
+    "date": "2026-12-06",
+    "venue": "京都府",
+    "prefecture": "京都府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-07T00:36:17Z"
   }
 }
