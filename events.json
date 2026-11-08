@@ -159651,5 +159651,50 @@
     "prefecture": null,
     "source": "tiget（アイドルジャンル）",
     "firstSeen": "2026-11-07T21:22:45Z"
+  },
+  "https://tiget.net/events/536538": {
+    "title": "「絶対少女物語vol.4」１部",
+    "group": "絶対少女 / テラテラ / DEARSTAGE研究生 / ...",
+    "date": "2026-11-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-08T03:54:49Z"
+  },
+  "https://tiget.net/events/525237": {
+    "title": "大暴れという名のお誕生日会 Vol.2",
+    "group": "彩李あやか/綾野愛/杏樹和/天倉ねむ（岡山）/アイドル教室...",
+    "date": "2026-12-19",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-08T03:54:49Z"
+  },
+  "https://tiget.net/events/536586": {
+    "title": "「絶対少女物語vol.4」2部",
+    "group": "絶対少女 / 柑橘 / いちごみるく / にゃんぴょんちぃ...",
+    "date": "2026-11-22",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-08T03:54:49Z"
+  },
+  "https://tiget.net/events/537152": {
+    "title": "緊急開催！QunQun秋服撮影会",
+    "group": "＃QunQun",
+    "date": "2026-11-14",
+    "venue": "福岡県",
+    "prefecture": "福岡県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-08T03:54:49Z"
+  },
+  "https://tiget.net/events/537153": {
+    "title": "NO MISS, NO LIFE",
+    "group": "ノーミスガールズ",
+    "date": "2026-11-15",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-08T03:54:49Z"
   }
 }
