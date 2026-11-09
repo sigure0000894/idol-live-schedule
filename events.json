@@ -161703,5 +161703,356 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-11-09T10:53:18Z"
+  },
+  "https://tiget.net/events/537307": {
+    "title": "Honey sweet carnival",
+    "group": "Honey sweet carnival",
+    "date": "2026-11-29",
+    "venue": "大阪府",
+    "prefecture": "大阪府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/536863": {
+    "title": "参宮橋駅前女子栖川季世presents『とっきーのドーンと！バキ...",
+    "group": "参宮橋駅前女子 / idoress / 7テンフィーバーズ...",
+    "date": "2026-11-27",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537345": {
+    "title": "#BEMYLOVE \"FIND MY COLOUR\" 京都公演 ...",
+    "group": "#BEMYLOVE / ハピネスクラッカー！ / プラチナ...",
+    "date": "2026-12-06",
+    "venue": "京都府",
+    "prefecture": "京都府",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537263": {
+    "title": "ルルイード天国～師走ですよ！～",
+    "group": "LILY&YU / unity / natty time ...",
+    "date": "2026-12-07",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537175": {
+    "title": "CULTURE CONNECT vol.2",
+    "group": "別所あみか / あいどっぐる / スキにNaRaReYo ...",
+    "date": "2026-11-15",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537686": {
+    "title": "東京イルミネーションオフ会",
+    "group": "東京イルミネーションオフ会",
+    "date": "2026-11-14",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537653": {
+    "title": "FIVESEASON定期公演「NEW SEASON VOL.38...",
+    "group": "FIVESEASON",
+    "date": "2026-11-14",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537627": {
+    "title": "【 Alice  de愛DOL 】Vol.35『 KoYo Se...",
+    "group": "小鳥遊朱寿 from Candy Cross / 天みれば...",
+    "date": "2026-11-22",
+    "venue": "広島県",
+    "prefecture": "広島県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537626": {
+    "title": "モスキートーン 単独ライブ（後方予約チケット）",
+    "group": "モスキートーン",
+    "date": "2026-12-04",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537625": {
+    "title": "モスキートーン 単独ライブ（一般　先行予約チケット）",
+    "group": "モスキートーン",
+    "date": "2026-12-04",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537622": {
+    "title": "【まふゆ】プラリボ北海道撮影会",
+    "group": "プラチナリボン",
+    "date": "2026-11-28",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537621": {
+    "title": "【ゆめる】プラリボ北海道撮影会",
+    "group": "プラチナリボン",
+    "date": "2026-11-28",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537620": {
+    "title": "【うか】プラリボ北海道撮影会",
+    "group": "プラチナリボン",
+    "date": "2026-11-28",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537619": {
+    "title": "【ゆい】プラリボ北海道撮影会",
+    "group": "プラチナリボン",
+    "date": "2026-11-28",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537616": {
+    "title": "【うさぎ】プラリボ北海道撮影会",
+    "group": "プラチナリボン",
+    "date": "2026-11-28",
+    "venue": "北海道",
+    "prefecture": "北海道",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537605": {
+    "title": "きゅんdB100組対バン修行",
+    "group": "きゅんdB / 応援少女 / 秘密結社フローリス / 刹那...",
+    "date": "2026-11-23",
+    "venue": "愛知県",
+    "prefecture": "愛知県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537601": {
+    "title": "Miluμ! 桜庭しおね生誕祭2026　応援プロジェクト",
+    "group": "Miluμ!",
+    "date": "2026-12-19",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537543": {
+    "title": "ギミラブ！定期無銭公演vol.1",
+    "group": "ギミラブ！",
+    "date": "2026-11-17",
+    "venue": "宮城県",
+    "prefecture": "宮城県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537513": {
+    "title": "Raki presents『SMILE CRAP』vol.9",
+    "group": "石野さやか",
+    "date": "2026-11-12",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537480": {
+    "title": "峰島こまき 生誕記念 個別特典会",
+    "group": "JamsCollection",
+    "date": "2026-11-17",
+    "venue": "東京都",
+    "prefecture": "東京都",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/537160": {
+    "title": "IKOTEN 4TH ANNIVERSARY ONE-MAN-LIVE",
+    "group": "ゐ虎、 / IKOTEN",
+    "date": "2027-04-11",
+    "venue": "愛媛県",
+    "prefecture": "愛媛県",
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://tiget.net/events/535560": {
+    "title": "わんらいむ ご飯オフ会",
+    "group": "わんらいむ / 梓あず / 神尾みお",
+    "date": "2026-11-22",
+    "venue": "",
+    "prefecture": null,
+    "source": "tiget（アイドルジャンル）",
+    "firstSeen": "2026-11-09T21:53:37Z"
+  },
+  "https://livepocket.jp/e/tebrm": {
+    "title": "結城アイラLIVE 2027  「結城アイラ × Session vol.02 - Guitar Session -」",
+    "group": "結城アイラ / 増崎孝司",
+    "date": "2027-02-11",
+    "venue": "神楽坂天窓（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/9klwy": {
+    "title": "白鯨 × cyclone presents. 【MAELSTROM】",
+    "group": "白鯨 / Layback / The Yeahs / 東京百鬼夜攻 / HEART RATE QUEEN",
+    "date": "2026-12-09",
+    "venue": "SHIBUYA CYCLONE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/some-red-some-blue": {
+    "title": "SWINGBRAIN Presents \"Some Red Some Blue\"",
+    "group": "SWINGBRAIN",
+    "date": "2027-02-09",
+    "venue": "下北沢BASEMENTBAR（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/qnlw4": {
+    "title": "“グデイの11月”",
+    "group": "グデイ / 寺田寛明",
+    "date": "2026-12-02",
+    "venue": "ROCK CAFE LOFT（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/hello-my-friend-9": {
+    "title": "Hello,my friend vol.9",
+    "group": "リフの惑星 / サツマカワRPG",
+    "date": "2027-02-25",
+    "venue": "下北沢BASEMENTBAR（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/46zqt": {
+    "title": "RICEMOSH!? x CYCLONE pre. 米米米米 vol.2",
+    "group": "RICEMOSH!? / KIKO / No. I'm not. / ASADLION",
+    "date": "2026-12-07",
+    "venue": "SHIBUYA CYCLONE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/vv_vol13": {
+    "title": "ベントベガス vol.13",
+    "group": "らそんぶる / ガラクタ / ファジーデイズ",
+    "date": "2027-01-14",
+    "venue": "Shibuya Milkyway（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/amu_hbd": {
+    "title": "苺花あむ生誕祭2026 - Strawberry Pink -",
+    "group": "PurePalette",
+    "date": "2026-11-15",
+    "venue": "SOUND SPACE DIVA（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/kpt_r": {
+    "title": "【11/15(日)開催】SPG Talk Live#4",
+    "group": "SPG / 十味 / 姫野ひなの / 岸みゆ",
+    "date": "2026-11-15",
+    "venue": "BSホール(高田馬場)（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/6iuca": {
+    "title": "デス子×明地まどか CONNECT LIVE in AKIHABARA〜supported by NTT東日本〜",
+    "group": "明地まどか（現想少女らぶぱにっ！） / スーパー・アブソリュート・デス子",
+    "date": "2026-11-15",
+    "venue": "eXeField Akiba 4F（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/jjved": {
+    "title": "11月単独無銭公演vol.2〜七五三公演〜",
+    "group": "NO X OVER / HIROKI / KENSEI / FUMIYA",
+    "date": "2026-11-15",
+    "venue": "新宿STARCRANE（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/27zbh": {
+    "title": "「Star☆Prince 10th ANNIVERSARY LIVE決起集会一般¥0円SP」1部",
+    "group": "Star☆Prince / K-NEXT BOYS",
+    "date": "2026-11-15",
+    "venue": "Galaxy Box（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/o60h8": {
+    "title": "「Star☆Prince 10th ANNIVERSARY LIVE決起集会一般¥0円SP」2部",
+    "group": "Star☆Prince / K-NEXT BOYS",
+    "date": "2026-11-15",
+    "venue": "Galaxy Box（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/84c06": {
+    "title": "♡ごみちゃんお誕生日オフ会♡",
+    "group": "ごみちゃん",
+    "date": "2026-11-15",
+    "venue": "新宿某所（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/qplfz": {
+    "title": "『UNiT vol.28 無銭LIVE』",
+    "group": "BLACK SNOW / MELOPHORiA / Ø EDEN",
+    "date": "2026-11-15",
+    "venue": "新宿motion（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://livepocket.jp/e/akqdi": {
+    "title": "【ポップキャスト単独公演】",
+    "group": "【ポップキャスト単独公演】",
+    "date": "2026-11-15",
+    "venue": "fireworksstudios（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-09T21:55:56Z"
+  },
+  "https://eplus.jp/sf/detail/4094500001-P0030003P021001": {
+    "title": "限りなく白く",
+    "group": "限りなく白く",
+    "date": "2027-01-24",
+    "venue": "Zepp Sapporo（北海道）",
+    "prefecture": "北海道",
+    "source": "eplus（アイドル）",
+    "firstSeen": "2026-11-09T21:56:16Z"
   }
 }
