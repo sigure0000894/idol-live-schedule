@@ -162684,5 +162684,149 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-11-10T21:14:42Z"
+  },
+  "https://livepocket.jp/e/shibuya1121": {
+    "title": "ライブジムEX",
+    "group": "ライブジムEX",
+    "date": "2026-11-21",
+    "venue": "渋谷近未来会館（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/urmcl": {
+    "title": "花と過ごすひととき vol.2「お正月を彩るしめ縄づくり」",
+    "group": "花と過ごすひととき vol.2「お正月を彩るしめ縄づくり」",
+    "date": "2026-12-23",
+    "venue": "ところざわサクラタウン　SAKU-Lab（埼玉県）",
+    "prefecture": "埼玉県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/sifq4": {
+    "title": "【11/30 (月)】『世界一憂鬱なワールドカップへ』刊行記念 スポーツが憂鬱な夜に トークイベント",
+    "group": "鈴木杏 / 藤原章次 / 角田貴広",
+    "date": "2026-11-30",
+    "venue": "青山ブックセンター本店・大教室（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/a7eyp": {
+    "title": "川越にこ 2027年壁掛けカレンダー(秋葉原)",
+    "group": "川越にこ",
+    "date": "2026-12-13",
+    "venue": "書泉ブックタワー（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/reira-last1121": {
+    "title": "ネコプラpixx. 夏音れいら卒業公演",
+    "group": "ネコプラpixx. 夏音れいら卒業公演",
+    "date": "2026-11-21",
+    "venue": "渋谷 近未来会館（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/m41hd": {
+    "title": "北条麻妃デビュー20周年記念写真集　ずっとありがとう　発売記念イベント(秋葉原)",
+    "group": "北条麻妃",
+    "date": "2026-12-04",
+    "venue": "書泉ブックタワー（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/ge8z9": {
+    "title": "12/6(月)　河路生誕前夜祭オフ会&飲み会",
+    "group": "河路由希子 / sherbet / 橋本梨菜 / 青山ひかる",
+    "date": "2026-12-06",
+    "venue": "Shot Bar Chouette 「ショットバーシュエット 新宿歌舞伎町店」（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/8w-w6": {
+    "title": "美園和花2027カレンダー発売記念イベント(秋葉原)",
+    "group": "美園和花",
+    "date": "2026-12-06",
+    "venue": "書泉ブックタワー（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/ccoac": {
+    "title": "花愛しゅり生誕祭",
+    "group": "ジューロック",
+    "date": "2026-11-12",
+    "venue": "伏見ライオンシアター（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/onzo-": {
+    "title": "wonder channel わくわくワンダーランド！　番組公開収録",
+    "group": "wonder channel",
+    "date": "2026-11-12",
+    "venue": "newnスタジオ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/6jsp1": {
+    "title": "ノンストップ",
+    "group": "ノンストップ",
+    "date": "2026-11-12",
+    "venue": "原宿RUIDO（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/ueno1113": {
+    "title": "アイテムはてるてるのみ単独公演〜特攻服編〜",
+    "group": "アイテムはてるてるのみ単独公演〜特攻服編〜",
+    "date": "2026-11-13",
+    "venue": "SPACE UENO（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/1jl74": {
+    "title": "夏音れいら卒業Tシャツ",
+    "group": "夏音れいら卒業Tシャツ",
+    "date": "2026-11-15",
+    "venue": "都内（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/6idqk": {
+    "title": "『点染テンセイ少女。大阪商店街個別オフ会』",
+    "group": "点染テンセイ少女。",
+    "date": "2026-11-15",
+    "venue": "大阪市内(Livepocketのメールにてご連絡いたします。)（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/wuxbp": {
+    "title": "GANGDEMIC 大阪商店街個別オフ会",
+    "group": "GANGDEMIC",
+    "date": "2026-11-15",
+    "venue": "大阪市内(アンケートに記載ございます)（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
+  },
+  "https://livepocket.jp/e/1115_kimihana": {
+    "title": "キミはな単独公演",
+    "group": "キミだけの花言葉",
+    "date": "2026-11-15",
+    "venue": "888-世界イチ推せるハウス-（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-11T04:14:18Z"
   }
 }
