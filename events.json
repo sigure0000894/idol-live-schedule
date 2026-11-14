@@ -170901,5 +170901,113 @@
     "prefecture": "東京都",
     "source": "livepocket（ファン・アイドル）",
     "firstSeen": "2026-11-14T04:36:37Z"
+  },
+  "https://livepocket.jp/e/aoryusai1228": {
+    "title": "【青流祭】",
+    "group": "青の流星群",
+    "date": "2026-12-28",
+    "venue": "新宿ANTIKNOCK（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/streptocarpus": {
+    "title": "ストレプトカーパス",
+    "group": "BACKDAV / ASADLION / ROOOM-601 / シンガロンズ / Neil DiMC / Parallel Frank",
+    "date": "2026-12-16",
+    "venue": "新宿ANTIKNOCK（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/cm1223": {
+    "title": "惡抱味 よふかし晩餐会「惡いお年を。」",
+    "group": "惡抱味",
+    "date": "2026-12-24",
+    "venue": "渋谷ClubMalcolm（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/03_-q": {
+    "title": "goodnight! records presents OGAWAKOICHI BIRTHDAY BUSH 「Songs for a good night」",
+    "group": "おやすみホログラム / カナミル / オガワコウイチ / 宇都宮未来",
+    "date": "2026-12-10",
+    "venue": "新宿MARZ（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/goto2027": {
+    "title": "Pangea ＆ ANIMA大忘年会 「GO TO 2027」",
+    "group": "愛はズボーン / あすなろ白昼夢 / アフターアワーズ / CAT ATE HOTDOGS / grating hunny / ここで生きてるず / コロブチカ / 三四少女 / ザ ニンクス / THE HAMIDA SHE'S / She Side Ship / 空きっ腹に酒 / DENIMS / pachae / FATE BOX / mogari / レトロマイガール!!",
+    "date": "2026-12-30",
+    "venue": "心斎橋Pangea / ANIMA（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/mhn0i": {
+    "title": "【二部】久保田悠来講演会2026",
+    "group": "久保田悠来",
+    "date": "2026-12-13",
+    "venue": "LOFT9 Shibuya（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/5u_kt": {
+    "title": "【一部】久保田悠来講演会2026",
+    "group": "久保田悠来",
+    "date": "2026-12-13",
+    "venue": "LOFT9 Shibuya（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/setagaya_no1_short_xmas": {
+    "title": "世田谷一短いクリスマスパーティー",
+    "group": "やっほー / 虹の黄昏 / Yujiro Ozaki",
+    "date": "2026-12-25",
+    "venue": "下北沢BASEMENTBAR（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://livepocket.jp/e/yo__g": {
+    "title": "TrES First Fanmeeting ‘Time’(2部)",
+    "group": "TrES",
+    "date": "2026-11-18",
+    "venue": "表参道WALL&WALL（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-14T12:56:22Z"
+  },
+  "https://ticketdive.com/event/iii-20261122": {
+    "title": "iii!",
+    "group": "iii!",
+    "date": "2026-11-22",
+    "venue": "立川ステージガーデン",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-11-14T12:56:27Z"
+  },
+  "https://ticketdive.com/event/iLiVE1215": {
+    "title": "iLiVE! TOUR OSAKA",
+    "group": "iLiVE! TOUR OSAKA",
+    "date": "2026-12-15",
+    "venue": "Zepp Osaka Bayside",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-11-14T12:56:27Z"
+  },
+  "https://ticketdive.com/event/iLiVE1208": {
+    "title": "iLiVE! TOUR FUKUOKA",
+    "group": "iLiVE! TOUR FUKUOKA",
+    "date": "2026-12-08",
+    "venue": "Zepp Fukuoka",
+    "prefecture": null,
+    "source": "TicketDive（新着エントリー）",
+    "firstSeen": "2026-11-14T12:56:27Z"
   }
 }
