@@ -174627,5 +174627,23 @@
     "prefecture": null,
     "source": "TicketDive（新着エントリー）",
     "firstSeen": "2026-11-18T19:56:19Z"
+  },
+  "https://livepocket.jp/e/vent_20270115": {
+    "title": "ALDONNA , SOICHI TERADA / MOVE ムーヴ",
+    "group": "ALDONNA / Soichi Terada",
+    "date": "2027-01-15",
+    "venue": "VENT（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-19T02:18:34Z"
+  },
+  "https://livepocket.jp/e/20oq1": {
+    "title": "2026年11月21日(土)Märmiフリーライブ＠広島駅南口地下広場",
+    "group": "Märmi",
+    "date": "2026-11-21",
+    "venue": "広島駅南口地下広場（広島県）",
+    "prefecture": "広島県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-19T02:18:34Z"
   }
 }
