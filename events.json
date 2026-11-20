@@ -175122,5 +175122,86 @@
     "prefecture": "北海道",
     "source": "eplus（アイドル）",
     "firstSeen": "2026-11-19T19:57:06Z"
+  },
+  "https://livepocket.jp/e/es-sn": {
+    "title": "ふれふれフレーバー定期公演Vol.10",
+    "group": "ふれふれフレーバー定期公演Vol.10",
+    "date": "2026-11-25",
+    "venue": "sound space DEEP（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/66gfc": {
+    "title": "桜田華奈生誕祭2026応援プロジェクト",
+    "group": "桜田華奈",
+    "date": "2026-11-20",
+    "venue": "HOLIDAY SHINJUKU（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/sc1_0": {
+    "title": "2026年11月22日(日)Pixel Ribbon＠アリオ八尾 1F 光町スクエア",
+    "group": "Pixel Ribbon",
+    "date": "2026-11-22",
+    "venue": "アリオ八尾 1F 光町スクエア（大阪府）",
+    "prefecture": "大阪府",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/snd_s": {
+    "title": "ブリアナギガンテの「わたくしの4回目を、ささげます。(ファンミーティング)」in名古屋",
+    "group": "ブリアナ・ギガンテ / 枝豆順子(MC)",
+    "date": "2027-01-11",
+    "venue": "メニコン シアターAoi（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/gowt2": {
+    "title": "てるあまカフェvol.12 guest Haruinu クリスマスパーティ",
+    "group": "小塩てる / あまに / Haruinu",
+    "date": "2026-12-26",
+    "venue": "池袋Gallery-O8／OASIS（東京都）",
+    "prefecture": "東京都",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/2hcqd": {
+    "title": "2026年11月21日(土)Switch Drop『はじめまして、10,000人のめろっぷ」フリーライブツアー』＠広島駅南口地下広場",
+    "group": "Switch Drop",
+    "date": "2026-11-21",
+    "venue": "広島駅南口地下広場（広島県）",
+    "prefecture": "広島県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/mini1121": {
+    "title": "アナフェス名古屋mini vol.322 vol.323",
+    "group": "アナフェス名古屋mini vol.322 vol.323",
+    "date": "2026-11-21",
+    "venue": "Lion limited Sakae（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/ba1q4": {
+    "title": "2026年11月22日(日)Märmiフリーライブ＠キャナルシティ博多 B1F サンプラザステージ",
+    "group": "Märmi",
+    "date": "2026-11-22",
+    "venue": "キャナルシティ博多 B1F サンプラザステージ（福岡県）",
+    "prefecture": "福岡県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
+  },
+  "https://livepocket.jp/e/fushimi1122": {
+    "title": "11/22(日)伏見ダイナマイトホール公演",
+    "group": "11/22(日)伏見ダイナマイトホール公演",
+    "date": "2026-11-22",
+    "venue": "伏見ダイナマイトホール（愛知県）",
+    "prefecture": "愛知県",
+    "source": "livepocket（ファン・アイドル）",
+    "firstSeen": "2026-11-20T02:04:28Z"
   }
 }
